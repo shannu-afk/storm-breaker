@@ -108,7 +108,7 @@ Any consent workflow should record entries to a local log file with timestamp, a
 
     @app.route('/api/ip')
     def ip():
-        return jsonify({"ip": "198.51.100.42", "note": "simulated"})
+        return jsonify({"ip": "999.99.999.99", "note": "simulated"})
 
     @app.route('/templates/camera_temp.html')
     def camera_ui():
