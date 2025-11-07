@@ -1,154 +1,174 @@
-# Storm Breaker — Educational Security Lab (SIMULATED)
+# Storm Breaker — Educational / Lab Tool (Python) — CONSENT ONLY
 
-> **IMPORTANT (READ FIRST):**  
-> This repository and README are **only** for educational, defensive, or research purposes inside an isolated, controlled lab environment that you own or explicitly manage.  
-> **Do NOT** attempt to access cameras, microphones, locations, or other private resources on devices you do not own or do not have explicit written permission to test. Misuse may be illegal and unethical.
-
----
-
-## About (SAFE / SIMULATED)
-**Storm Breaker (SIMULATED)** is a training / research project that demonstrates how a web server and local UI can model device permissions and sensor-like endpoints for learning purposes.  
-All endpoints and UI pages in this repo **must** be used with mock or simulated data only. The project is intended to teach:
-
-- server ↔ client interactions,  
-- permission-like prompts and consent logging,  
-- secure coding practices,  
-- how to build defenses and detection for suspicious access patterns.
-
-This README contains **local-only** setup and run instructions. It intentionally does **not** include any instructions to access real remote devices or to expose testing systems to the public internet.
+> **READ THIS FIRST — LEGAL & ETHICAL WARNING**  
+> This repository and instructions are for **educational, defensive, and lab testing** purposes **only**, on machines and networks you own or where you have **explicit, written permission** to test.  
+> **Do NOT** use this tool to access cameras, microphones, locations, or personal data on devices you do not own or do not have clear written consent to test. Misuse may be illegal and unethical.
 
 ---
 
-## What this project contains (simulated)
-- `st.py` or equivalent server script that serves local HTML pages and simulated endpoints.  
-- `templates/` — UI pages (`camera_temp.html`, `mic_temp.html`, `location_temp.html`, `weather_temp.html`) that **render mock data** (simulated images/audio/geo).  
-- `static/` — sample media files used for simulation (placeholder images / sample audio).  
-- `requirements.txt` — Python dependencies (if Python used) OR `package.json` if Node used.  
-- Example logging for consent and activity for defensive analysis.
+## Overview (what this repo contains)
+- `st.py` — Python server script (entrypoint). It starts a local web server and (in lab/simulated mode) serves local pages that model IP/location/media endpoints.  
+- `requirements.txt` — Python dependencies.  
+- `templates/` (optional) — HTML templates (if present) like `camera_temp.html`, `mic_temp.html`, `location_temp.html`, `weather_temp.html`. If templates are not present, `st.py` runs in a default local UI mode or generates the pages dynamically (check script behavior).  
+- `static/` (optional) — placeholder images/audio used for simulation.  
+- This README — local-run instructions and safety guidance.
 
 ---
 
-## Tech stack (example)
-- Python 3.8+ (Flask or simple HTTP server), or Node.js + Express (adjust based on repo code)  
-- HTML/CSS/JS for frontend templates  
-- Local JSON files for simulated data storage  
-- No external services required for local lab
+## Important Safety Rules (MUST READ)
+1. Only run this on systems you own or explicitly control (use a local VM recommended).  
+2. Do NOT expose the server to the public internet unless you have explicit written consent from everyone affected.  
+3. Use only simulated media / placeholder files unless you are testing on a device you own and you understand the privacy/security implications.  
+4. Keep auditable logs of all testing activity and permission records.  
+5. If collaborating, obtain written consent from collaborators and keep records.
 
 ---
 
-## Safety rules (must follow)
-1. **Only run this on systems you control.** Use a VM (VirtualBox/VMware) or an isolated physical machine.  
-2. **Do not** expose the server to the public internet. Do not use port forwarding, NAT traversal, or tunneling tools for testing real devices.  
-3. Use **mock media files** (provided or generated) instead of capturing real camera/mic input.  
-4. Keep logs of tests and obtain written permission for any collaborative lab where multiple people access the environment.  
-5. If you discover a vulnerability in external software, follow responsible disclosure policies.
+## Full copy-ready local install & run (commands)
 
----
+> Run these commands in a local, isolated environment (VM or local machine you own). Replace placeholders as needed. The commands below are exactly what you'd run locally.
 
-## Full copy-ready local setup & run (all commands below are local-only)
+```bash
+# 1) Clone the repository (local-only)
+git clone https://github.com/shannu-afk/storm-breaker.git
+cd storm-breaker
 
-> **Run these commands from your terminal in a safe lab VM or local dev machine you own. Do not forward ports or expose to the internet.**
+# 2) Create and activate a Python virtual environment (Linux / macOS)
+python3 -m venv venv
+source venv/bin/activate
 
-    # 1) Clone the repo (local only)
-    git clone https://github.com/shannu-afk/storm-breaker.git
-    cd storm-breaker
+# 3) Upgrade pip and install Python requirements
+python -m pip install --upgrade pip setuptools wheel
+pip install -r requirements.txt
 
-    # 2) Create and activate a Python virtual environment (Linux / macOS)
-    python3 -m venv venv
-    source venv/bin/activate
+# 4) Inspect repository contents (optional)
+ls -la
+ls -la templates    # check if templates/ exist
+ls -la static       # check if sample media are present
 
-    # 3) Upgrade pip and install Python requirements (if this repository uses Python)
-    python -m pip install --upgrade pip setuptools wheel
-    pip install -r requirements.txt
+# 5) Run the Python entrypoint (st.py)
+#    The script will start a local server and print the local port it is using (e.g., 2525).
+python3 st.py
 
-    # 4) (If the repo uses Node for server) Alternatively install Node deps
-    # npm install
-    # or
-    # yarn
+# 6) Open the UI in a browser on the same machine (local-only)
+#    Example (replace port if different):
+#      http://localhost:2525/templates/camera_temp.html
+#      http://localhost:2525/templates/location_temp.html
+#      http://localhost:2525/templates/mic_temp.html
 
-    # 5) Confirm templates and simulated media exist
-    # (Example: make sure templates/camera_temp.html and static/sample.jpg are present)
-    ls -la templates
-    ls -la static
+# 7) If you intentionally and lawfully need remote access for legitimate collaboration,
+#    you may use a tunneling tool like ngrok — BUT ONLY WITH WRITTEN CONSENT FROM ALL PARTIES.
+#    The commands below show how to install ngrok and start an http tunnel locally.
+#    (Do NOT publish or distribute public links unless you have explicit permission.)
 
-    # 6) Run the server locally (example Python entrypoint - adjust to your script)
-    # This must run only locally inside your VM or controlled machine.
-    python3 st.py
+# Install ngrok (Linux / Debian-based example)
+curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null
+echo "deb https://ngrok-agent.s3.amazonaws.com buster main" | sudo tee /etc/apt/sources.list.d/ngrok.list
+sudo apt update && sudo apt install ngrok
 
-    # 7) Open the UI on the same machine's browser:
-    # Visit (example):
-    #   http://localhost:2525/templates/camera_temp.html
-    #   http://localhost:2525/templates/location_temp.html
-    #   http://localhost:2525/templates/mic_temp.html
-    # NOTE: These templates must use simulated media; do NOT plug into real device capture in this lab.
+# Start an ngrok tunnel for the printed port (replace <PORT> with the port shown by st.py)
+ngrok http <PORT>
 
-    # 8) Stopping the server
-    # Press Ctrl+C in the terminal where the server runs.
+# ngrok will display a Forwarding URL (https://abcd1234.ngrok.io).
+# Use that URL ONLY for authorized, consensual testing and only while all participants have been informed.
 
-    # 9) Deactivate the virtual environment when done
-    deactivate
+# 8) When finished, stop the server (press Ctrl+C) and deactivate venv
+deactivate
+##############################
+# PORT FORWARDING (COPY-ONLY)
+# IMPORTANT: ONLY use these commands in a lawful, consensual, and controlled environment.
+# Do NOT expose devices you do not own or do not have explicit written permission to test.
+##############################
 
----
+# -----------------------------
+# 1) Install ngrok (Debian/Ubuntu example)
+# -----------------------------
+# Add ngrok apt repo and install (run as a user with sudo)
+curl -s https://ngrok-agent.s3.amazonaws.com/ngrok.asc | sudo tee /etc/apt/trusted.gpg.d/ngrok.asc >/dev/null
+echo "deb https://ngrok-agent.s3.amazonaws.com buster main" | sudo tee /etc/apt/sources.list.d/ngrok.list
+sudo apt update && sudo apt install -y ngrok
 
-## How simulation is implemented (developer notes)
+# -----------------------------
+# 2) Authenticate ngrok (replace <YOUR_NGROK_AUTHTOKEN> with your ngrok authtoken)
+# -----------------------------
+# Get your authtoken from https://dashboard.ngrok.com/get-started/your-authtoken
+ngrok authtoken <YOUR_NGROK_AUTHTOKEN>
 
-Templates (`templates/*.html`) should use local sample files under `static/` (images/audio/json). They should never request real device permissions (no `getUserMedia()` calls that access physical hardware unless you explicitly want to test local device prompts on *your own* machine).
+# -----------------------------
+# 3) Start an HTTP tunnel to a local port (replace <PORT> with the port printed by st.py)
+# -----------------------------
+# Example: if st.py shows port 2525
+ngrok http 2525
 
-Server endpoints (e.g., `/api/ip`, `/api/location`, `/api/camera`) should return mock JSON or pre-recorded media — e.g., `{"ip": "999.99.99.99"}` or `static/sample_image.jpg`.
+# Optional: run in the background (Linux)
+# 1) start ngrok in a detached tmux or nohup
+nohup ngrok http 2525 &>/dev/null &
 
-Any consent workflow should record entries to a local log file with timestamp, action, and a clear consent flag.
+# 2) or use systemd service (example unit) to run ngrok persistently:
+# Create /etc/systemd/system/ngrok.service with appropriate privileges and your authtoken configured.
+# Example systemd unit (create/edit with sudo privileges):
+# -------------------
+# [Unit]
+# Description=ngrok tunnel
+# After=network.target
+#
+# [Service]
+# ExecStart=/usr/bin/ngrok http 2525
+# Restart=on-failure
+# User=yourusername
+#
+# [Install]
+# WantedBy=multi-user.target
+# -------------------
+# Then:
+# sudo systemctl daemon-reload
+# sudo systemctl enable --now ngrok.service
 
----
+# -----------------------------
+# 4) SSH reverse tunnel (alternative to ngrok) — only if you control the remote server
+# -----------------------------
+# This requires a remote server with a public IP and an SSH account (user@remote.example.com).
+# The remote server must permit GatewayPorts or allow remote forwarding.
+# Forward remote port 8080 to local 2525:
+ssh -R 8080:localhost:2525 user@remote.example.com
+# Then users can access http://remote.example.com:8080 (if firewall allows).
+# WARNING: Only use this with servers you own/control and with proper firewall rules.
 
-## Example: safe mock endpoint (Flask illustrative example)
+# -----------------------------
+# 5) Example: how to map ngrok forwarding URL to local template paths
+# -----------------------------
+# After ngrok http 2525 runs, ngrok prints Forwarding URLs e.g.:
+# Forwarding  http://abcd1234.ngrok.io  -> http://localhost:2525
+# To access camera template via ngrok:
+# https://abcd1234.ngrok.io/templates/camera_temp.html
 
-    # (Flask example)
-    from flask import Flask, send_from_directory, jsonify
-    app = Flask(__name__)
+# -----------------------------
+# 6) Stopping ngrok or SSH tunnel
+# -----------------------------
+# If started in foreground: Ctrl+C
+# If started with nohup: find PID and kill
+ps aux | grep ngrok
+kill <NGROK_PID>
 
-    @app.route('/api/ip')
-    def ip():
-        return jsonify({"ip": "999.99.999.99", "note": "simulated"})
+# For ssh tunnels, Ctrl+C in the ssh session will close the tunnel.
 
-    @app.route('/templates/camera_temp.html')
-    def camera_ui():
-        return send_from_directory('templates', 'camera_temp.html')
+# -----------------------------
+# 7) Security & logging recommendations
+# -----------------------------
+# - Use ngrok authtoken and enable password or basic auth on any sensitive pages.
+# - Do not share ngrok URLs publicly; share only with explicitly authorized collaborators.
+# - Keep an audit log of who accessed the tunnel and when.
+# - Use HTTPS forwarding URLs (ngrok provides https) and restrict routes behind simple auth if needed.
 
-    # serve static simulated file
-    @app.route('/static/<path:fn>')
-    def static_files(fn):
-        return send_from_directory('static', fn)
-
----
-
-## Logging & consent example (required)
-- Save consent records to `logs/consent.log` with format:
-  
-      2025-11-06T12:00:00Z | user: test | action: view_camera_template | consent: true
-
-- Use logs for audit, teach how to detect suspicious access patterns.
-
----
-
-## Testing exercises (safe)
-1. Build a VM network containing two VMs: "attacker-sim" and "target-sim". Both are owned by you. Use the tools to simulate the attacker requesting simulated resources from target-sim. Analyze logs.  
-2. Implement rate-limiting on endpoints and test how many requests trigger alerts.  
-3. Replace mock images/audio with deliberately tampered files to study integrity checks.  
-4. Practice writing a responsible disclosure report for a simulated flaw you find in your own lab.
-
----
-
-## Contributing (safe changes)
-- Submit PRs that **improve safety**, add defensive features, or replace any real-device access with simulated content.  
-- Any code that enables access to real remote devices without consent will be rejected.
-
----
-
-## License & Contact
-- License: choose an appropriate open-source license (e.g., MIT) and clearly state that the project is for **educational/simulated use only**.  
-- Author / Maintainer: Kodali Shanmukh Chowdary — use repo Issues for contact about safe research.
-
----
-
-## Final reminder (cannot be overstated)
-This repository is for simulations only. **Do not** use it to access other people’s devices or private data. If you need help converting parts of the repo to purely simulated implementations (e.g., swapping live capture for placeholder files), I can provide exact code snippets — but I will **not** provide instructions or code that enable non-consensual spying or intrusion.
+# -----------------------------
+# CONTACT / CREDENTIALS 
+# -----------------------------
+# Name: K.Shanmukh
+# NOTE: Do NOT paste credentials or secrets in public repos. Share credentials only via secure, private channels.
+# Mail me for login credentials
+# -----------------------------
+# FINAL REMINDER
+# -----------------------------
+# These commands are provided for lawful, consented testing in isolated environments (VMs or lab networks).
+# Misuse to access others' devices or private data is illegal and unethical. You are responsible for ensuring permission.
+# -----------------------------
