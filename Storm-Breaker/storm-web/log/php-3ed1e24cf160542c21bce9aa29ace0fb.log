@@ -1,0 +1,1384 @@
+[Wed Sep 18 10:58:11 2024] PHP 8.2.21 Development Server (http://localhost:2525) started
+[Wed Sep 18 10:58:55 2024] [::1]:33032 Accepted
+[Wed Sep 18 10:58:55 2024] [::1]:33032 [302]: GET /
+[Wed Sep 18 10:58:55 2024] [::1]:33032 Closing
+[Wed Sep 18 10:58:55 2024] [::1]:33046 Accepted
+[Wed Sep 18 10:58:55 2024] [::1]:33046 [200]: GET /login.php
+[Wed Sep 18 10:58:55 2024] [::1]:33046 Closing
+[Wed Sep 18 10:58:56 2024] [::1]:33052 Accepted
+[Wed Sep 18 10:58:56 2024] [::1]:33052 [200]: GET /assets/css/bootstrap.min.css
+[Wed Sep 18 10:58:56 2024] [::1]:33052 Closing
+[Wed Sep 18 10:58:56 2024] [::1]:33062 Accepted
+[Wed Sep 18 10:58:56 2024] [::1]:33062 [200]: GET /assets/css/style.css
+[Wed Sep 18 10:58:56 2024] [::1]:33062 Closing
+[Wed Sep 18 10:58:56 2024] [::1]:57136 Accepted
+[Wed Sep 18 10:58:56 2024] [::1]:57136 [404]: GET /favicon.ico - No such file or directory
+[Wed Sep 18 10:58:56 2024] [::1]:57136 Closing
+[Wed Sep 18 10:59:09 2024] [::1]:43986 Accepted
+[Wed Sep 18 10:59:09 2024] [::1]:43986 [200]: POST /login.php
+[Wed Sep 18 10:59:09 2024] [::1]:43986 Closing
+[Wed Sep 18 10:59:09 2024] [::1]:44002 Accepted
+[Wed Sep 18 10:59:09 2024] [::1]:44002 [200]: GET /assets/css/bootstrap.min.css
+[Wed Sep 18 10:59:09 2024] [::1]:44002 Closing
+[Wed Sep 18 10:59:09 2024] [::1]:44012 Accepted
+[Wed Sep 18 10:59:09 2024] [::1]:44012 [200]: GET /assets/css/style.css
+[Wed Sep 18 10:59:09 2024] [::1]:44012 Closing
+[Wed Sep 18 10:59:12 2024] [::1]:44024 Accepted
+[Wed Sep 18 10:59:12 2024] [::1]:44024 [200]: GET /panel.php
+[Wed Sep 18 10:59:12 2024] [::1]:44024 Closing
+[Wed Sep 18 10:59:13 2024] [::1]:44034 Accepted
+[Wed Sep 18 10:59:13 2024] [::1]:44050 Accepted
+[Wed Sep 18 10:59:13 2024] [::1]:44050 [200]: GET /assets/css/bootstrap.min.css
+[Wed Sep 18 10:59:13 2024] [::1]:44050 Closing
+[Wed Sep 18 10:59:13 2024] [::1]:44060 Accepted
+[Wed Sep 18 10:59:13 2024] [::1]:44034 [200]: GET /assets/css/light-theme.min.css
+[Wed Sep 18 10:59:13 2024] [::1]:44064 Accepted
+[Wed Sep 18 10:59:13 2024] [::1]:44060 [200]: GET /assets/js/jquery.min.js
+[Wed Sep 18 10:59:13 2024] [::1]:44078 Accepted
+[Wed Sep 18 10:59:13 2024] [::1]:44064 [200]: GET /assets/js/script.js
+[Wed Sep 18 10:59:13 2024] [::1]:44084 Accepted
+[Wed Sep 18 10:59:13 2024] [::1]:44034 Closing
+[Wed Sep 18 10:59:13 2024] [::1]:44078 [200]: GET /assets/js/growl-notification.min.js
+[Wed Sep 18 10:59:13 2024] [::1]:44060 Closing
+[Wed Sep 18 10:59:13 2024] [::1]:44084 [200]: GET /assets/js/sweetalert2.min.js
+[Wed Sep 18 10:59:13 2024] [::1]:44064 Closing
+[Wed Sep 18 10:59:13 2024] [::1]:44078 Closing
+[Wed Sep 18 10:59:13 2024] [::1]:44084 Closing
+[Wed Sep 18 10:59:19 2024] [::1]:45664 Accepted
+[Wed Sep 18 10:59:19 2024] [::1]:45664 [200]: POST /list_templates.php
+[Wed Sep 18 10:59:19 2024] [::1]:45664 Closing
+[Wed Sep 18 10:59:19 2024] [::1]:45676 Accepted
+[Wed Sep 18 10:59:19 2024] [::1]:45676 [200]: GET /Settings.json
+[Wed Sep 18 10:59:19 2024] [::1]:45676 Closing
+[Wed Sep 18 10:59:22 2024] [::1]:45682 Accepted
+[Wed Sep 18 10:59:22 2024] [::1]:45682 [200]: POST /receiver.php
+[Wed Sep 18 10:59:22 2024] [::1]:45682 Closing
+[Wed Sep 18 10:59:24 2024] [::1]:45696 Accepted
+[Wed Sep 18 10:59:24 2024] [::1]:45696 [200]: POST /receiver.php
+[Wed Sep 18 10:59:24 2024] [::1]:45696 Closing
+[Wed Sep 18 10:59:26 2024] [::1]:38160 Accepted
+[Wed Sep 18 10:59:26 2024] [::1]:38160 [200]: POST /receiver.php
+[Wed Sep 18 10:59:26 2024] [::1]:38160 Closing
+[Wed Sep 18 10:59:28 2024] [::1]:38176 Accepted
+[Wed Sep 18 10:59:28 2024] [::1]:38176 [200]: POST /receiver.php
+[Wed Sep 18 10:59:28 2024] [::1]:38176 Closing
+[Wed Sep 18 10:59:30 2024] [::1]:38192 Accepted
+[Wed Sep 18 10:59:30 2024] [::1]:38192 [200]: POST /receiver.php
+[Wed Sep 18 10:59:30 2024] [::1]:38192 Closing
+[Wed Sep 18 10:59:32 2024] [::1]:38204 Accepted
+[Wed Sep 18 10:59:32 2024] [::1]:38204 [200]: POST /receiver.php
+[Wed Sep 18 10:59:32 2024] [::1]:38204 Closing
+[Wed Sep 18 10:59:34 2024] [::1]:38216 Accepted
+[Wed Sep 18 10:59:34 2024] [::1]:38216 [200]: POST /receiver.php
+[Wed Sep 18 10:59:34 2024] [::1]:38216 Closing
+[Wed Sep 18 10:59:36 2024] [::1]:44046 Accepted
+[Wed Sep 18 10:59:36 2024] [::1]:44046 [200]: POST /receiver.php
+[Wed Sep 18 10:59:36 2024] [::1]:44046 Closing
+[Wed Sep 18 10:59:38 2024] [::1]:44054 Accepted
+[Wed Sep 18 10:59:38 2024] [::1]:44054 [200]: POST /receiver.php
+[Wed Sep 18 10:59:38 2024] [::1]:44054 Closing
+[Wed Sep 18 10:59:40 2024] [::1]:44058 Accepted
+[Wed Sep 18 10:59:40 2024] [::1]:44058 [200]: POST /receiver.php
+[Wed Sep 18 10:59:40 2024] [::1]:44058 Closing
+[Wed Sep 18 10:59:42 2024] [::1]:44074 Accepted
+[Wed Sep 18 10:59:42 2024] [::1]:44074 [200]: POST /receiver.php
+[Wed Sep 18 10:59:42 2024] [::1]:44074 Closing
+[Wed Sep 18 10:59:44 2024] [::1]:44080 Accepted
+[Wed Sep 18 10:59:44 2024] [::1]:44080 [200]: POST /receiver.php
+[Wed Sep 18 10:59:44 2024] [::1]:44080 Closing
+[Wed Sep 18 10:59:46 2024] [::1]:59500 Accepted
+[Wed Sep 18 10:59:46 2024] [::1]:59500 [200]: POST /receiver.php
+[Wed Sep 18 10:59:46 2024] [::1]:59500 Closing
+[Wed Sep 18 10:59:48 2024] [::1]:59502 Accepted
+[Wed Sep 18 10:59:48 2024] [::1]:59502 [200]: POST /receiver.php
+[Wed Sep 18 10:59:48 2024] [::1]:59502 Closing
+[Wed Sep 18 10:59:50 2024] [::1]:59506 Accepted
+[Wed Sep 18 10:59:50 2024] [::1]:59506 [200]: POST /receiver.php
+[Wed Sep 18 10:59:50 2024] [::1]:59506 Closing
+[Wed Sep 18 10:59:52 2024] [::1]:59508 Accepted
+[Wed Sep 18 10:59:52 2024] [::1]:59508 [200]: POST /receiver.php
+[Wed Sep 18 10:59:52 2024] [::1]:59508 Closing
+[Wed Sep 18 10:59:54 2024] [::1]:59514 Accepted
+[Wed Sep 18 10:59:54 2024] [::1]:59514 [200]: POST /receiver.php
+[Wed Sep 18 10:59:54 2024] [::1]:59514 Closing
+[Wed Sep 18 10:59:56 2024] [::1]:34766 Accepted
+[Wed Sep 18 10:59:56 2024] [::1]:34766 [200]: POST /receiver.php
+[Wed Sep 18 10:59:56 2024] [::1]:34766 Closing
+[Wed Sep 18 10:59:58 2024] [::1]:34768 Accepted
+[Wed Sep 18 10:59:58 2024] [::1]:34768 [200]: POST /receiver.php
+[Wed Sep 18 10:59:58 2024] [::1]:34768 Closing
+[Wed Sep 18 11:00:00 2024] [::1]:34770 Accepted
+[Wed Sep 18 11:00:00 2024] [::1]:34770 [200]: POST /receiver.php
+[Wed Sep 18 11:00:00 2024] [::1]:34770 Closing
+[Wed Sep 18 11:00:02 2024] [::1]:34786 Accepted
+[Wed Sep 18 11:00:02 2024] [::1]:34786 [200]: POST /receiver.php
+[Wed Sep 18 11:00:02 2024] [::1]:34786 Closing
+[Wed Sep 18 11:00:04 2024] [::1]:34800 Accepted
+[Wed Sep 18 11:00:04 2024] [::1]:34800 [200]: POST /receiver.php
+[Wed Sep 18 11:00:04 2024] [::1]:34800 Closing
+[Wed Sep 18 11:00:06 2024] [::1]:40458 Accepted
+[Wed Sep 18 11:00:06 2024] [::1]:40458 [200]: POST /receiver.php
+[Wed Sep 18 11:00:06 2024] [::1]:40458 Closing
+[Wed Sep 18 11:00:08 2024] [::1]:40474 Accepted
+[Wed Sep 18 11:00:08 2024] [::1]:40474 [200]: POST /receiver.php
+[Wed Sep 18 11:00:08 2024] [::1]:40474 Closing
+[Wed Sep 18 11:00:10 2024] [::1]:40488 Accepted
+[Wed Sep 18 11:00:10 2024] [::1]:40488 [200]: POST /receiver.php
+[Wed Sep 18 11:00:10 2024] [::1]:40488 Closing
+[Wed Sep 18 11:00:12 2024] [::1]:40502 Accepted
+[Wed Sep 18 11:00:12 2024] [::1]:40502 [200]: POST /receiver.php
+[Wed Sep 18 11:00:12 2024] [::1]:40502 Closing
+[Wed Sep 18 11:00:13 2024] [::1]:40518 Accepted
+[Wed Sep 18 11:00:13 2024] [::1]:40518 [302]: GET /
+[Wed Sep 18 11:00:13 2024] [::1]:40518 Closing
+[Wed Sep 18 11:00:14 2024] [::1]:40524 Accepted
+[Wed Sep 18 11:00:14 2024] [::1]:40524 [200]: GET /login.php
+[Wed Sep 18 11:00:14 2024] [::1]:40524 Closing
+[Wed Sep 18 11:00:14 2024] [::1]:40538 Accepted
+[Wed Sep 18 11:00:14 2024] [::1]:40538 [200]: POST /receiver.php
+[Wed Sep 18 11:00:14 2024] [::1]:40538 Closing
+[Wed Sep 18 11:00:17 2024] [::1]:53792 Accepted
+[Wed Sep 18 11:00:17 2024] [::1]:53792 [200]: POST /receiver.php
+[Wed Sep 18 11:00:17 2024] [::1]:53792 Closing
+[Wed Sep 18 11:00:19 2024] [::1]:53808 Accepted
+[Wed Sep 18 11:00:19 2024] [::1]:53808 [302]: GET /te
+[Wed Sep 18 11:00:19 2024] [::1]:53808 Closing
+[Wed Sep 18 11:00:19 2024] [::1]:53822 Accepted
+[Wed Sep 18 11:00:19 2024] [::1]:53838 Accepted
+[Wed Sep 18 11:00:19 2024] [::1]:53822 [302]: GET /tem
+[Wed Sep 18 11:00:19 2024] [::1]:53822 Closing
+[Wed Sep 18 11:00:19 2024] [::1]:53838 [302]: GET /temp
+[Wed Sep 18 11:00:19 2024] [::1]:53838 Closing
+[Wed Sep 18 11:00:19 2024] [::1]:53846 Accepted
+[Wed Sep 18 11:00:19 2024] [::1]:53846 [302]: GET /templ
+[Wed Sep 18 11:00:19 2024] [::1]:53846 Closing
+[Wed Sep 18 11:00:21 2024] [::1]:53854 Accepted
+[Wed Sep 18 11:00:21 2024] [::1]:53868 Accepted
+[Wed Sep 18 11:00:21 2024] [::1]:53854 [302]: GET /templa
+[Wed Sep 18 11:00:21 2024] [::1]:53854 Closing
+[Wed Sep 18 11:00:21 2024] [::1]:53868 [200]: POST /receiver.php
+[Wed Sep 18 11:00:21 2024] [::1]:53868 Closing
+[Wed Sep 18 11:00:21 2024] [::1]:53880 Accepted
+[Wed Sep 18 11:00:21 2024] [::1]:53882 Accepted
+[Wed Sep 18 11:00:21 2024] [::1]:53880 [200]: GET /login.php
+[Wed Sep 18 11:00:21 2024] [::1]:53880 Closing
+[Wed Sep 18 11:00:21 2024] [::1]:53890 Accepted
+[Wed Sep 18 11:00:21 2024] [::1]:53882 [302]: GET /template
+[Wed Sep 18 11:00:21 2024] [::1]:53882 Closing
+[Wed Sep 18 11:00:21 2024] [::1]:53892 Accepted
+[Wed Sep 18 11:00:21 2024] [::1]:53890 [200]: GET /login.php
+[Wed Sep 18 11:00:21 2024] [::1]:53890 Closing
+[Wed Sep 18 11:00:21 2024] [::1]:53892 [302]: GET /templat
+[Wed Sep 18 11:00:21 2024] [::1]:53892 Closing
+[Wed Sep 18 11:00:21 2024] [::1]:53902 Accepted
+[Wed Sep 18 11:00:21 2024] [::1]:53908 Accepted
+[Wed Sep 18 11:00:21 2024] [::1]:53908 [200]: GET /login.php
+[Wed Sep 18 11:00:21 2024] [::1]:53908 Closing
+[Wed Sep 18 11:00:21 2024] [::1]:53902 [404]: GET /templates - No such file or directory
+[Wed Sep 18 11:00:21 2024] [::1]:53902 Closing
+[Wed Sep 18 11:00:22 2024] [::1]:53914 Accepted
+[Wed Sep 18 11:00:22 2024] [::1]:53928 Accepted
+[Wed Sep 18 11:00:22 2024] [::1]:53928 [200]: POST /receiver.php
+[Wed Sep 18 11:00:22 2024] [::1]:53928 Closing
+[Wed Sep 18 11:00:22 2024] [::1]:53914 [200]: GET /login.php
+[Wed Sep 18 11:00:22 2024] [::1]:53914 Closing
+[Wed Sep 18 11:00:22 2024] [::1]:53932 Accepted
+[Wed Sep 18 11:00:22 2024] [::1]:53940 Accepted
+[Wed Sep 18 11:00:22 2024] [::1]:53932 [200]: GET /login.php
+[Wed Sep 18 11:00:22 2024] [::1]:53932 Closing
+[Wed Sep 18 11:00:22 2024] [::1]:53940 [200]: POST /receiver.php
+[Wed Sep 18 11:00:22 2024] [::1]:53940 Closing
+[Wed Sep 18 11:00:23 2024] [::1]:53956 Accepted
+[Wed Sep 18 11:00:23 2024] [::1]:53956 [404]: GET /templates/ne - No such file or directory
+[Wed Sep 18 11:00:23 2024] [::1]:53956 Closing
+[Wed Sep 18 11:00:23 2024] [::1]:53972 Accepted
+[Wed Sep 18 11:00:23 2024] [::1]:53972 [200]: GET /login.php
+[Wed Sep 18 11:00:23 2024] [::1]:53972 Closing
+[Wed Sep 18 11:00:24 2024] [::1]:53974 Accepted
+[Wed Sep 18 11:00:24 2024] [::1]:53986 Accepted
+[Wed Sep 18 11:00:24 2024] [::1]:53974 [404]: GET /templates/near - No such file or directory
+[Wed Sep 18 11:00:24 2024] [::1]:54000 Accepted
+[Wed Sep 18 11:00:24 2024] [::1]:53974 Closing
+[Wed Sep 18 11:00:24 2024] [::1]:53986 [200]: GET /login.php
+[Wed Sep 18 11:00:24 2024] [::1]:53986 Closing
+[Wed Sep 18 11:00:24 2024] [::1]:54000 [404]: GET /templates/nea - No such file or directory
+[Wed Sep 18 11:00:24 2024] [::1]:54000 Closing
+[Wed Sep 18 11:00:24 2024] [::1]:54010 Accepted
+[Wed Sep 18 11:00:24 2024] [::1]:54024 Accepted
+[Wed Sep 18 11:00:24 2024] [::1]:54010 [404]: GET /templates/nearme - No such file or directory
+[Wed Sep 18 11:00:24 2024] [::1]:54010 Closing
+[Wed Sep 18 11:00:24 2024] [::1]:54024 [404]: GET /templates/nearm - No such file or directory
+[Wed Sep 18 11:00:24 2024] [::1]:54024 Closing
+[Wed Sep 18 11:00:24 2024] [::1]:54028 Accepted
+[Wed Sep 18 11:00:24 2024] [::1]:54028 [200]: POST /receiver.php
+[Wed Sep 18 11:00:24 2024] [::1]:54028 Closing
+[Wed Sep 18 11:00:26 2024] [::1]:37706 Accepted
+[Wed Sep 18 11:00:26 2024] [::1]:37706 [404]: GET /templates/neary - No such file or directory
+[Wed Sep 18 11:00:26 2024] [::1]:37706 Closing
+[Wed Sep 18 11:00:26 2024] [::1]:37722 Accepted
+[Wed Sep 18 11:00:26 2024] [::1]:37722 [200]: POST /receiver.php
+[Wed Sep 18 11:00:26 2024] [::1]:37722 Closing
+[Wed Sep 18 11:00:27 2024] [::1]:37732 Accepted
+[Wed Sep 18 11:00:27 2024] [::1]:37732 [404]: GET /templates/nearyo - No such file or directory
+[Wed Sep 18 11:00:27 2024] [::1]:37732 Closing
+[Wed Sep 18 11:00:27 2024] [::1]:37746 Accepted
+[Wed Sep 18 11:00:27 2024] [::1]:37746 [200]: GET /templates/nearyou
+[Wed Sep 18 11:00:27 2024] [::1]:37746 Closing
+[Wed Sep 18 11:00:32 2024] [::1]:37750 Accepted
+[Wed Sep 18 11:00:32 2024] [::1]:37750 [200]: POST /receiver.php
+[Wed Sep 18 11:00:32 2024] [::1]:37750 Closing
+[Wed Sep 18 11:00:32 2024] [::1]:37764 Accepted
+[Wed Sep 18 11:00:32 2024] [::1]:37764 [200]: POST /receiver.php
+[Wed Sep 18 11:00:32 2024] [::1]:37764 Closing
+[Wed Sep 18 11:00:35 2024] [::1]:37778 Accepted
+[Wed Sep 18 11:00:35 2024] [::1]:37790 Accepted
+[Wed Sep 18 11:00:35 2024] [::1]:37778 [200]: GET /templates/nearyou/ind
+[Wed Sep 18 11:00:35 2024] [::1]:37790 [200]: GET /templates/nearyou/in
+[Wed Sep 18 11:00:35 2024] [::1]:37778 Closing
+[Wed Sep 18 11:00:35 2024] [::1]:37790 Closing
+[Wed Sep 18 11:00:35 2024] [::1]:37800 Accepted
+[Wed Sep 18 11:00:35 2024] [::1]:37800 [200]: GET /templates/nearyou/inde
+[Wed Sep 18 11:00:35 2024] [::1]:37800 Closing
+[Wed Sep 18 11:00:35 2024] [::1]:37814 Accepted
+[Wed Sep 18 11:00:35 2024] [::1]:37826 Accepted
+[Wed Sep 18 11:00:35 2024] [::1]:37836 Accepted
+[Wed Sep 18 11:00:35 2024] [::1]:37814 [200]: POST /receiver.php
+[Wed Sep 18 11:00:35 2024] [::1]:37814 Closing
+[Wed Sep 18 11:00:35 2024] [::1]:37826 [200]: GET /templates/nearyou/index
+[Wed Sep 18 11:00:35 2024] [::1]:37836 [200]: POST /receiver.php
+[Wed Sep 18 11:00:35 2024] [::1]:37836 Closing
+[Wed Sep 18 11:00:35 2024] [::1]:37826 Closing
+[Wed Sep 18 11:00:36 2024] [::1]:46354 Accepted
+[Wed Sep 18 11:00:36 2024] [::1]:46354 [200]: POST /receiver.php
+[Wed Sep 18 11:00:36 2024] [::1]:46354 Closing
+[Wed Sep 18 11:00:36 2024] [::1]:46370 Accepted
+[Wed Sep 18 11:00:36 2024] [::1]:46370 [404]: GET /templates/nearyou/index.h - No such file or directory
+[Wed Sep 18 11:00:36 2024] [::1]:46370 Closing
+[Wed Sep 18 11:00:37 2024] [::1]:46372 Accepted
+[Wed Sep 18 11:00:37 2024] [::1]:46372 [404]: GET /templates/nearyou/index.ht - No such file or directory
+[Wed Sep 18 11:00:37 2024] [::1]:46372 Closing
+[Wed Sep 18 11:00:37 2024] [::1]:46376 Accepted
+[Wed Sep 18 11:00:37 2024] [::1]:46376 [404]: GET /templates/nearyou/index.htm - No such file or directory
+[Wed Sep 18 11:00:37 2024] [::1]:46376 Closing
+[Wed Sep 18 11:00:37 2024] [::1]:46390 Accepted
+[Wed Sep 18 11:00:37 2024] [::1]:46390 [200]: GET /templates/nearyou/index.html
+[Wed Sep 18 11:00:37 2024] [::1]:46390 Closing
+[Wed Sep 18 11:00:38 2024] [::1]:46402 Accepted
+[Wed Sep 18 11:00:38 2024] [::1]:46402 [200]: POST /receiver.php
+[Wed Sep 18 11:00:38 2024] [::1]:46402 Closing
+[Wed Sep 18 11:00:40 2024] [::1]:46414 Accepted
+[Wed Sep 18 11:00:40 2024] [::1]:46414 [200]: POST /receiver.php
+[Wed Sep 18 11:00:40 2024] [::1]:46414 Closing
+[Wed Sep 18 11:00:43 2024] [::1]:46428 Accepted
+[Wed Sep 18 11:00:43 2024] [::1]:46428 [200]: POST /receiver.php
+[Wed Sep 18 11:00:43 2024] [::1]:46428 Closing
+[Wed Sep 18 11:00:44 2024] [::1]:46436 Accepted
+[Wed Sep 18 11:00:44 2024] [::1]:46436 [200]: POST /receiver.php
+[Wed Sep 18 11:00:44 2024] [::1]:46436 Closing
+[Wed Sep 18 11:00:46 2024] [::1]:43956 Accepted
+[Wed Sep 18 11:00:46 2024] [::1]:43956 [200]: POST /receiver.php
+[Wed Sep 18 11:00:46 2024] [::1]:43956 Closing
+[Wed Sep 18 11:00:48 2024] [::1]:43970 Accepted
+[Wed Sep 18 11:00:48 2024] [::1]:43970 [200]: POST /receiver.php
+[Wed Sep 18 11:00:48 2024] [::1]:43970 Closing
+[Wed Sep 18 11:00:50 2024] [::1]:43986 Accepted
+[Wed Sep 18 11:00:50 2024] [::1]:43986 [200]: POST /receiver.php
+[Wed Sep 18 11:00:50 2024] [::1]:43986 Closing
+[Wed Sep 18 11:00:52 2024] [::1]:44002 Accepted
+[Wed Sep 18 11:00:52 2024] [::1]:44002 [200]: POST /receiver.php
+[Wed Sep 18 11:00:52 2024] [::1]:44002 Closing
+[Wed Sep 18 11:00:54 2024] [::1]:44018 Accepted
+[Wed Sep 18 11:00:54 2024] [::1]:44018 [200]: POST /receiver.php
+[Wed Sep 18 11:00:54 2024] [::1]:44018 Closing
+[Wed Sep 18 11:00:56 2024] [::1]:40672 Accepted
+[Wed Sep 18 11:00:56 2024] [::1]:40672 [200]: POST /receiver.php
+[Wed Sep 18 11:00:56 2024] [::1]:40672 Closing
+[Wed Sep 18 11:00:58 2024] [::1]:40676 Accepted
+[Wed Sep 18 11:00:58 2024] [::1]:40676 [200]: POST /receiver.php
+[Wed Sep 18 11:00:58 2024] [::1]:40676 Closing
+[Wed Sep 18 11:01:00 2024] [::1]:40684 Accepted
+[Wed Sep 18 11:01:00 2024] [::1]:40684 [200]: POST /receiver.php
+[Wed Sep 18 11:01:00 2024] [::1]:40684 Closing
+[Wed Sep 18 11:01:02 2024] [::1]:40688 Accepted
+[Wed Sep 18 11:01:02 2024] [::1]:40688 [200]: POST /receiver.php
+[Wed Sep 18 11:01:02 2024] [::1]:40688 Closing
+[Wed Sep 18 11:01:04 2024] [::1]:40696 Accepted
+[Wed Sep 18 11:01:04 2024] [::1]:40696 [200]: POST /receiver.php
+[Wed Sep 18 11:01:04 2024] [::1]:40696 Closing
+[Wed Sep 18 11:01:06 2024] [::1]:56774 Accepted
+[Wed Sep 18 11:01:06 2024] [::1]:56774 [200]: POST /receiver.php
+[Wed Sep 18 11:01:06 2024] [::1]:56774 Closing
+[Wed Sep 18 11:01:08 2024] [::1]:56784 Accepted
+[Wed Sep 18 11:01:08 2024] [::1]:56784 [200]: POST /receiver.php
+[Wed Sep 18 11:01:08 2024] [::1]:56784 Closing
+[Wed Sep 18 11:01:10 2024] [::1]:56788 Accepted
+[Wed Sep 18 11:01:10 2024] [::1]:56788 [200]: POST /receiver.php
+[Wed Sep 18 11:01:10 2024] [::1]:56788 Closing
+[Wed Sep 18 11:01:12 2024] [::1]:56790 Accepted
+[Wed Sep 18 11:01:12 2024] [::1]:56790 [200]: POST /receiver.php
+[Wed Sep 18 11:01:12 2024] [::1]:56790 Closing
+[Wed Sep 18 11:01:14 2024] [::1]:56796 Accepted
+[Wed Sep 18 11:01:14 2024] [::1]:56796 [200]: POST /receiver.php
+[Wed Sep 18 11:01:14 2024] [::1]:56796 Closing
+[Wed Sep 18 11:01:16 2024] [::1]:35004 Accepted
+[Wed Sep 18 11:01:16 2024] [::1]:35004 [200]: POST /receiver.php
+[Wed Sep 18 11:01:16 2024] [::1]:35004 Closing
+[Wed Sep 18 11:01:18 2024] [::1]:35018 Accepted
+[Wed Sep 18 11:01:18 2024] [::1]:35018 [200]: POST /receiver.php
+[Wed Sep 18 11:01:18 2024] [::1]:35018 Closing
+[Wed Sep 18 11:01:20 2024] [::1]:35020 Accepted
+[Wed Sep 18 11:01:20 2024] [::1]:35020 [200]: POST /receiver.php
+[Wed Sep 18 11:01:20 2024] [::1]:35020 Closing
+[Wed Sep 18 11:01:22 2024] [::1]:35034 Accepted
+[Wed Sep 18 11:01:22 2024] [::1]:35034 [200]: POST /receiver.php
+[Wed Sep 18 11:01:22 2024] [::1]:35034 Closing
+[Wed Sep 18 11:01:24 2024] [::1]:35042 Accepted
+[Wed Sep 18 11:01:24 2024] [::1]:35042 [200]: POST /receiver.php
+[Wed Sep 18 11:01:24 2024] [::1]:35042 Closing
+[Wed Sep 18 11:01:26 2024] [::1]:47312 Accepted
+[Wed Sep 18 11:01:26 2024] [::1]:47312 [200]: POST /receiver.php
+[Wed Sep 18 11:01:26 2024] [::1]:47312 Closing
+[Wed Sep 18 11:01:28 2024] [::1]:47316 Accepted
+[Wed Sep 18 11:01:28 2024] [::1]:47316 [200]: POST /receiver.php
+[Wed Sep 18 11:01:28 2024] [::1]:47316 Closing
+[Wed Sep 18 11:01:30 2024] [::1]:47318 Accepted
+[Wed Sep 18 11:01:30 2024] [::1]:47318 [200]: POST /receiver.php
+[Wed Sep 18 11:01:30 2024] [::1]:47318 Closing
+[Wed Sep 18 11:01:32 2024] [::1]:47324 Accepted
+[Wed Sep 18 11:01:32 2024] [::1]:47324 [200]: POST /receiver.php
+[Wed Sep 18 11:01:32 2024] [::1]:47324 Closing
+[Wed Sep 18 11:01:34 2024] [::1]:47326 Accepted
+[Wed Sep 18 11:01:34 2024] [::1]:47326 [200]: POST /receiver.php
+[Wed Sep 18 11:01:34 2024] [::1]:47326 Closing
+[Wed Sep 18 11:01:36 2024] [::1]:43762 Accepted
+[Wed Sep 18 11:01:36 2024] [::1]:43762 [200]: POST /receiver.php
+[Wed Sep 18 11:01:36 2024] [::1]:43762 Closing
+[Wed Sep 18 11:01:38 2024] [::1]:43776 Accepted
+[Wed Sep 18 11:01:38 2024] [::1]:43776 [200]: POST /receiver.php
+[Wed Sep 18 11:01:38 2024] [::1]:43776 Closing
+[Wed Sep 18 11:01:40 2024] [::1]:43792 Accepted
+[Wed Sep 18 11:01:40 2024] [::1]:43792 [200]: POST /receiver.php
+[Wed Sep 18 11:01:40 2024] [::1]:43792 Closing
+[Wed Sep 18 11:01:42 2024] [::1]:43800 Accepted
+[Wed Sep 18 11:01:42 2024] [::1]:43800 [200]: POST /receiver.php
+[Wed Sep 18 11:01:42 2024] [::1]:43800 Closing
+[Wed Sep 18 11:01:44 2024] [::1]:43810 Accepted
+[Wed Sep 18 11:01:44 2024] [::1]:43810 [200]: POST /receiver.php
+[Wed Sep 18 11:01:44 2024] [::1]:43810 Closing
+[Wed Sep 18 11:01:47 2024] [::1]:53370 Accepted
+[Wed Sep 18 11:01:47 2024] [::1]:53370 [200]: POST /receiver.php
+[Wed Sep 18 11:01:47 2024] [::1]:53370 Closing
+[Wed Sep 18 11:01:48 2024] [::1]:53378 Accepted
+[Wed Sep 18 11:01:48 2024] [::1]:53378 [200]: POST /receiver.php
+[Wed Sep 18 11:01:48 2024] [::1]:53378 Closing
+[Wed Sep 18 11:01:50 2024] [::1]:53394 Accepted
+[Wed Sep 18 11:01:50 2024] [::1]:53394 [200]: POST /receiver.php
+[Wed Sep 18 11:01:50 2024] [::1]:53394 Closing
+[Wed Sep 18 11:01:54 2024] [::1]:53410 Accepted
+[Wed Sep 18 11:01:54 2024] [::1]:53410 [200]: POST /receiver.php
+[Wed Sep 18 11:01:54 2024] [::1]:53410 Closing
+[Wed Sep 18 11:01:54 2024] [::1]:53422 Accepted
+[Wed Sep 18 11:01:54 2024] [::1]:53422 [200]: POST /receiver.php
+[Wed Sep 18 11:01:54 2024] [::1]:53422 Closing
+[Wed Sep 18 11:01:56 2024] [::1]:48354 Accepted
+[Wed Sep 18 11:01:56 2024] [::1]:48354 [200]: POST /receiver.php
+[Wed Sep 18 11:01:56 2024] [::1]:48354 Closing
+[Wed Sep 18 11:01:58 2024] [::1]:48370 Accepted
+[Wed Sep 18 11:01:58 2024] [::1]:48370 [200]: POST /receiver.php
+[Wed Sep 18 11:01:58 2024] [::1]:48370 Closing
+[Wed Sep 18 11:02:00 2024] [::1]:48384 Accepted
+[Wed Sep 18 11:02:00 2024] [::1]:48384 [200]: POST /receiver.php
+[Wed Sep 18 11:02:00 2024] [::1]:48384 Closing
+[Wed Sep 18 11:02:06 2024] [::1]:57094 Accepted
+[Wed Sep 18 11:02:06 2024] [::1]:57094 [200]: POST /receiver.php
+[Wed Sep 18 11:02:06 2024] [::1]:57094 Closing
+[Wed Sep 18 11:02:06 2024] [::1]:57100 Accepted
+[Wed Sep 18 11:02:06 2024] [::1]:57100 [200]: POST /receiver.php
+[Wed Sep 18 11:02:06 2024] [::1]:57100 Closing
+[Wed Sep 18 11:02:06 2024] [::1]:57112 Accepted
+[Wed Sep 18 11:02:06 2024] [::1]:57112 [200]: POST /receiver.php
+[Wed Sep 18 11:02:06 2024] [::1]:57112 Closing
+[Wed Sep 18 11:02:08 2024] [::1]:57128 Accepted
+[Wed Sep 18 11:02:08 2024] [::1]:57128 [200]: POST /receiver.php
+[Wed Sep 18 11:02:08 2024] [::1]:57128 Closing
+[Wed Sep 18 11:02:10 2024] [::1]:57140 Accepted
+[Wed Sep 18 11:02:10 2024] [::1]:57140 [200]: POST /receiver.php
+[Wed Sep 18 11:02:10 2024] [::1]:57140 Closing
+[Wed Sep 18 11:02:12 2024] [::1]:57150 Accepted
+[Wed Sep 18 11:02:12 2024] [::1]:57150 [200]: POST /receiver.php
+[Wed Sep 18 11:02:12 2024] [::1]:57150 Closing
+[Wed Sep 18 11:02:14 2024] [::1]:57164 Accepted
+[Wed Sep 18 11:02:14 2024] [::1]:57164 [200]: POST /receiver.php
+[Wed Sep 18 11:02:14 2024] [::1]:57164 Closing
+[Wed Sep 18 11:02:16 2024] [::1]:59874 Accepted
+[Wed Sep 18 11:02:16 2024] [::1]:59874 [200]: POST /receiver.php
+[Wed Sep 18 11:02:16 2024] [::1]:59874 Closing
+[Wed Sep 18 11:02:18 2024] [::1]:59890 Accepted
+[Wed Sep 18 11:02:18 2024] [::1]:59890 [200]: POST /receiver.php
+[Wed Sep 18 11:02:18 2024] [::1]:59890 Closing
+[Wed Sep 18 11:02:20 2024] [::1]:59892 Accepted
+[Wed Sep 18 11:02:20 2024] [::1]:59892 [200]: POST /receiver.php
+[Wed Sep 18 11:02:20 2024] [::1]:59892 Closing
+[Wed Sep 18 11:02:22 2024] [::1]:59898 Accepted
+[Wed Sep 18 11:02:22 2024] [::1]:59898 [200]: POST /receiver.php
+[Wed Sep 18 11:02:22 2024] [::1]:59898 Closing
+[Wed Sep 18 11:02:24 2024] [::1]:59900 Accepted
+[Wed Sep 18 11:02:24 2024] [::1]:59900 [200]: GET /templates/nearyou/index.html
+[Wed Sep 18 11:02:24 2024] [::1]:59900 Closing
+[Wed Sep 18 11:02:24 2024] [::1]:59912 Accepted
+[Wed Sep 18 11:02:24 2024] [::1]:59928 Accepted
+[Wed Sep 18 11:02:24 2024] [::1]:59940 Accepted
+[Wed Sep 18 11:02:24 2024] [::1]:59948 Accepted
+[Wed Sep 18 11:02:24 2024] [::1]:59928 [200]: GET /assets/js/particles.min.js
+[Wed Sep 18 11:02:24 2024] [::1]:59928 Closing
+[Wed Sep 18 11:02:24 2024] [::1]:59912 [200]: GET /assets/js/location.js
+[Wed Sep 18 11:02:24 2024] [::1]:59960 Accepted
+[Wed Sep 18 11:02:24 2024] [::1]:59912 Closing
+[Wed Sep 18 11:02:24 2024] [::1]:59976 Accepted
+[Wed Sep 18 11:02:24 2024] [::1]:59960 [200]: GET /templates/nearyou/main.css
+[Wed Sep 18 11:02:24 2024] [::1]:59976 [200]: GET /templates/nearyou/fonts.css
+[Wed Sep 18 11:02:24 2024] [::1]:59940 [200]: GET /assets/js/warpspeed.min.js
+[Wed Sep 18 11:02:24 2024] [::1]:59948 [200]: GET /assets/js/loc.js
+[Wed Sep 18 11:02:24 2024] [::1]:59960 Closing
+[Wed Sep 18 11:02:24 2024] [::1]:59992 Accepted
+[Wed Sep 18 11:02:24 2024] [::1]:59976 Closing
+[Wed Sep 18 11:02:24 2024] [::1]:59940 Closing
+[Wed Sep 18 11:02:24 2024] [::1]:59948 Closing
+[Wed Sep 18 11:02:25 2024] [::1]:60008 Accepted
+[Wed Sep 18 11:02:25 2024] [::1]:60008 [200]: GET /assets/js/jquery.min.js
+[Wed Sep 18 11:02:25 2024] [::1]:60008 Closing
+[Wed Sep 18 11:02:25 2024] [::1]:59992 [200]: GET /assets/js/client.min.js
+[Wed Sep 18 11:02:25 2024] [::1]:59992 Closing
+[Wed Sep 18 11:02:25 2024] [::1]:60018 Accepted
+[Wed Sep 18 11:02:25 2024] [::1]:60018 [200]: POST /receiver.php
+[Wed Sep 18 11:02:25 2024] [::1]:60018 Closing
+[Wed Sep 18 11:02:26 2024] [::1]:44280 Accepted
+[Wed Sep 18 11:02:26 2024] [::1]:44280 [200]: POST /receiver.php
+[Wed Sep 18 11:02:26 2024] [::1]:44280 Closing
+[Wed Sep 18 11:02:28 2024] [::1]:44294 Accepted
+[Wed Sep 18 11:02:28 2024] [::1]:44294 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Wed Sep 18 11:02:28 2024] [::1]:44294 Closing
+[Wed Sep 18 11:02:28 2024] [::1]:44296 Accepted
+[Wed Sep 18 11:02:28 2024] [::1]:44296 [200]: POST /receiver.php
+[Wed Sep 18 11:02:28 2024] [::1]:44296 Closing
+[Wed Sep 18 11:02:30 2024] [::1]:44302 Accepted
+[Wed Sep 18 11:02:30 2024] [::1]:44302 [200]: POST /receiver.php
+[Wed Sep 18 11:02:30 2024] [::1]:44302 Closing
+[Wed Sep 18 11:02:33 2024] [::1]:44314 Accepted
+[Wed Sep 18 11:02:33 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Wed Sep 18 11:02:33 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Wed Sep 18 11:02:33 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Wed Sep 18 11:02:33 2024] [::1]:44314 [200]: POST /templates/nearyou/error.php
+[Wed Sep 18 11:02:33 2024] [::1]:44314 Closing
+[Wed Sep 18 11:02:33 2024] [::1]:44328 Accepted
+[Wed Sep 18 11:02:33 2024] [::1]:44338 Accepted
+[Wed Sep 18 11:02:33 2024] [::1]:44328 [200]: POST /templates/nearyou/handler.php
+[Wed Sep 18 11:02:33 2024] [::1]:44328 Closing
+[Wed Sep 18 11:02:33 2024] [::1]:44338 [200]: POST /receiver.php
+[Wed Sep 18 11:02:33 2024] [::1]:44338 Closing
+[Wed Sep 18 11:02:35 2024] [::1]:44348 Accepted
+[Wed Sep 18 11:02:35 2024] [::1]:44348 [200]: POST /receiver.php
+[Wed Sep 18 11:02:35 2024] [::1]:44348 Closing
+[Wed Sep 18 11:02:36 2024] [::1]:59700 Accepted
+[Wed Sep 18 11:02:36 2024] [::1]:59700 [200]: POST /receiver.php
+[Wed Sep 18 11:02:36 2024] [::1]:59700 Closing
+[Wed Sep 18 11:02:40 2024] [::1]:59708 Accepted
+[Wed Sep 18 11:02:40 2024] [::1]:59708 [200]: POST /receiver.php
+[Wed Sep 18 11:02:40 2024] [::1]:59708 Closing
+[Wed Sep 18 11:02:40 2024] [::1]:59722 Accepted
+[Wed Sep 18 11:02:40 2024] [::1]:59722 [200]: POST /receiver.php
+[Wed Sep 18 11:02:40 2024] [::1]:59722 Closing
+[Wed Sep 18 11:02:42 2024] [::1]:59736 Accepted
+[Wed Sep 18 11:02:42 2024] [::1]:59736 [200]: POST /receiver.php
+[Wed Sep 18 11:02:42 2024] [::1]:59736 Closing
+[Wed Sep 18 11:02:44 2024] [::1]:59750 Accepted
+[Wed Sep 18 11:02:44 2024] [::1]:59750 [200]: POST /receiver.php
+[Wed Sep 18 11:02:44 2024] [::1]:59750 Closing
+[Wed Sep 18 11:02:46 2024] [::1]:60656 Accepted
+[Wed Sep 18 11:02:46 2024] [::1]:60656 [200]: POST /receiver.php
+[Wed Sep 18 11:02:46 2024] [::1]:60656 Closing
+[Wed Sep 18 11:02:48 2024] [::1]:60658 Accepted
+[Wed Sep 18 11:02:48 2024] [::1]:60658 [200]: POST /receiver.php
+[Wed Sep 18 11:02:48 2024] [::1]:60658 Closing
+[Wed Sep 18 11:02:50 2024] [::1]:60662 Accepted
+[Wed Sep 18 11:02:50 2024] [::1]:60662 [200]: POST /receiver.php
+[Wed Sep 18 11:02:50 2024] [::1]:60662 Closing
+[Wed Sep 18 11:02:52 2024] [::1]:60672 Accepted
+[Wed Sep 18 11:02:52 2024] [::1]:60672 [200]: POST /receiver.php
+[Wed Sep 18 11:02:52 2024] [::1]:60672 Closing
+[Wed Sep 18 11:02:56 2024] [::1]:34152 Accepted
+[Wed Sep 18 11:02:56 2024] [::1]:34152 [200]: POST /receiver.php
+[Wed Sep 18 11:02:56 2024] [::1]:34152 Closing
+[Wed Sep 18 11:02:56 2024] [::1]:34156 Accepted
+[Wed Sep 18 11:02:56 2024] [::1]:34156 [200]: POST /receiver.php
+[Wed Sep 18 11:02:56 2024] [::1]:34156 Closing
+[Wed Sep 18 11:02:58 2024] [::1]:34170 Accepted
+[Wed Sep 18 11:02:58 2024] [::1]:34170 [200]: POST /receiver.php
+[Wed Sep 18 11:02:58 2024] [::1]:34170 Closing
+[Wed Sep 18 11:03:00 2024] [::1]:34178 Accepted
+[Wed Sep 18 11:03:00 2024] [::1]:34178 [200]: POST /receiver.php
+[Wed Sep 18 11:03:00 2024] [::1]:34178 Closing
+[Wed Sep 18 11:03:02 2024] [::1]:34194 Accepted
+[Wed Sep 18 11:03:02 2024] [::1]:34194 [200]: POST /receiver.php
+[Wed Sep 18 11:03:02 2024] [::1]:34194 Closing
+[Wed Sep 18 11:03:04 2024] [::1]:34196 Accepted
+[Wed Sep 18 11:03:04 2024] [::1]:34196 [200]: POST /receiver.php
+[Wed Sep 18 11:03:04 2024] [::1]:34196 Closing
+[Wed Sep 18 11:03:06 2024] [::1]:55952 Accepted
+[Wed Sep 18 11:03:06 2024] [::1]:55952 [200]: POST /receiver.php
+[Wed Sep 18 11:03:06 2024] [::1]:55952 Closing
+[Wed Sep 18 11:03:08 2024] [::1]:55966 Accepted
+[Wed Sep 18 11:03:08 2024] [::1]:55966 [200]: POST /receiver.php
+[Wed Sep 18 11:03:08 2024] [::1]:55966 Closing
+[Wed Sep 18 11:03:10 2024] [::1]:55978 Accepted
+[Wed Sep 18 11:03:10 2024] [::1]:55978 [200]: POST /receiver.php
+[Wed Sep 18 11:03:10 2024] [::1]:55978 Closing
+[Wed Sep 18 11:03:12 2024] [::1]:55990 Accepted
+[Wed Sep 18 11:03:12 2024] [::1]:55990 [200]: POST /receiver.php
+[Wed Sep 18 11:03:12 2024] [::1]:55990 Closing
+[Wed Sep 18 11:03:14 2024] [::1]:55994 Accepted
+[Wed Sep 18 11:03:14 2024] [::1]:55994 [200]: POST /receiver.php
+[Wed Sep 18 11:03:14 2024] [::1]:55994 Closing
+[Wed Sep 18 11:03:20 2024] [::1]:49640 Accepted
+[Wed Sep 18 11:03:20 2024] [::1]:49640 [200]: POST /receiver.php
+[Wed Sep 18 11:03:20 2024] [::1]:49640 Closing
+[Wed Sep 18 11:03:21 2024] [::1]:49656 Accepted
+[Wed Sep 18 11:03:21 2024] [::1]:49664 Accepted
+[Wed Sep 18 11:03:21 2024] [::1]:49656 [200]: POST /receiver.php
+[Wed Sep 18 11:03:21 2024] [::1]:49656 Closing
+[Wed Sep 18 11:03:21 2024] [::1]:49664 [200]: POST /receiver.php
+[Wed Sep 18 11:03:21 2024] [::1]:49664 Closing
+[Wed Sep 18 11:03:22 2024] [::1]:49674 Accepted
+[Wed Sep 18 11:03:22 2024] [::1]:49674 [200]: POST /receiver.php
+[Wed Sep 18 11:03:22 2024] [::1]:49674 Closing
+[Wed Sep 18 11:03:24 2024] [::1]:49682 Accepted
+[Wed Sep 18 11:03:24 2024] [::1]:49682 [200]: POST /receiver.php
+[Wed Sep 18 11:03:24 2024] [::1]:49682 Closing
+[Wed Sep 18 11:03:26 2024] [::1]:40908 Accepted
+[Wed Sep 18 11:03:26 2024] [::1]:40908 [200]: POST /receiver.php
+[Wed Sep 18 11:03:26 2024] [::1]:40908 Closing
+[Wed Sep 18 11:03:28 2024] [::1]:40912 Accepted
+[Wed Sep 18 11:03:28 2024] [::1]:40912 [200]: POST /receiver.php
+[Wed Sep 18 11:03:28 2024] [::1]:40912 Closing
+[Wed Sep 18 11:03:30 2024] [::1]:40924 Accepted
+[Wed Sep 18 11:03:30 2024] [::1]:40924 [200]: POST /receiver.php
+[Wed Sep 18 11:03:30 2024] [::1]:40924 Closing
+[Wed Sep 18 11:03:32 2024] [::1]:40936 Accepted
+[Wed Sep 18 11:03:32 2024] [::1]:40936 [200]: POST /receiver.php
+[Wed Sep 18 11:03:32 2024] [::1]:40936 Closing
+[Wed Sep 18 11:03:34 2024] [::1]:40946 Accepted
+[Wed Sep 18 11:03:34 2024] [::1]:40946 [200]: POST /receiver.php
+[Wed Sep 18 11:03:34 2024] [::1]:40946 Closing
+[Wed Sep 18 11:03:36 2024] [::1]:41610 Accepted
+[Wed Sep 18 11:03:36 2024] [::1]:41610 [200]: POST /receiver.php
+[Wed Sep 18 11:03:36 2024] [::1]:41610 Closing
+[Wed Sep 18 11:03:38 2024] [::1]:41622 Accepted
+[Wed Sep 18 11:03:38 2024] [::1]:41622 [200]: POST /receiver.php
+[Wed Sep 18 11:03:38 2024] [::1]:41622 Closing
+[Wed Sep 18 11:03:40 2024] [::1]:41638 Accepted
+[Wed Sep 18 11:03:40 2024] [::1]:41638 [200]: POST /receiver.php
+[Wed Sep 18 11:03:40 2024] [::1]:41638 Closing
+[Wed Sep 18 11:03:42 2024] [::1]:41640 Accepted
+[Wed Sep 18 11:03:42 2024] [::1]:41640 [200]: POST /receiver.php
+[Wed Sep 18 11:03:42 2024] [::1]:41640 Closing
+[Wed Sep 18 11:03:44 2024] [::1]:41656 Accepted
+[Wed Sep 18 11:03:44 2024] [::1]:41656 [200]: POST /receiver.php
+[Wed Sep 18 11:03:44 2024] [::1]:41656 Closing
+[Wed Sep 18 11:03:46 2024] [::1]:36620 Accepted
+[Wed Sep 18 11:03:46 2024] [::1]:36620 [200]: POST /receiver.php
+[Wed Sep 18 11:03:46 2024] [::1]:36620 Closing
+[Wed Sep 18 11:03:48 2024] [::1]:36634 Accepted
+[Wed Sep 18 11:03:48 2024] [::1]:36634 [200]: POST /receiver.php
+[Wed Sep 18 11:03:48 2024] [::1]:36634 Closing
+[Wed Sep 18 11:03:50 2024] [::1]:36642 Accepted
+[Wed Sep 18 11:03:50 2024] [::1]:36642 [200]: POST /receiver.php
+[Wed Sep 18 11:03:50 2024] [::1]:36642 Closing
+[Wed Sep 18 11:03:52 2024] [::1]:36644 Accepted
+[Wed Sep 18 11:03:52 2024] [::1]:36644 [200]: POST /receiver.php
+[Wed Sep 18 11:03:52 2024] [::1]:36644 Closing
+[Wed Sep 18 11:03:54 2024] [::1]:36658 Accepted
+[Wed Sep 18 11:03:54 2024] [::1]:36658 [200]: POST /receiver.php
+[Wed Sep 18 11:03:54 2024] [::1]:36658 Closing
+[Wed Sep 18 11:03:56 2024] [::1]:50330 Accepted
+[Wed Sep 18 11:03:56 2024] [::1]:50330 [200]: POST /receiver.php
+[Wed Sep 18 11:03:56 2024] [::1]:50330 Closing
+[Wed Sep 18 11:03:58 2024] [::1]:50332 Accepted
+[Wed Sep 18 11:03:58 2024] [::1]:50332 [200]: POST /receiver.php
+[Wed Sep 18 11:03:58 2024] [::1]:50332 Closing
+[Wed Sep 18 11:04:00 2024] [::1]:50342 Accepted
+[Wed Sep 18 11:04:00 2024] [::1]:50342 [200]: POST /receiver.php
+[Wed Sep 18 11:04:00 2024] [::1]:50342 Closing
+[Wed Sep 18 11:04:02 2024] [::1]:50350 Accepted
+[Wed Sep 18 11:04:03 2024] [::1]:50350 [200]: POST /receiver.php
+[Wed Sep 18 11:04:03 2024] [::1]:50350 Closing
+[Wed Sep 18 11:04:04 2024] [::1]:50352 Accepted
+[Wed Sep 18 11:04:04 2024] [::1]:50352 [200]: POST /receiver.php
+[Wed Sep 18 11:04:04 2024] [::1]:50352 Closing
+[Wed Sep 18 11:04:06 2024] [::1]:40528 Accepted
+[Wed Sep 18 11:04:06 2024] [::1]:40528 [200]: POST /receiver.php
+[Wed Sep 18 11:04:06 2024] [::1]:40528 Closing
+[Wed Sep 18 11:04:09 2024] [::1]:40540 Accepted
+[Wed Sep 18 11:04:09 2024] [::1]:40540 [200]: POST /receiver.php
+[Wed Sep 18 11:04:09 2024] [::1]:40540 Closing
+[Wed Sep 18 11:04:10 2024] [::1]:40542 Accepted
+[Wed Sep 18 11:04:10 2024] [::1]:40542 [200]: POST /receiver.php
+[Wed Sep 18 11:04:10 2024] [::1]:40542 Closing
+[Wed Sep 18 11:04:12 2024] [::1]:40548 Accepted
+[Wed Sep 18 11:04:12 2024] [::1]:40548 [200]: POST /receiver.php
+[Wed Sep 18 11:04:12 2024] [::1]:40548 Closing
+[Wed Sep 18 11:04:15 2024] [::1]:40550 Accepted
+[Wed Sep 18 11:04:15 2024] [::1]:40550 [200]: POST /receiver.php
+[Wed Sep 18 11:04:15 2024] [::1]:40550 Closing
+[Wed Sep 18 11:04:16 2024] [::1]:51816 Accepted
+[Wed Sep 18 11:04:16 2024] [::1]:51816 [200]: POST /receiver.php
+[Wed Sep 18 11:04:16 2024] [::1]:51816 Closing
+[Wed Sep 18 11:04:18 2024] [::1]:51824 Accepted
+[Wed Sep 18 11:04:18 2024] [::1]:51824 [200]: POST /receiver.php
+[Wed Sep 18 11:04:18 2024] [::1]:51824 Closing
+[Wed Sep 18 11:04:21 2024] [::1]:51828 Accepted
+[Wed Sep 18 11:04:21 2024] [::1]:51828 [200]: POST /receiver.php
+[Wed Sep 18 11:04:21 2024] [::1]:51828 Closing
+[Wed Sep 18 11:04:30 2024] [::1]:49132 Accepted
+[Wed Sep 18 11:04:30 2024] [::1]:49146 Accepted
+[Wed Sep 18 11:04:30 2024] [::1]:49132 [200]: POST /receiver.php
+[Wed Sep 18 11:04:30 2024] [::1]:49132 Closing
+[Wed Sep 18 11:04:30 2024] [::1]:49146 [200]: POST /receiver.php
+[Wed Sep 18 11:04:30 2024] [::1]:49146 Closing
+[Wed Sep 18 11:04:30 2024] [::1]:49148 Accepted
+[Wed Sep 18 11:04:30 2024] [::1]:49148 [200]: POST /receiver.php
+[Wed Sep 18 11:04:30 2024] [::1]:49148 Closing
+[Wed Sep 18 11:04:30 2024] [::1]:49158 Accepted
+[Wed Sep 18 11:04:30 2024] [::1]:49158 [200]: POST /receiver.php
+[Wed Sep 18 11:04:30 2024] [::1]:49158 Closing
+[Wed Sep 18 11:04:30 2024] [::1]:49168 Accepted
+[Wed Sep 18 11:04:30 2024] [::1]:49168 [200]: POST /receiver.php
+[Wed Sep 18 11:04:30 2024] [::1]:49168 Closing
+[Wed Sep 18 11:04:33 2024] [::1]:49170 Accepted
+[Wed Sep 18 11:04:33 2024] [::1]:49170 [200]: POST /receiver.php
+[Wed Sep 18 11:04:33 2024] [::1]:49170 Closing
+[Wed Sep 18 11:04:34 2024] [::1]:49178 Accepted
+[Wed Sep 18 11:04:34 2024] [::1]:49178 [200]: POST /receiver.php
+[Wed Sep 18 11:04:34 2024] [::1]:49178 Closing
+[Wed Sep 18 11:04:37 2024] [::1]:48428 Accepted
+[Wed Sep 18 11:04:37 2024] [::1]:48428 [200]: POST /receiver.php
+[Wed Sep 18 11:04:37 2024] [::1]:48428 Closing
+[Wed Sep 18 11:04:39 2024] [::1]:48444 Accepted
+[Wed Sep 18 11:04:39 2024] [::1]:48444 [200]: POST /receiver.php
+[Wed Sep 18 11:04:39 2024] [::1]:48444 Closing
+[Wed Sep 18 11:04:40 2024] [::1]:48458 Accepted
+[Wed Sep 18 11:04:40 2024] [::1]:48458 [200]: POST /receiver.php
+[Wed Sep 18 11:04:40 2024] [::1]:48458 Closing
+[Wed Sep 18 11:04:42 2024] [::1]:48462 Accepted
+[Wed Sep 18 11:04:42 2024] [::1]:48462 [200]: POST /receiver.php
+[Wed Sep 18 11:04:42 2024] [::1]:48462 Closing
+[Wed Sep 18 11:04:44 2024] [::1]:48472 Accepted
+[Wed Sep 18 11:04:44 2024] [::1]:48472 [200]: POST /receiver.php
+[Wed Sep 18 11:04:44 2024] [::1]:48472 Closing
+[Wed Sep 18 11:04:46 2024] [::1]:52072 Accepted
+[Wed Sep 18 11:04:46 2024] [::1]:52072 [200]: POST /receiver.php
+[Wed Sep 18 11:04:46 2024] [::1]:52072 Closing
+[Wed Sep 18 11:04:48 2024] [::1]:52088 Accepted
+[Wed Sep 18 11:04:48 2024] [::1]:52088 [200]: POST /receiver.php
+[Wed Sep 18 11:04:48 2024] [::1]:52088 Closing
+[Wed Sep 18 11:04:50 2024] [::1]:52100 Accepted
+[Wed Sep 18 11:04:50 2024] [::1]:52100 [200]: POST /receiver.php
+[Wed Sep 18 11:04:50 2024] [::1]:52100 Closing
+[Wed Sep 18 11:04:52 2024] [::1]:52108 Accepted
+[Wed Sep 18 11:04:52 2024] [::1]:52108 [200]: POST /receiver.php
+[Wed Sep 18 11:04:52 2024] [::1]:52108 Closing
+[Wed Sep 18 11:04:54 2024] [::1]:52116 Accepted
+[Wed Sep 18 11:04:54 2024] [::1]:52116 [200]: POST /receiver.php
+[Wed Sep 18 11:04:54 2024] [::1]:52116 Closing
+[Wed Sep 18 11:04:56 2024] [::1]:34796 Accepted
+[Wed Sep 18 11:04:56 2024] [::1]:34796 [200]: POST /receiver.php
+[Wed Sep 18 11:04:56 2024] [::1]:34796 Closing
+[Wed Sep 18 11:04:58 2024] [::1]:34812 Accepted
+[Wed Sep 18 11:04:58 2024] [::1]:34812 [200]: POST /receiver.php
+[Wed Sep 18 11:04:58 2024] [::1]:34812 Closing
+[Wed Sep 18 11:05:00 2024] [::1]:34816 Accepted
+[Wed Sep 18 11:05:00 2024] [::1]:34816 [200]: POST /receiver.php
+[Wed Sep 18 11:05:00 2024] [::1]:34816 Closing
+[Wed Sep 18 11:05:02 2024] [::1]:34826 Accepted
+[Wed Sep 18 11:05:02 2024] [::1]:34826 [200]: POST /receiver.php
+[Wed Sep 18 11:05:02 2024] [::1]:34826 Closing
+[Wed Sep 18 11:05:04 2024] [::1]:34828 Accepted
+[Wed Sep 18 11:05:04 2024] [::1]:34828 [200]: POST /receiver.php
+[Wed Sep 18 11:05:04 2024] [::1]:34828 Closing
+[Wed Sep 18 11:05:06 2024] [::1]:44836 Accepted
+[Wed Sep 18 11:05:06 2024] [::1]:44836 [200]: POST /receiver.php
+[Wed Sep 18 11:05:06 2024] [::1]:44836 Closing
+[Wed Sep 18 11:05:08 2024] [::1]:44844 Accepted
+[Wed Sep 18 11:05:08 2024] [::1]:44844 [200]: POST /receiver.php
+[Wed Sep 18 11:05:08 2024] [::1]:44844 Closing
+[Wed Sep 18 11:05:10 2024] [::1]:44858 Accepted
+[Wed Sep 18 11:05:10 2024] [::1]:44858 [200]: POST /receiver.php
+[Wed Sep 18 11:05:10 2024] [::1]:44858 Closing
+[Wed Sep 18 11:05:12 2024] [::1]:44862 Accepted
+[Wed Sep 18 11:05:12 2024] [::1]:44862 [200]: POST /receiver.php
+[Wed Sep 18 11:05:12 2024] [::1]:44862 Closing
+[Wed Sep 18 11:05:14 2024] [::1]:44870 Accepted
+[Wed Sep 18 11:05:14 2024] [::1]:44870 [200]: POST /receiver.php
+[Wed Sep 18 11:05:14 2024] [::1]:44870 Closing
+[Wed Sep 18 11:05:16 2024] [::1]:53418 Accepted
+[Wed Sep 18 11:05:16 2024] [::1]:53418 [200]: POST /receiver.php
+[Wed Sep 18 11:05:16 2024] [::1]:53418 Closing
+[Wed Sep 18 11:05:18 2024] [::1]:53432 Accepted
+[Wed Sep 18 11:05:18 2024] [::1]:53432 [200]: POST /receiver.php
+[Wed Sep 18 11:05:18 2024] [::1]:53432 Closing
+[Wed Sep 18 11:05:20 2024] [::1]:53440 Accepted
+[Wed Sep 18 11:05:20 2024] [::1]:53440 [200]: POST /receiver.php
+[Wed Sep 18 11:05:20 2024] [::1]:53440 Closing
+[Wed Sep 18 11:05:22 2024] [::1]:53450 Accepted
+[Wed Sep 18 11:05:22 2024] [::1]:53450 [200]: POST /receiver.php
+[Wed Sep 18 11:05:22 2024] [::1]:53450 Closing
+[Wed Sep 18 11:05:24 2024] [::1]:53452 Accepted
+[Wed Sep 18 11:05:24 2024] [::1]:53452 [200]: POST /receiver.php
+[Wed Sep 18 11:05:24 2024] [::1]:53452 Closing
+[Wed Sep 18 11:05:26 2024] [::1]:36788 Accepted
+[Wed Sep 18 11:05:26 2024] [::1]:36788 [200]: POST /receiver.php
+[Wed Sep 18 11:05:26 2024] [::1]:36788 Closing
+[Wed Sep 18 11:05:28 2024] [::1]:36802 Accepted
+[Wed Sep 18 11:05:28 2024] [::1]:36802 [200]: POST /receiver.php
+[Wed Sep 18 11:05:28 2024] [::1]:36802 Closing
+[Wed Sep 18 11:05:31 2024] [::1]:36814 Accepted
+[Wed Sep 18 11:05:31 2024] [::1]:36814 [200]: POST /receiver.php
+[Wed Sep 18 11:05:31 2024] [::1]:36814 Closing
+[Wed Sep 18 11:05:32 2024] [::1]:36830 Accepted
+[Wed Sep 18 11:05:32 2024] [::1]:36830 [200]: POST /receiver.php
+[Wed Sep 18 11:05:32 2024] [::1]:36830 Closing
+[Wed Sep 18 11:05:34 2024] [::1]:36832 Accepted
+[Wed Sep 18 11:05:34 2024] [::1]:36832 [200]: POST /receiver.php
+[Wed Sep 18 11:05:34 2024] [::1]:36832 Closing
+[Wed Sep 18 11:05:36 2024] [::1]:43390 Accepted
+[Wed Sep 18 11:05:36 2024] [::1]:43390 [200]: POST /receiver.php
+[Wed Sep 18 11:05:36 2024] [::1]:43390 Closing
+[Wed Sep 18 11:05:38 2024] [::1]:43402 Accepted
+[Wed Sep 18 11:05:38 2024] [::1]:43402 [200]: POST /receiver.php
+[Wed Sep 18 11:05:38 2024] [::1]:43402 Closing
+[Wed Sep 18 11:05:40 2024] [::1]:43404 Accepted
+[Wed Sep 18 11:05:40 2024] [::1]:43404 [200]: POST /receiver.php
+[Wed Sep 18 11:05:40 2024] [::1]:43404 Closing
+[Wed Sep 18 11:05:42 2024] [::1]:43418 Accepted
+[Wed Sep 18 11:05:42 2024] [::1]:43418 [200]: POST /receiver.php
+[Wed Sep 18 11:05:42 2024] [::1]:43418 Closing
+[Wed Sep 18 11:05:44 2024] [::1]:43420 Accepted
+[Wed Sep 18 11:05:44 2024] [::1]:43420 [200]: POST /receiver.php
+[Wed Sep 18 11:05:44 2024] [::1]:43420 Closing
+[Wed Sep 18 11:05:47 2024] [::1]:37196 Accepted
+[Wed Sep 18 11:05:47 2024] [::1]:37196 [200]: POST /receiver.php
+[Wed Sep 18 11:05:47 2024] [::1]:37196 Closing
+[Wed Sep 18 11:05:47 2024] [::1]:37208 Accepted
+[Wed Sep 18 11:05:47 2024] [::1]:37208 [200]: GET /templates/nearyou/index.html
+[Wed Sep 18 11:05:47 2024] [::1]:37208 Closing
+[Wed Sep 18 11:05:48 2024] [::1]:37210 Accepted
+[Wed Sep 18 11:05:48 2024] [::1]:37210 [200]: GET /templates/nearyou/main.css
+[Wed Sep 18 11:05:48 2024] [::1]:37210 Closing
+[Wed Sep 18 11:05:48 2024] [::1]:37218 Accepted
+[Wed Sep 18 11:05:48 2024] [::1]:37222 Accepted
+[Wed Sep 18 11:05:48 2024] [::1]:37218 [200]: GET /templates/nearyou/fonts.css
+[Wed Sep 18 11:05:48 2024] [::1]:37224 Accepted
+[Wed Sep 18 11:05:48 2024] [::1]:37222 [200]: GET /assets/js/jquery.min.js
+[Wed Sep 18 11:05:48 2024] [::1]:37224 [200]: GET /assets/js/particles.min.js
+[Wed Sep 18 11:05:48 2024] [::1]:37218 Closing
+[Wed Sep 18 11:05:48 2024] [::1]:37222 Closing
+[Wed Sep 18 11:05:48 2024] [::1]:37224 Closing
+[Wed Sep 18 11:05:48 2024] [::1]:37232 Accepted
+[Wed Sep 18 11:05:48 2024] [::1]:37234 Accepted
+[Wed Sep 18 11:05:48 2024] [::1]:37232 [200]: GET /assets/js/client.min.js
+[Wed Sep 18 11:05:48 2024] [::1]:37244 Accepted
+[Wed Sep 18 11:05:48 2024] [::1]:37234 [200]: GET /assets/js/loc.js
+[Wed Sep 18 11:05:48 2024] [::1]:37258 Accepted
+[Wed Sep 18 11:05:48 2024] [::1]:37232 Closing
+[Wed Sep 18 11:05:48 2024] [::1]:37234 Closing
+[Wed Sep 18 11:05:48 2024] [::1]:37244 [200]: GET /assets/js/location.js
+[Wed Sep 18 11:05:48 2024] [::1]:37258 [200]: GET /assets/js/warpspeed.min.js
+[Wed Sep 18 11:05:48 2024] [::1]:37244 Closing
+[Wed Sep 18 11:05:48 2024] [::1]:37258 Closing
+[Wed Sep 18 11:05:48 2024] [::1]:37264 Accepted
+[Wed Sep 18 11:05:48 2024] [::1]:37264 [200]: POST /receiver.php
+[Wed Sep 18 11:05:48 2024] [::1]:37264 Closing
+[Wed Sep 18 11:05:50 2024] [::1]:37272 Accepted
+[Wed Sep 18 11:05:50 2024] [::1]:37272 [200]: POST /receiver.php
+[Wed Sep 18 11:05:50 2024] [::1]:37272 Closing
+[Wed Sep 18 11:05:52 2024] [::1]:37282 Accepted
+[Wed Sep 18 11:05:52 2024] [::1]:37298 Accepted
+[Wed Sep 18 11:05:52 2024] [::1]:37282 [200]: POST /receiver.php
+[Wed Sep 18 11:05:52 2024] [::1]:37282 Closing
+[Wed Sep 18 11:05:52 2024] [::1]:37298 [200]: POST /templates/nearyou/handler.php
+[Wed Sep 18 11:05:52 2024] [::1]:37298 Closing
+[Wed Sep 18 11:05:54 2024] [::1]:37306 Accepted
+[Wed Sep 18 11:05:54 2024] [::1]:37306 [200]: POST /receiver.php
+[Wed Sep 18 11:05:54 2024] [::1]:37306 Closing
+[Wed Sep 18 11:05:56 2024] [::1]:35590 Accepted
+[Wed Sep 18 11:05:56 2024] [::1]:35590 [200]: POST /receiver.php
+[Wed Sep 18 11:05:56 2024] [::1]:35590 Closing
+[Wed Sep 18 11:05:58 2024] [::1]:35602 Accepted
+[Wed Sep 18 11:05:58 2024] [::1]:35602 [200]: POST /receiver.php
+[Wed Sep 18 11:05:58 2024] [::1]:35602 Closing
+[Wed Sep 18 11:06:00 2024] [::1]:35616 Accepted
+[Wed Sep 18 11:06:00 2024] [::1]:35616 [200]: POST /receiver.php
+[Wed Sep 18 11:06:00 2024] [::1]:35616 Closing
+[Wed Sep 18 11:06:02 2024] [::1]:35618 Accepted
+[Wed Sep 18 11:06:02 2024] [::1]:35618 [200]: POST /receiver.php
+[Wed Sep 18 11:06:02 2024] [::1]:35618 Closing
+[Wed Sep 18 11:06:04 2024] [::1]:35628 Accepted
+[Wed Sep 18 11:06:04 2024] [::1]:35628 [200]: POST /receiver.php
+[Wed Sep 18 11:06:04 2024] [::1]:35628 Closing
+[Wed Sep 18 11:06:05 2024] [::1]:35638 Accepted
+[Wed Sep 18 11:06:05 2024] [::1]:35638 [200]: POST /templates/nearyou/handler.php
+[Wed Sep 18 11:06:05 2024] [::1]:35638 Closing
+[Wed Sep 18 11:06:06 2024] [::1]:60228 Accepted
+[Wed Sep 18 11:06:06 2024] [::1]:60228 [200]: POST /receiver.php
+[Wed Sep 18 11:06:06 2024] [::1]:60228 Closing
+[Wed Sep 18 11:06:08 2024] [::1]:60242 Accepted
+[Wed Sep 18 11:06:08 2024] [::1]:60242 [200]: POST /receiver.php
+[Wed Sep 18 11:06:08 2024] [::1]:60242 Closing
+[Wed Sep 18 11:06:10 2024] [::1]:60258 Accepted
+[Wed Sep 18 11:06:10 2024] [::1]:60258 [200]: POST /receiver.php
+[Wed Sep 18 11:06:10 2024] [::1]:60258 Closing
+[Wed Sep 18 11:06:12 2024] [::1]:60268 Accepted
+[Wed Sep 18 11:06:12 2024] [::1]:60268 [200]: POST /receiver.php
+[Wed Sep 18 11:06:12 2024] [::1]:60268 Closing
+[Wed Sep 18 11:06:14 2024] [::1]:60278 Accepted
+[Wed Sep 18 11:06:14 2024] [::1]:60278 [200]: POST /receiver.php
+[Wed Sep 18 11:06:14 2024] [::1]:60278 Closing
+[Wed Sep 18 11:06:16 2024] [::1]:46440 Accepted
+[Wed Sep 18 11:06:16 2024] [::1]:46440 [200]: POST /receiver.php
+[Wed Sep 18 11:06:16 2024] [::1]:46440 Closing
+[Wed Sep 18 11:06:19 2024] [::1]:46450 Accepted
+[Wed Sep 18 11:06:19 2024] [::1]:46450 [200]: POST /receiver.php
+[Wed Sep 18 11:06:19 2024] [::1]:46450 Closing
+[Wed Sep 18 11:06:23 2024] [::1]:46462 Accepted
+[Wed Sep 18 11:06:23 2024] [::1]:46462 [200]: POST /receiver.php
+[Wed Sep 18 11:06:23 2024] [::1]:46462 Closing
+[Wed Sep 18 11:06:23 2024] [::1]:46476 Accepted
+[Wed Sep 18 11:06:23 2024] [::1]:46476 [200]: POST /receiver.php
+[Wed Sep 18 11:06:23 2024] [::1]:46476 Closing
+[Wed Sep 18 11:06:25 2024] [::1]:46478 Accepted
+[Wed Sep 18 11:06:25 2024] [::1]:46478 [200]: POST /receiver.php
+[Wed Sep 18 11:06:25 2024] [::1]:46478 Closing
+[Wed Sep 18 11:06:26 2024] [::1]:37146 Accepted
+[Wed Sep 18 11:06:26 2024] [::1]:37146 [200]: POST /receiver.php
+[Wed Sep 18 11:06:26 2024] [::1]:37146 Closing
+[Wed Sep 18 11:06:29 2024] [::1]:37148 Accepted
+[Wed Sep 18 11:06:29 2024] [::1]:37148 [200]: POST /receiver.php
+[Wed Sep 18 11:06:29 2024] [::1]:37148 Closing
+[Wed Sep 18 11:06:47 2024] [::1]:57068 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57068 [200]: POST /receiver.php
+[Wed Sep 18 11:06:47 2024] [::1]:57068 Closing
+[Wed Sep 18 11:06:47 2024] [::1]:57080 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57088 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57088 [200]: POST /receiver.php
+[Wed Sep 18 11:06:47 2024] [::1]:57088 Closing
+[Wed Sep 18 11:06:47 2024] [::1]:57102 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57080 [200]: POST /templates/nearyou/handler.php
+[Wed Sep 18 11:06:47 2024] [::1]:57080 Closing
+[Wed Sep 18 11:06:47 2024] [::1]:57102 [200]: POST /receiver.php
+[Wed Sep 18 11:06:47 2024] [::1]:57102 Closing
+[Wed Sep 18 11:06:47 2024] [::1]:57108 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57108 [200]: POST /receiver.php
+[Wed Sep 18 11:06:47 2024] [::1]:57108 Closing
+[Wed Sep 18 11:06:47 2024] [::1]:57118 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57118 [200]: POST /receiver.php
+[Wed Sep 18 11:06:47 2024] [::1]:57118 Closing
+[Wed Sep 18 11:06:47 2024] [::1]:57120 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57128 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57132 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57128 [200]: POST /receiver.php
+[Wed Sep 18 11:06:47 2024] [::1]:57128 Closing
+[Wed Sep 18 11:06:47 2024] [::1]:57134 Accepted
+[Wed Sep 18 11:06:47 2024] [::1]:57132 [200]: POST /receiver.php
+[Wed Sep 18 11:06:47 2024] [::1]:57132 Closing
+[Wed Sep 18 11:06:47 2024] [::1]:57134 [200]: POST /receiver.php
+[Wed Sep 18 11:06:47 2024] [::1]:57134 Closing
+[Wed Sep 18 11:06:48 2024] [::1]:57120 [200]: POST /receiver.php
+[Wed Sep 18 11:06:48 2024] [::1]:57120 Closing
+[Wed Sep 18 11:06:49 2024] [::1]:57146 Accepted
+[Wed Sep 18 11:06:49 2024] [::1]:57146 [200]: POST /receiver.php
+[Wed Sep 18 11:06:49 2024] [::1]:57146 Closing
+[Wed Sep 18 11:06:54 2024] [::1]:57156 Accepted
+[Wed Sep 18 11:06:54 2024] [::1]:57160 Accepted
+[Wed Sep 18 11:06:54 2024] [::1]:57156 [200]: POST /receiver.php
+[Wed Sep 18 11:06:54 2024] [::1]:57156 Closing
+[Wed Sep 18 11:06:54 2024] [::1]:57160 [200]: POST /receiver.php
+[Wed Sep 18 11:06:54 2024] [::1]:57160 Closing
+[Wed Sep 18 11:06:54 2024] [::1]:57172 Accepted
+[Wed Sep 18 11:06:54 2024] [::1]:57172 [200]: POST /receiver.php
+[Wed Sep 18 11:06:54 2024] [::1]:57172 Closing
+[Wed Sep 18 11:06:56 2024] [::1]:43442 Accepted
+[Wed Sep 18 11:06:56 2024] [::1]:43442 [200]: POST /receiver.php
+[Wed Sep 18 11:06:56 2024] [::1]:43442 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33790 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33790 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33790 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33796 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33802 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33796 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33796 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33814 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33802 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33802 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33830 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33840 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33856 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33840 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33840 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33862 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33868 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33830 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33830 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33814 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33814 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33856 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33856 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33868 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33868 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33870 Accepted
+[Wed Sep 18 11:07:16 2024] [::1]:33862 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33862 Closing
+[Wed Sep 18 11:07:16 2024] [::1]:33870 [200]: POST /receiver.php
+[Wed Sep 18 11:07:16 2024] [::1]:33870 Closing
+[Wed Sep 18 11:07:18 2024] [::1]:33872 Accepted
+[Wed Sep 18 11:07:18 2024] [::1]:33872 [200]: POST /receiver.php
+[Wed Sep 18 11:07:18 2024] [::1]:33872 Closing
+[Wed Sep 18 11:08:04 2024] [::1]:59398 Accepted
+[Wed Sep 18 11:08:04 2024] [::1]:59398 [200]: POST /receiver.php
+[Wed Sep 18 11:08:04 2024] [::1]:59398 Closing
+[Wed Sep 18 11:08:06 2024] [::1]:35352 Accepted
+[Wed Sep 18 11:08:06 2024] [::1]:35352 [200]: POST /receiver.php
+[Wed Sep 18 11:08:06 2024] [::1]:35352 Closing
+[Wed Sep 18 11:08:08 2024] [::1]:35354 Accepted
+[Wed Sep 18 11:08:08 2024] [::1]:35354 [200]: POST /receiver.php
+[Wed Sep 18 11:08:08 2024] [::1]:35354 Closing
+[Wed Sep 18 11:08:10 2024] [::1]:35364 Accepted
+[Wed Sep 18 11:08:10 2024] [::1]:35364 [200]: POST /receiver.php
+[Wed Sep 18 11:08:10 2024] [::1]:35364 Closing
+[Wed Sep 18 11:08:12 2024] [::1]:35368 Accepted
+[Wed Sep 18 11:08:12 2024] [::1]:35368 [200]: POST /receiver.php
+[Wed Sep 18 11:08:12 2024] [::1]:35368 Closing
+[Wed Sep 18 11:08:14 2024] [::1]:35376 Accepted
+[Wed Sep 18 11:08:14 2024] [::1]:35376 [200]: POST /receiver.php
+[Wed Sep 18 11:08:14 2024] [::1]:35376 Closing
+[Wed Sep 18 11:08:16 2024] [::1]:49622 Accepted
+[Wed Sep 18 11:08:16 2024] [::1]:49622 [200]: POST /receiver.php
+[Wed Sep 18 11:08:16 2024] [::1]:49622 Closing
+[Wed Sep 18 11:08:18 2024] [::1]:49632 Accepted
+[Wed Sep 18 11:08:18 2024] [::1]:49632 [200]: POST /receiver.php
+[Wed Sep 18 11:08:18 2024] [::1]:49632 Closing
+[Wed Sep 18 11:08:20 2024] [::1]:49648 Accepted
+[Wed Sep 18 11:08:20 2024] [::1]:49648 [200]: POST /receiver.php
+[Wed Sep 18 11:08:20 2024] [::1]:49648 Closing
+[Wed Sep 18 11:08:22 2024] [::1]:49652 Accepted
+[Wed Sep 18 11:08:22 2024] [::1]:49652 [200]: POST /receiver.php
+[Wed Sep 18 11:08:22 2024] [::1]:49652 Closing
+[Wed Sep 18 11:08:24 2024] [::1]:49668 Accepted
+[Wed Sep 18 11:08:24 2024] [::1]:49668 [200]: POST /receiver.php
+[Wed Sep 18 11:08:24 2024] [::1]:49668 Closing
+[Wed Sep 18 11:08:26 2024] [::1]:60350 Accepted
+[Wed Sep 18 11:08:26 2024] [::1]:60350 [200]: POST /receiver.php
+[Wed Sep 18 11:08:26 2024] [::1]:60350 Closing
+[Wed Sep 18 11:08:30 2024] [::1]:60360 Accepted
+[Wed Sep 18 11:08:30 2024] [::1]:60360 [200]: POST /receiver.php
+[Wed Sep 18 11:08:30 2024] [::1]:60360 Closing
+[Wed Sep 18 11:08:30 2024] [::1]:60366 Accepted
+[Wed Sep 18 11:08:30 2024] [::1]:60366 [200]: POST /receiver.php
+[Wed Sep 18 11:08:30 2024] [::1]:60366 Closing
+[Wed Sep 18 11:08:33 2024] [::1]:60378 Accepted
+[Wed Sep 18 11:08:33 2024] [::1]:60378 [200]: POST /receiver.php
+[Wed Sep 18 11:08:33 2024] [::1]:60378 Closing
+[Wed Sep 18 11:08:35 2024] [::1]:60392 Accepted
+[Wed Sep 18 11:08:35 2024] [::1]:60392 [200]: POST /receiver.php
+[Wed Sep 18 11:08:35 2024] [::1]:60392 Closing
+[Wed Sep 18 11:08:37 2024] [::1]:39672 Accepted
+[Wed Sep 18 11:08:37 2024] [::1]:39672 [200]: POST /receiver.php
+[Wed Sep 18 11:08:37 2024] [::1]:39672 Closing
+[Wed Sep 18 11:08:39 2024] [::1]:39678 Accepted
+[Wed Sep 18 11:08:39 2024] [::1]:39678 [200]: POST /receiver.php
+[Wed Sep 18 11:08:39 2024] [::1]:39678 Closing
+[Wed Sep 18 11:08:41 2024] [::1]:39682 Accepted
+[Wed Sep 18 11:08:41 2024] [::1]:39682 [200]: POST /receiver.php
+[Wed Sep 18 11:08:41 2024] [::1]:39682 Closing
+[Wed Sep 18 11:08:45 2024] [::1]:39692 Accepted
+[Wed Sep 18 11:08:45 2024] [::1]:39706 Accepted
+[Wed Sep 18 11:08:45 2024] [::1]:39692 [200]: POST /receiver.php
+[Wed Sep 18 11:08:45 2024] [::1]:39692 Closing
+[Wed Sep 18 11:08:45 2024] [::1]:39706 [200]: POST /receiver.php
+[Wed Sep 18 11:08:45 2024] [::1]:39706 Closing
+[Wed Sep 18 11:08:46 2024] [::1]:40306 Accepted
+[Wed Sep 18 11:08:46 2024] [::1]:40306 [200]: POST /receiver.php
+[Wed Sep 18 11:08:46 2024] [::1]:40306 Closing
+[Wed Sep 18 11:08:48 2024] [::1]:40310 Accepted
+[Wed Sep 18 11:08:48 2024] [::1]:40310 [200]: POST /receiver.php
+[Wed Sep 18 11:08:48 2024] [::1]:40310 Closing
+[Wed Sep 18 11:08:50 2024] [::1]:40324 Accepted
+[Wed Sep 18 11:08:50 2024] [::1]:40324 [200]: POST /receiver.php
+[Wed Sep 18 11:08:50 2024] [::1]:40324 Closing
+[Wed Sep 18 11:08:52 2024] [::1]:40328 Accepted
+[Wed Sep 18 11:08:52 2024] [::1]:40328 [200]: POST /receiver.php
+[Wed Sep 18 11:08:52 2024] [::1]:40328 Closing
+[Wed Sep 18 11:08:54 2024] [::1]:40336 Accepted
+[Wed Sep 18 11:08:54 2024] [::1]:40336 [200]: POST /receiver.php
+[Wed Sep 18 11:08:54 2024] [::1]:40336 Closing
+[Wed Sep 18 11:08:57 2024] [::1]:33344 Accepted
+[Wed Sep 18 11:08:57 2024] [::1]:33344 [200]: POST /receiver.php
+[Wed Sep 18 11:08:57 2024] [::1]:33344 Closing
+[Wed Sep 18 11:08:58 2024] [::1]:33350 Accepted
+[Wed Sep 18 11:08:58 2024] [::1]:33350 [200]: POST /receiver.php
+[Wed Sep 18 11:08:58 2024] [::1]:33350 Closing
+[Wed Sep 18 11:09:00 2024] [::1]:33366 Accepted
+[Wed Sep 18 11:09:00 2024] [::1]:33366 [200]: POST /receiver.php
+[Wed Sep 18 11:09:00 2024] [::1]:33366 Closing
+[Wed Sep 18 11:09:02 2024] [::1]:33382 Accepted
+[Wed Sep 18 11:09:02 2024] [::1]:33382 [200]: POST /receiver.php
+[Wed Sep 18 11:09:02 2024] [::1]:33382 Closing
+[Wed Sep 18 11:09:04 2024] [::1]:33384 Accepted
+[Wed Sep 18 11:09:04 2024] [::1]:33384 [200]: POST /receiver.php
+[Wed Sep 18 11:09:04 2024] [::1]:33384 Closing
+[Wed Sep 18 11:09:06 2024] [::1]:54730 Accepted
+[Wed Sep 18 11:09:06 2024] [::1]:54730 [200]: POST /receiver.php
+[Wed Sep 18 11:09:06 2024] [::1]:54730 Closing
+[Wed Sep 18 11:09:08 2024] [::1]:54738 Accepted
+[Wed Sep 18 11:09:08 2024] [::1]:54738 [200]: POST /receiver.php
+[Wed Sep 18 11:09:08 2024] [::1]:54738 Closing
+[Wed Sep 18 11:09:10 2024] [::1]:54742 Accepted
+[Wed Sep 18 11:09:10 2024] [::1]:54742 [200]: POST /receiver.php
+[Wed Sep 18 11:09:10 2024] [::1]:54742 Closing
+[Wed Sep 18 11:09:12 2024] [::1]:54758 Accepted
+[Wed Sep 18 11:09:12 2024] [::1]:54758 [200]: POST /receiver.php
+[Wed Sep 18 11:09:12 2024] [::1]:54758 Closing
+[Wed Sep 18 11:09:14 2024] [::1]:54760 Accepted
+[Wed Sep 18 11:09:14 2024] [::1]:54760 [200]: POST /receiver.php
+[Wed Sep 18 11:09:14 2024] [::1]:54760 Closing
+[Wed Sep 18 11:09:16 2024] [::1]:38804 Accepted
+[Wed Sep 18 11:09:16 2024] [::1]:38804 [200]: POST /receiver.php
+[Wed Sep 18 11:09:16 2024] [::1]:38804 Closing
+[Wed Sep 18 11:09:18 2024] [::1]:38812 Accepted
+[Wed Sep 18 11:09:18 2024] [::1]:38812 [200]: POST /receiver.php
+[Wed Sep 18 11:09:18 2024] [::1]:38812 Closing
+[Wed Sep 18 11:09:20 2024] [::1]:38828 Accepted
+[Wed Sep 18 11:09:20 2024] [::1]:38828 [200]: POST /receiver.php
+[Wed Sep 18 11:09:20 2024] [::1]:38828 Closing
+[Wed Sep 18 11:09:22 2024] [::1]:38834 Accepted
+[Wed Sep 18 11:09:22 2024] [::1]:38834 [200]: POST /receiver.php
+[Wed Sep 18 11:09:22 2024] [::1]:38834 Closing
+[Wed Sep 18 11:09:24 2024] [::1]:38838 Accepted
+[Wed Sep 18 11:09:24 2024] [::1]:38838 [200]: POST /receiver.php
+[Wed Sep 18 11:09:24 2024] [::1]:38838 Closing
+[Wed Sep 18 11:09:26 2024] [::1]:48934 Accepted
+[Wed Sep 18 11:09:26 2024] [::1]:48934 [200]: POST /receiver.php
+[Wed Sep 18 11:09:26 2024] [::1]:48934 Closing
+[Wed Sep 18 11:09:28 2024] [::1]:48946 Accepted
+[Wed Sep 18 11:09:28 2024] [::1]:48946 [200]: POST /receiver.php
+[Wed Sep 18 11:09:28 2024] [::1]:48946 Closing
+[Wed Sep 18 11:09:31 2024] [::1]:48952 Accepted
+[Wed Sep 18 11:09:31 2024] [::1]:48952 [200]: POST /receiver.php
+[Wed Sep 18 11:09:31 2024] [::1]:48952 Closing
+[Wed Sep 18 11:09:32 2024] [::1]:48960 Accepted
+[Wed Sep 18 11:09:32 2024] [::1]:48960 [200]: POST /receiver.php
+[Wed Sep 18 11:09:32 2024] [::1]:48960 Closing
+[Wed Sep 18 11:09:34 2024] [::1]:48964 Accepted
+[Wed Sep 18 11:09:34 2024] [::1]:48964 [200]: POST /receiver.php
+[Wed Sep 18 11:09:34 2024] [::1]:48964 Closing
+[Wed Sep 18 11:09:36 2024] [::1]:47334 Accepted
+[Wed Sep 18 11:09:36 2024] [::1]:47334 [200]: POST /receiver.php
+[Wed Sep 18 11:09:36 2024] [::1]:47334 Closing
+[Wed Sep 18 11:09:38 2024] [::1]:47346 Accepted
+[Wed Sep 18 11:09:38 2024] [::1]:47346 [200]: POST /receiver.php
+[Wed Sep 18 11:09:38 2024] [::1]:47346 Closing
+[Wed Sep 18 11:09:40 2024] [::1]:47354 Accepted
+[Wed Sep 18 11:09:40 2024] [::1]:47354 [200]: POST /receiver.php
+[Wed Sep 18 11:09:40 2024] [::1]:47354 Closing
+[Wed Sep 18 11:09:42 2024] [::1]:47364 Accepted
+[Wed Sep 18 11:09:42 2024] [::1]:47364 [200]: POST /receiver.php
+[Wed Sep 18 11:09:42 2024] [::1]:47364 Closing
+[Wed Sep 18 11:09:44 2024] [::1]:47378 Accepted
+[Wed Sep 18 11:09:44 2024] [::1]:47378 [200]: POST /receiver.php
+[Wed Sep 18 11:09:44 2024] [::1]:47378 Closing
+[Wed Sep 18 11:09:46 2024] [::1]:38626 Accepted
+[Wed Sep 18 11:09:46 2024] [::1]:38626 [200]: POST /receiver.php
+[Wed Sep 18 11:09:46 2024] [::1]:38626 Closing
+[Wed Sep 18 11:09:49 2024] [::1]:38636 Accepted
+[Wed Sep 18 11:09:49 2024] [::1]:38636 [200]: POST /receiver.php
+[Wed Sep 18 11:09:49 2024] [::1]:38636 Closing
+[Wed Sep 18 11:09:50 2024] [::1]:38648 Accepted
+[Wed Sep 18 11:09:50 2024] [::1]:38648 [200]: POST /receiver.php
+[Wed Sep 18 11:09:50 2024] [::1]:38648 Closing
+[Wed Sep 18 11:09:52 2024] [::1]:38656 Accepted
+[Wed Sep 18 11:09:52 2024] [::1]:38656 [200]: POST /receiver.php
+[Wed Sep 18 11:09:52 2024] [::1]:38656 Closing
+[Wed Sep 18 11:09:54 2024] [::1]:38658 Accepted
+[Wed Sep 18 11:09:54 2024] [::1]:38658 [200]: POST /receiver.php
+[Wed Sep 18 11:09:54 2024] [::1]:38658 Closing
+[Wed Sep 18 11:09:56 2024] [::1]:45110 Accepted
+[Wed Sep 18 11:09:56 2024] [::1]:45110 [200]: POST /receiver.php
+[Wed Sep 18 11:09:56 2024] [::1]:45110 Closing
+[Wed Sep 18 11:09:58 2024] [::1]:45122 Accepted
+[Wed Sep 18 11:09:58 2024] [::1]:45122 [200]: POST /receiver.php
+[Wed Sep 18 11:09:58 2024] [::1]:45122 Closing
+[Wed Sep 18 11:10:00 2024] [::1]:45136 Accepted
+[Wed Sep 18 11:10:00 2024] [::1]:45136 [200]: POST /receiver.php
+[Wed Sep 18 11:10:00 2024] [::1]:45136 Closing
+[Wed Sep 18 11:10:02 2024] [::1]:45138 Accepted
+[Wed Sep 18 11:10:02 2024] [::1]:45138 [200]: POST /receiver.php
+[Wed Sep 18 11:10:02 2024] [::1]:45138 Closing
+[Wed Sep 18 11:10:04 2024] [::1]:45150 Accepted
+[Wed Sep 18 11:10:04 2024] [::1]:45150 [200]: POST /receiver.php
+[Wed Sep 18 11:10:04 2024] [::1]:45150 Closing
+[Wed Sep 18 11:10:06 2024] [::1]:54974 Accepted
+[Wed Sep 18 11:10:06 2024] [::1]:54974 [200]: POST /receiver.php
+[Wed Sep 18 11:10:06 2024] [::1]:54974 Closing
+[Wed Sep 18 11:10:08 2024] [::1]:54986 Accepted
+[Wed Sep 18 11:10:08 2024] [::1]:54986 [200]: POST /receiver.php
+[Wed Sep 18 11:10:08 2024] [::1]:54986 Closing
+[Wed Sep 18 11:10:10 2024] [::1]:54988 Accepted
+[Wed Sep 18 11:10:10 2024] [::1]:54988 [200]: POST /receiver.php
+[Wed Sep 18 11:10:10 2024] [::1]:54988 Closing
+[Wed Sep 18 11:10:12 2024] [::1]:54990 Accepted
+[Wed Sep 18 11:10:12 2024] [::1]:54990 [200]: POST /receiver.php
+[Wed Sep 18 11:10:12 2024] [::1]:54990 Closing
+[Wed Sep 18 11:10:14 2024] [::1]:54994 Accepted
+[Wed Sep 18 11:10:14 2024] [::1]:54994 [200]: POST /receiver.php
+[Wed Sep 18 11:10:14 2024] [::1]:54994 Closing
+[Wed Sep 18 11:10:16 2024] [::1]:42258 Accepted
+[Wed Sep 18 11:10:16 2024] [::1]:42258 [200]: POST /receiver.php
+[Wed Sep 18 11:10:16 2024] [::1]:42258 Closing
+[Wed Sep 18 11:10:18 2024] [::1]:42270 Accepted
+[Wed Sep 18 11:10:18 2024] [::1]:42270 [200]: POST /receiver.php
+[Wed Sep 18 11:10:18 2024] [::1]:42270 Closing
+[Wed Sep 18 11:10:20 2024] [::1]:42274 Accepted
+[Wed Sep 18 11:10:20 2024] [::1]:42274 [200]: POST /receiver.php
+[Wed Sep 18 11:10:20 2024] [::1]:42274 Closing
+[Wed Sep 18 11:10:22 2024] [::1]:42280 Accepted
+[Wed Sep 18 11:10:22 2024] [::1]:42280 [200]: POST /receiver.php
+[Wed Sep 18 11:10:22 2024] [::1]:42280 Closing
+[Wed Sep 18 11:10:24 2024] [::1]:42282 Accepted
+[Wed Sep 18 11:10:24 2024] [::1]:42282 [200]: POST /receiver.php
+[Wed Sep 18 11:10:24 2024] [::1]:42282 Closing
+[Wed Sep 18 11:10:26 2024] [::1]:39314 Accepted
+[Wed Sep 18 11:10:26 2024] [::1]:39314 [200]: POST /receiver.php
+[Wed Sep 18 11:10:26 2024] [::1]:39314 Closing
+[Wed Sep 18 11:10:28 2024] [::1]:39330 Accepted
+[Wed Sep 18 11:10:28 2024] [::1]:39330 [200]: POST /receiver.php
+[Wed Sep 18 11:10:28 2024] [::1]:39330 Closing
+[Wed Sep 18 11:10:30 2024] [::1]:39346 Accepted
+[Wed Sep 18 11:10:30 2024] [::1]:39346 [200]: POST /receiver.php
+[Wed Sep 18 11:10:30 2024] [::1]:39346 Closing
+[Wed Sep 18 11:10:32 2024] [::1]:39354 Accepted
+[Wed Sep 18 11:10:32 2024] [::1]:39354 [200]: POST /receiver.php
+[Wed Sep 18 11:10:32 2024] [::1]:39354 Closing
+[Wed Sep 18 11:10:34 2024] [::1]:39360 Accepted
+[Wed Sep 18 11:10:34 2024] [::1]:39360 [200]: POST /receiver.php
+[Wed Sep 18 11:10:34 2024] [::1]:39360 Closing
+[Wed Sep 18 11:10:36 2024] [::1]:55352 Accepted
+[Wed Sep 18 11:10:36 2024] [::1]:55352 [200]: POST /receiver.php
+[Wed Sep 18 11:10:36 2024] [::1]:55352 Closing
+[Wed Sep 18 11:10:38 2024] [::1]:55360 Accepted
+[Wed Sep 18 11:10:38 2024] [::1]:55360 [200]: POST /receiver.php
+[Wed Sep 18 11:10:38 2024] [::1]:55360 Closing
+[Wed Sep 18 11:10:40 2024] [::1]:55362 Accepted
+[Wed Sep 18 11:10:40 2024] [::1]:55362 [200]: POST /receiver.php
+[Wed Sep 18 11:10:40 2024] [::1]:55362 Closing
+[Wed Sep 18 11:10:42 2024] [::1]:55372 Accepted
+[Wed Sep 18 11:10:42 2024] [::1]:55372 [200]: POST /receiver.php
+[Wed Sep 18 11:10:42 2024] [::1]:55372 Closing
+[Wed Sep 18 11:10:44 2024] [::1]:55380 Accepted
+[Wed Sep 18 11:10:45 2024] [::1]:55380 [200]: POST /receiver.php
+[Wed Sep 18 11:10:45 2024] [::1]:55380 Closing
+[Wed Sep 18 11:10:46 2024] [::1]:51934 Accepted
+[Wed Sep 18 11:10:46 2024] [::1]:51934 [200]: POST /receiver.php
+[Wed Sep 18 11:10:46 2024] [::1]:51934 Closing
+[Wed Sep 18 11:10:48 2024] [::1]:51940 Accepted
+[Wed Sep 18 11:10:48 2024] [::1]:51940 [200]: POST /receiver.php
+[Wed Sep 18 11:10:48 2024] [::1]:51940 Closing
+[Wed Sep 18 11:10:50 2024] [::1]:51942 Accepted
+[Wed Sep 18 11:10:50 2024] [::1]:51942 [200]: POST /receiver.php
+[Wed Sep 18 11:10:50 2024] [::1]:51942 Closing
+[Wed Sep 18 11:10:52 2024] [::1]:51956 Accepted
+[Wed Sep 18 11:10:52 2024] [::1]:51956 [200]: POST /receiver.php
+[Wed Sep 18 11:10:52 2024] [::1]:51956 Closing
+[Wed Sep 18 11:10:54 2024] [::1]:51970 Accepted
+[Wed Sep 18 11:10:54 2024] [::1]:51970 [200]: POST /receiver.php
+[Wed Sep 18 11:10:54 2024] [::1]:51970 Closing
+[Wed Sep 18 11:10:56 2024] [::1]:38334 Accepted
+[Wed Sep 18 11:10:56 2024] [::1]:38334 [200]: POST /receiver.php
+[Wed Sep 18 11:10:56 2024] [::1]:38334 Closing
+[Wed Sep 18 11:10:58 2024] [::1]:38342 Accepted
+[Wed Sep 18 11:10:58 2024] [::1]:38342 [200]: POST /receiver.php
+[Wed Sep 18 11:10:58 2024] [::1]:38342 Closing
+[Wed Sep 18 11:11:00 2024] [::1]:38354 Accepted
+[Wed Sep 18 11:11:00 2024] [::1]:38354 [200]: POST /receiver.php
+[Wed Sep 18 11:11:00 2024] [::1]:38354 Closing
+[Wed Sep 18 11:11:02 2024] [::1]:38370 Accepted
+[Wed Sep 18 11:11:02 2024] [::1]:38370 [200]: POST /receiver.php
+[Wed Sep 18 11:11:02 2024] [::1]:38370 Closing
+[Wed Sep 18 11:11:04 2024] [::1]:38374 Accepted
+[Wed Sep 18 11:11:04 2024] [::1]:38374 [200]: POST /receiver.php
+[Wed Sep 18 11:11:04 2024] [::1]:38374 Closing
+[Wed Sep 18 11:11:06 2024] [::1]:60816 Accepted
+[Wed Sep 18 11:11:06 2024] [::1]:60816 [200]: POST /receiver.php
+[Wed Sep 18 11:11:06 2024] [::1]:60816 Closing
+[Wed Sep 18 11:11:08 2024] [::1]:60826 Accepted
+[Wed Sep 18 11:11:08 2024] [::1]:60826 [200]: POST /receiver.php
+[Wed Sep 18 11:11:08 2024] [::1]:60826 Closing
+[Wed Sep 18 11:11:10 2024] [::1]:60840 Accepted
+[Wed Sep 18 11:11:10 2024] [::1]:60840 [200]: POST /receiver.php
+[Wed Sep 18 11:11:10 2024] [::1]:60840 Closing
+[Wed Sep 18 11:11:12 2024] [::1]:60850 Accepted
+[Wed Sep 18 11:11:12 2024] [::1]:60850 [200]: POST /receiver.php
+[Wed Sep 18 11:11:12 2024] [::1]:60850 Closing
+[Wed Sep 18 11:11:14 2024] [::1]:60858 Accepted
+[Wed Sep 18 11:11:14 2024] [::1]:60858 [200]: POST /receiver.php
+[Wed Sep 18 11:11:14 2024] [::1]:60858 Closing
+[Wed Sep 18 11:11:16 2024] [::1]:34768 Accepted
+[Wed Sep 18 11:11:16 2024] [::1]:34768 [200]: POST /receiver.php
+[Wed Sep 18 11:11:16 2024] [::1]:34768 Closing
+[Wed Sep 18 11:11:18 2024] [::1]:34778 Accepted
+[Wed Sep 18 11:11:18 2024] [::1]:34778 [200]: POST /receiver.php
+[Wed Sep 18 11:11:18 2024] [::1]:34778 Closing
+[Wed Sep 18 11:11:20 2024] [::1]:34788 Accepted
+[Wed Sep 18 11:11:20 2024] [::1]:34788 [200]: POST /receiver.php
+[Wed Sep 18 11:11:20 2024] [::1]:34788 Closing
+[Wed Sep 18 11:11:22 2024] [::1]:34802 Accepted
+[Wed Sep 18 11:11:22 2024] [::1]:34802 [200]: POST /receiver.php
+[Wed Sep 18 11:11:22 2024] [::1]:34802 Closing
+[Wed Sep 18 11:11:24 2024] [::1]:34812 Accepted
+[Wed Sep 18 11:11:24 2024] [::1]:34812 [200]: POST /receiver.php
+[Wed Sep 18 11:11:24 2024] [::1]:34812 Closing
+[Wed Sep 18 11:11:26 2024] [::1]:43754 Accepted
+[Wed Sep 18 11:11:26 2024] [::1]:43754 [200]: POST /receiver.php
+[Wed Sep 18 11:11:26 2024] [::1]:43754 Closing
+[Wed Sep 18 11:11:28 2024] [::1]:43760 Accepted
+[Wed Sep 18 11:11:28 2024] [::1]:43760 [200]: POST /receiver.php
+[Wed Sep 18 11:11:28 2024] [::1]:43760 Closing
+[Wed Sep 18 11:11:30 2024] [::1]:43762 Accepted
+[Wed Sep 18 11:11:30 2024] [::1]:43762 [200]: POST /receiver.php
+[Wed Sep 18 11:11:30 2024] [::1]:43762 Closing
+[Wed Sep 18 11:11:32 2024] [::1]:43774 Accepted
+[Wed Sep 18 11:11:32 2024] [::1]:43774 [200]: POST /receiver.php
+[Wed Sep 18 11:11:32 2024] [::1]:43774 Closing
+[Wed Sep 18 11:11:34 2024] [::1]:43780 Accepted
+[Wed Sep 18 11:11:34 2024] [::1]:43780 [200]: POST /receiver.php
+[Wed Sep 18 11:11:34 2024] [::1]:43780 Closing
+[Wed Sep 18 11:11:36 2024] [::1]:54244 Accepted
+[Wed Sep 18 11:11:36 2024] [::1]:54244 [200]: POST /receiver.php
+[Wed Sep 18 11:11:36 2024] [::1]:54244 Closing
+[Wed Sep 18 11:11:38 2024] [::1]:54256 Accepted
+[Wed Sep 18 11:11:38 2024] [::1]:54256 [200]: POST /receiver.php
+[Wed Sep 18 11:11:38 2024] [::1]:54256 Closing
+[Wed Sep 18 11:11:40 2024] [::1]:54260 Accepted
+[Wed Sep 18 11:11:40 2024] [::1]:54260 [200]: POST /receiver.php
+[Wed Sep 18 11:11:40 2024] [::1]:54260 Closing
+[Wed Sep 18 11:11:42 2024] [::1]:54262 Accepted
+[Wed Sep 18 11:11:42 2024] [::1]:54262 [200]: POST /receiver.php
+[Wed Sep 18 11:11:42 2024] [::1]:54262 Closing
+[Wed Sep 18 11:11:44 2024] [::1]:54274 Accepted
+[Wed Sep 18 11:11:44 2024] [::1]:54274 [200]: POST /receiver.php
+[Wed Sep 18 11:11:44 2024] [::1]:54274 Closing
+[Wed Sep 18 11:11:46 2024] [::1]:55776 Accepted
+[Wed Sep 18 11:11:46 2024] [::1]:55776 [200]: POST /receiver.php
+[Wed Sep 18 11:11:46 2024] [::1]:55776 Closing
+[Wed Sep 18 11:11:48 2024] [::1]:55788 Accepted
+[Wed Sep 18 11:11:48 2024] [::1]:55788 [200]: POST /receiver.php
+[Wed Sep 18 11:11:48 2024] [::1]:55788 Closing
+[Wed Sep 18 11:11:50 2024] [::1]:55792 Accepted
+[Wed Sep 18 11:11:50 2024] [::1]:55792 [200]: POST /receiver.php
+[Wed Sep 18 11:11:50 2024] [::1]:55792 Closing
+[Wed Sep 18 11:11:52 2024] [::1]:55804 Accepted
+[Wed Sep 18 11:11:52 2024] [::1]:55804 [200]: POST /receiver.php
+[Wed Sep 18 11:11:52 2024] [::1]:55804 Closing
+[Wed Sep 18 11:11:54 2024] [::1]:55818 Accepted
+[Wed Sep 18 11:11:54 2024] [::1]:55818 [200]: POST /receiver.php
+[Wed Sep 18 11:11:54 2024] [::1]:55818 Closing
+[Wed Sep 18 11:11:56 2024] [::1]:33406 Accepted
+[Wed Sep 18 11:11:56 2024] [::1]:33406 [200]: POST /receiver.php
+[Wed Sep 18 11:11:56 2024] [::1]:33406 Closing
+[Wed Sep 18 11:11:58 2024] [::1]:33418 Accepted
+[Wed Sep 18 11:11:58 2024] [::1]:33418 [200]: POST /receiver.php
+[Wed Sep 18 11:11:58 2024] [::1]:33418 Closing
+[Wed Sep 18 11:12:00 2024] [::1]:33430 Accepted
+[Wed Sep 18 11:12:00 2024] [::1]:33430 [200]: POST /receiver.php
+[Wed Sep 18 11:12:00 2024] [::1]:33430 Closing
+[Wed Sep 18 11:12:02 2024] [::1]:33434 Accepted
+[Wed Sep 18 11:12:02 2024] [::1]:33434 [200]: POST /receiver.php
+[Wed Sep 18 11:12:02 2024] [::1]:33434 Closing
+[Wed Sep 18 11:12:04 2024] [::1]:33442 Accepted
+[Wed Sep 18 11:12:04 2024] [::1]:33442 [200]: POST /receiver.php
+[Wed Sep 18 11:12:04 2024] [::1]:33442 Closing
+[Wed Sep 18 11:12:06 2024] [::1]:38364 Accepted
+[Wed Sep 18 11:12:06 2024] [::1]:38364 [200]: POST /receiver.php
+[Wed Sep 18 11:12:06 2024] [::1]:38364 Closing
+[Wed Sep 18 11:12:08 2024] [::1]:38374 Accepted
+[Wed Sep 18 11:12:08 2024] [::1]:38374 [200]: POST /receiver.php
+[Wed Sep 18 11:12:08 2024] [::1]:38374 Closing
+[Wed Sep 18 11:12:10 2024] [::1]:38380 Accepted
+[Wed Sep 18 11:12:10 2024] [::1]:38380 [200]: POST /receiver.php
+[Wed Sep 18 11:12:10 2024] [::1]:38380 Closing
+[Wed Sep 18 11:12:13 2024] [::1]:38388 Accepted
+[Wed Sep 18 11:12:13 2024] [::1]:38388 [200]: POST /receiver.php
+[Wed Sep 18 11:12:13 2024] [::1]:38388 Closing
+[Wed Sep 18 11:12:14 2024] [::1]:38404 Accepted
+[Wed Sep 18 11:12:14 2024] [::1]:38404 [200]: POST /receiver.php
+[Wed Sep 18 11:12:14 2024] [::1]:38404 Closing
+[Wed Sep 18 11:12:16 2024] [::1]:38328 Accepted
+[Wed Sep 18 11:12:16 2024] [::1]:38328 [200]: POST /receiver.php
+[Wed Sep 18 11:12:16 2024] [::1]:38328 Closing
+[Wed Sep 18 11:12:18 2024] [::1]:38344 Accepted
+[Wed Sep 18 11:12:18 2024] [::1]:38344 [200]: POST /receiver.php
+[Wed Sep 18 11:12:18 2024] [::1]:38344 Closing
+[Wed Sep 18 11:12:20 2024] [::1]:38360 Accepted
+[Wed Sep 18 11:12:20 2024] [::1]:38360 [200]: POST /receiver.php
+[Wed Sep 18 11:12:20 2024] [::1]:38360 Closing
+[Wed Sep 18 11:12:22 2024] [::1]:38366 Accepted
+[Wed Sep 18 11:12:22 2024] [::1]:38366 [200]: POST /receiver.php
+[Wed Sep 18 11:12:23 2024] [::1]:38366 Closing
+[Wed Sep 18 11:12:24 2024] [::1]:38378 Accepted
+[Wed Sep 18 11:12:24 2024] [::1]:38378 [200]: POST /receiver.php
+[Wed Sep 18 11:12:24 2024] [::1]:38378 Closing
+[Wed Sep 18 11:12:26 2024] [::1]:50262 Accepted
+[Wed Sep 18 11:12:26 2024] [::1]:50262 [200]: POST /receiver.php
+[Wed Sep 18 11:12:26 2024] [::1]:50262 Closing
+[Wed Sep 18 11:12:28 2024] [::1]:50278 Accepted
+[Wed Sep 18 11:12:28 2024] [::1]:50278 [200]: POST /receiver.php
+[Wed Sep 18 11:12:28 2024] [::1]:50278 Closing
+[Wed Sep 18 11:12:30 2024] [::1]:50282 Accepted
+[Wed Sep 18 11:12:30 2024] [::1]:50282 [200]: POST /receiver.php
+[Wed Sep 18 11:12:30 2024] [::1]:50282 Closing
+[Wed Sep 18 11:12:32 2024] [::1]:50288 Accepted
+[Wed Sep 18 11:12:32 2024] [::1]:50288 [200]: POST /receiver.php
+[Wed Sep 18 11:12:32 2024] [::1]:50288 Closing
+[Wed Sep 18 11:12:34 2024] [::1]:50302 Accepted
+[Wed Sep 18 11:12:34 2024] [::1]:50302 [200]: POST /receiver.php
+[Wed Sep 18 11:12:34 2024] [::1]:50302 Closing
+[Wed Sep 18 11:12:37 2024] [::1]:58774 Accepted
+[Wed Sep 18 11:12:37 2024] [::1]:58774 [200]: POST /receiver.php
+[Wed Sep 18 11:12:37 2024] [::1]:58774 Closing
+[Wed Sep 18 11:12:39 2024] [::1]:58788 Accepted
+[Wed Sep 18 11:12:39 2024] [::1]:58788 [200]: POST /receiver.php
+[Wed Sep 18 11:12:39 2024] [::1]:58788 Closing
+[Wed Sep 18 11:12:41 2024] [::1]:58804 Accepted
+[Wed Sep 18 11:12:41 2024] [::1]:58804 [200]: POST /receiver.php
+[Wed Sep 18 11:12:41 2024] [::1]:58804 Closing
+[Wed Sep 18 11:12:43 2024] [::1]:58820 Accepted
+[Wed Sep 18 11:12:43 2024] [::1]:58820 [200]: POST /receiver.php
+[Wed Sep 18 11:12:43 2024] [::1]:58820 Closing
+[Wed Sep 18 11:12:45 2024] [::1]:58822 Accepted
+[Wed Sep 18 11:12:45 2024] [::1]:58822 [200]: POST /receiver.php
+[Wed Sep 18 11:12:45 2024] [::1]:58822 Closing
+[Wed Sep 18 11:12:47 2024] [::1]:40438 Accepted
+[Wed Sep 18 11:12:47 2024] [::1]:40438 [200]: POST /receiver.php
+[Wed Sep 18 11:12:47 2024] [::1]:40438 Closing
+[Wed Sep 18 11:12:49 2024] [::1]:40448 Accepted
+[Wed Sep 18 11:12:49 2024] [::1]:40448 [200]: POST /receiver.php
+[Wed Sep 18 11:12:49 2024] [::1]:40448 Closing
+[Wed Sep 18 11:12:51 2024] [::1]:40456 Accepted
+[Wed Sep 18 11:12:51 2024] [::1]:40456 [200]: POST /receiver.php
+[Wed Sep 18 11:12:51 2024] [::1]:40456 Closing
+[Wed Sep 18 11:12:53 2024] [::1]:40466 Accepted
+[Wed Sep 18 11:12:53 2024] [::1]:40466 [200]: POST /receiver.php
+[Wed Sep 18 11:12:53 2024] [::1]:40466 Closing
+[Wed Sep 18 11:12:55 2024] [::1]:40476 Accepted
+[Wed Sep 18 11:12:55 2024] [::1]:40476 [200]: POST /receiver.php
+[Wed Sep 18 11:12:55 2024] [::1]:40476 Closing
+[Wed Sep 18 11:12:57 2024] [::1]:46432 Accepted
+[Wed Sep 18 11:12:57 2024] [::1]:46432 [200]: POST /receiver.php
+[Wed Sep 18 11:12:57 2024] [::1]:46432 Closing

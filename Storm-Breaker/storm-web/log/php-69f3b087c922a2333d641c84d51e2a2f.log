@@ -1,0 +1,2146 @@
+[Tue Sep 17 10:56:14 2024] PHP 8.2.21 Development Server (http://localhost:2525) started
+[Tue Sep 17 10:57:38 2024] [::1]:36608 Accepted
+[Tue Sep 17 10:57:39 2024] [::1]:36608 [302]: GET /
+[Tue Sep 17 10:57:39 2024] [::1]:36608 Closing
+[Tue Sep 17 10:57:39 2024] [::1]:36610 Accepted
+[Tue Sep 17 10:57:39 2024] [::1]:36610 [200]: GET /login.php
+[Tue Sep 17 10:57:39 2024] [::1]:36610 Closing
+[Tue Sep 17 10:57:39 2024] [::1]:36626 Accepted
+[Tue Sep 17 10:57:39 2024] [::1]:36636 Accepted
+[Tue Sep 17 10:57:39 2024] [::1]:36626 [200]: GET /assets/css/bootstrap.min.css
+[Tue Sep 17 10:57:39 2024] [::1]:36636 [200]: GET /assets/css/style.css
+[Tue Sep 17 10:57:39 2024] [::1]:36626 Closing
+[Tue Sep 17 10:57:39 2024] [::1]:36636 Closing
+[Tue Sep 17 10:57:39 2024] [::1]:36644 Accepted
+[Tue Sep 17 10:57:39 2024] [::1]:36644 [404]: GET /favicon.ico - No such file or directory
+[Tue Sep 17 10:57:39 2024] [::1]:36644 Closing
+[Tue Sep 17 10:57:58 2024] [::1]:40348 Accepted
+[Tue Sep 17 10:57:58 2024] [::1]:40348 [200]: POST /login.php
+[Tue Sep 17 10:57:58 2024] [::1]:40348 Closing
+[Tue Sep 17 10:57:58 2024] [::1]:40352 Accepted
+[Tue Sep 17 10:57:58 2024] [::1]:40356 Accepted
+[Tue Sep 17 10:57:58 2024] [::1]:40352 [200]: GET /assets/css/style.css
+[Tue Sep 17 10:57:58 2024] [::1]:40356 [200]: GET /assets/css/bootstrap.min.css
+[Tue Sep 17 10:57:58 2024] [::1]:40352 Closing
+[Tue Sep 17 10:57:58 2024] [::1]:40356 Closing
+[Tue Sep 17 10:58:23 2024] [::1]:55122 Accepted
+[Tue Sep 17 10:58:23 2024] [::1]:55122 [200]: POST /login.php
+[Tue Sep 17 10:58:23 2024] [::1]:55122 Closing
+[Tue Sep 17 10:58:23 2024] [::1]:55132 Accepted
+[Tue Sep 17 10:58:23 2024] [::1]:55134 Accepted
+[Tue Sep 17 10:58:23 2024] [::1]:55132 [200]: GET /assets/css/style.css
+[Tue Sep 17 10:58:23 2024] [::1]:55134 [200]: GET /assets/css/bootstrap.min.css
+[Tue Sep 17 10:58:23 2024] [::1]:55132 Closing
+[Tue Sep 17 10:58:23 2024] [::1]:55134 Closing
+[Tue Sep 17 11:07:36 2024] [::1]:51184 Accepted
+[Tue Sep 17 11:07:36 2024] [::1]:51184 [302]: GET /
+[Tue Sep 17 11:07:36 2024] [::1]:51184 Closing
+[Tue Sep 17 11:07:37 2024] [::1]:51200 Accepted
+[Tue Sep 17 11:07:37 2024] [::1]:51200 [200]: GET /login.php
+[Tue Sep 17 11:07:37 2024] [::1]:51200 Closing
+[Tue Sep 17 11:07:38 2024] [::1]:51212 Accepted
+[Tue Sep 17 11:07:38 2024] [::1]:51226 Accepted
+[Tue Sep 17 11:07:38 2024] [::1]:51212 [200]: GET /assets/css/bootstrap.min.css
+[Tue Sep 17 11:07:38 2024] [::1]:51226 [200]: GET /assets/css/style.css
+[Tue Sep 17 11:07:38 2024] [::1]:51212 Closing
+[Tue Sep 17 11:07:38 2024] [::1]:51226 Closing
+[Tue Sep 17 11:07:38 2024] [::1]:51228 Accepted
+[Tue Sep 17 11:07:38 2024] [::1]:51228 [404]: GET /favicon.ico - No such file or directory
+[Tue Sep 17 11:07:38 2024] [::1]:51228 Closing
+[Tue Sep 17 11:07:55 2024] [::1]:56856 Accepted
+[Tue Sep 17 11:07:55 2024] [::1]:56856 [200]: POST /login.php
+[Tue Sep 17 11:07:55 2024] [::1]:56856 Closing
+[Tue Sep 17 11:07:56 2024] [::1]:56864 Accepted
+[Tue Sep 17 11:07:56 2024] [::1]:56864 [200]: GET /assets/css/bootstrap.min.css
+[Tue Sep 17 11:07:56 2024] [::1]:56864 Closing
+[Tue Sep 17 11:07:56 2024] [::1]:56878 Accepted
+[Tue Sep 17 11:07:56 2024] [::1]:56878 [200]: GET /assets/css/style.css
+[Tue Sep 17 11:07:56 2024] [::1]:56878 Closing
+[Tue Sep 17 11:08:02 2024] [::1]:58590 Accepted
+[Tue Sep 17 11:08:02 2024] [::1]:58590 [200]: GET /panel.php
+[Tue Sep 17 11:08:02 2024] [::1]:58590 Closing
+[Tue Sep 17 11:08:02 2024] [::1]:58606 Accepted
+[Tue Sep 17 11:08:02 2024] [::1]:58606 [200]: GET /assets/css/bootstrap.min.css
+[Tue Sep 17 11:08:02 2024] [::1]:58606 Closing
+[Tue Sep 17 11:08:02 2024] [::1]:58608 Accepted
+[Tue Sep 17 11:08:02 2024] [::1]:58610 Accepted
+[Tue Sep 17 11:08:02 2024] [::1]:58608 [200]: GET /assets/js/jquery.min.js
+[Tue Sep 17 11:08:02 2024] [::1]:58610 [200]: GET /assets/css/light-theme.min.css
+[Tue Sep 17 11:08:02 2024] [::1]:58608 Closing
+[Tue Sep 17 11:08:02 2024] [::1]:58610 Closing
+[Tue Sep 17 11:08:02 2024] [::1]:58620 Accepted
+[Tue Sep 17 11:08:02 2024] [::1]:58624 Accepted
+[Tue Sep 17 11:08:02 2024] [::1]:58620 [200]: GET /assets/js/growl-notification.min.js
+[Tue Sep 17 11:08:02 2024] [::1]:58640 Accepted
+[Tue Sep 17 11:08:02 2024] [::1]:58624 [200]: GET /assets/js/script.js
+[Tue Sep 17 11:08:02 2024] [::1]:58640 [200]: GET /assets/js/sweetalert2.min.js
+[Tue Sep 17 11:08:02 2024] [::1]:58620 Closing
+[Tue Sep 17 11:08:02 2024] [::1]:58624 Closing
+[Tue Sep 17 11:08:02 2024] [::1]:58640 Closing
+[Tue Sep 17 11:08:12 2024] [::1]:45570 Accepted
+[Tue Sep 17 11:08:12 2024] [::1]:45582 Accepted
+[Tue Sep 17 11:08:12 2024] [::1]:45570 [200]: GET /Settings.json
+[Tue Sep 17 11:08:12 2024] [::1]:45582 [200]: POST /list_templates.php
+[Tue Sep 17 11:08:12 2024] [::1]:45582 Closing
+[Tue Sep 17 11:08:12 2024] [::1]:45570 Closing
+[Tue Sep 17 11:08:15 2024] [::1]:45598 Accepted
+[Tue Sep 17 11:08:15 2024] [::1]:45598 [200]: POST /receiver.php
+[Tue Sep 17 11:08:15 2024] [::1]:45598 Closing
+[Tue Sep 17 11:08:17 2024] [::1]:45604 Accepted
+[Tue Sep 17 11:08:17 2024] [::1]:45604 [200]: POST /receiver.php
+[Tue Sep 17 11:08:17 2024] [::1]:45604 Closing
+[Tue Sep 17 11:08:19 2024] [::1]:45608 Accepted
+[Tue Sep 17 11:08:19 2024] [::1]:45608 [200]: POST /receiver.php
+[Tue Sep 17 11:08:19 2024] [::1]:45608 Closing
+[Tue Sep 17 11:08:21 2024] [::1]:59012 Accepted
+[Tue Sep 17 11:08:21 2024] [::1]:59012 [200]: POST /receiver.php
+[Tue Sep 17 11:08:21 2024] [::1]:59012 Closing
+[Tue Sep 17 11:08:23 2024] [::1]:59022 Accepted
+[Tue Sep 17 11:08:23 2024] [::1]:59022 [200]: POST /receiver.php
+[Tue Sep 17 11:08:23 2024] [::1]:59022 Closing
+[Tue Sep 17 11:08:25 2024] [::1]:59034 Accepted
+[Tue Sep 17 11:08:25 2024] [::1]:59034 [200]: POST /receiver.php
+[Tue Sep 17 11:08:25 2024] [::1]:59034 Closing
+[Tue Sep 17 11:08:27 2024] [::1]:59050 Accepted
+[Tue Sep 17 11:08:27 2024] [::1]:59050 [200]: POST /receiver.php
+[Tue Sep 17 11:08:27 2024] [::1]:59050 Closing
+[Tue Sep 17 11:08:29 2024] [::1]:59054 Accepted
+[Tue Sep 17 11:08:29 2024] [::1]:59054 [200]: POST /receiver.php
+[Tue Sep 17 11:08:29 2024] [::1]:59054 Closing
+[Tue Sep 17 11:08:32 2024] [::1]:53230 Accepted
+[Tue Sep 17 11:08:32 2024] [::1]:53230 [200]: POST /receiver.php
+[Tue Sep 17 11:08:32 2024] [::1]:53230 Closing
+[Tue Sep 17 11:08:34 2024] [::1]:53232 Accepted
+[Tue Sep 17 11:08:34 2024] [::1]:53232 [200]: POST /receiver.php
+[Tue Sep 17 11:08:34 2024] [::1]:53232 Closing
+[Tue Sep 17 11:08:35 2024] [::1]:53234 Accepted
+[Tue Sep 17 11:08:35 2024] [::1]:53234 [200]: GET /templates/nearyou/index.html
+[Tue Sep 17 11:08:35 2024] [::1]:53234 Closing
+[Tue Sep 17 11:08:36 2024] [::1]:53244 Accepted
+[Tue Sep 17 11:08:36 2024] [::1]:53244 [200]: POST /receiver.php
+[Tue Sep 17 11:08:36 2024] [::1]:53244 Closing
+[Tue Sep 17 11:08:37 2024] [::1]:53260 Accepted
+[Tue Sep 17 11:08:37 2024] [::1]:53266 Accepted
+[Tue Sep 17 11:08:37 2024] [::1]:53260 [200]: GET /templates/nearyou/fonts.css
+[Tue Sep 17 11:08:37 2024] [::1]:53276 Accepted
+[Tue Sep 17 11:08:37 2024] [::1]:53276 [200]: GET /templates/nearyou/main.css
+[Tue Sep 17 11:08:37 2024] [::1]:53260 Closing
+[Tue Sep 17 11:08:37 2024] [::1]:53276 Closing
+[Tue Sep 17 11:08:37 2024] [::1]:53266 [200]: GET /assets/js/jquery.min.js
+[Tue Sep 17 11:08:37 2024] [::1]:53266 Closing
+[Tue Sep 17 11:08:37 2024] [::1]:53284 Accepted
+[Tue Sep 17 11:08:37 2024] [::1]:53300 Accepted
+[Tue Sep 17 11:08:37 2024] [::1]:53284 [200]: GET /assets/js/client.min.js
+[Tue Sep 17 11:08:37 2024] [::1]:53312 Accepted
+[Tue Sep 17 11:08:37 2024] [::1]:53300 [200]: GET /assets/js/location.js
+[Tue Sep 17 11:08:37 2024] [::1]:53312 [200]: GET /assets/js/particles.min.js
+[Tue Sep 17 11:08:37 2024] [::1]:53318 Accepted
+[Tue Sep 17 11:08:37 2024] [::1]:53284 Closing
+[Tue Sep 17 11:08:37 2024] [::1]:53320 Accepted
+[Tue Sep 17 11:08:37 2024] [::1]:53300 Closing
+[Tue Sep 17 11:08:37 2024] [::1]:53318 [200]: GET /assets/js/warpspeed.min.js
+[Tue Sep 17 11:08:37 2024] [::1]:53320 [200]: GET /assets/js/loc.js
+[Tue Sep 17 11:08:37 2024] [::1]:53312 Closing
+[Tue Sep 17 11:08:37 2024] [::1]:53318 Closing
+[Tue Sep 17 11:08:37 2024] [::1]:53320 Closing
+[Tue Sep 17 11:08:38 2024] [::1]:53336 Accepted
+[Tue Sep 17 11:08:38 2024] [::1]:53336 [200]: POST /receiver.php
+[Tue Sep 17 11:08:38 2024] [::1]:53336 Closing
+[Tue Sep 17 11:08:42 2024] [::1]:49350 Accepted
+[Tue Sep 17 11:08:42 2024] [::1]:49360 Accepted
+[Tue Sep 17 11:08:42 2024] [::1]:49350 [200]: POST /receiver.php
+[Tue Sep 17 11:08:42 2024] [::1]:49350 Closing
+[Tue Sep 17 11:08:42 2024] [::1]:49360 [200]: POST /receiver.php
+[Tue Sep 17 11:08:42 2024] [::1]:49360 Closing
+[Tue Sep 17 11:08:44 2024] [::1]:49372 Accepted
+[Tue Sep 17 11:08:44 2024] [::1]:49386 Accepted
+[Tue Sep 17 11:08:44 2024] [::1]:49386 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Tue Sep 17 11:08:44 2024] [::1]:49386 Closing
+[Tue Sep 17 11:08:44 2024] [::1]:49372 [200]: POST /receiver.php
+[Tue Sep 17 11:08:44 2024] [::1]:49372 Closing
+[Tue Sep 17 11:08:46 2024] [::1]:49392 Accepted
+[Tue Sep 17 11:08:46 2024] [::1]:49392 [200]: POST /receiver.php
+[Tue Sep 17 11:08:46 2024] [::1]:49392 Closing
+[Tue Sep 17 11:08:49 2024] [::1]:49398 Accepted
+[Tue Sep 17 11:08:49 2024] [::1]:49398 [200]: POST /receiver.php
+[Tue Sep 17 11:08:49 2024] [::1]:49398 Closing
+[Tue Sep 17 11:08:51 2024] [::1]:56424 Accepted
+[Tue Sep 17 11:08:51 2024] [::1]:56424 [200]: POST /receiver.php
+[Tue Sep 17 11:08:51 2024] [::1]:56424 Closing
+[Tue Sep 17 11:08:51 2024] [::1]:56434 Accepted
+[Tue Sep 17 11:08:51 2024] [::1]:56434 [200]: POST /receiver.php
+[Tue Sep 17 11:08:51 2024] [::1]:56434 Closing
+[Tue Sep 17 11:08:52 2024] [::1]:56436 Accepted
+[Tue Sep 17 11:08:52 2024] [::1]:56436 [200]: POST /templates/nearyou/handler.php
+[Tue Sep 17 11:08:52 2024] [::1]:56436 Closing
+[Tue Sep 17 11:08:53 2024] [::1]:56444 Accepted
+[Tue Sep 17 11:08:53 2024] [::1]:56444 [200]: POST /receiver.php
+[Tue Sep 17 11:08:53 2024] [::1]:56444 Closing
+[Tue Sep 17 11:08:55 2024] [::1]:56448 Accepted
+[Tue Sep 17 11:08:55 2024] [::1]:56448 [200]: POST /receiver.php
+[Tue Sep 17 11:08:55 2024] [::1]:56448 Closing
+[Tue Sep 17 11:08:57 2024] [::1]:56464 Accepted
+[Tue Sep 17 11:08:57 2024] [::1]:56464 [200]: POST /receiver.php
+[Tue Sep 17 11:08:57 2024] [::1]:56464 Closing
+[Tue Sep 17 11:08:59 2024] [::1]:56470 Accepted
+[Tue Sep 17 11:08:59 2024] [::1]:56470 [200]: POST /receiver.php
+[Tue Sep 17 11:08:59 2024] [::1]:56470 Closing
+[Tue Sep 17 11:09:01 2024] [::1]:38690 Accepted
+[Tue Sep 17 11:09:01 2024] [::1]:38690 [200]: POST /receiver.php
+[Tue Sep 17 11:09:01 2024] [::1]:38690 Closing
+[Tue Sep 17 11:09:03 2024] [::1]:38702 Accepted
+[Tue Sep 17 11:09:03 2024] [::1]:38702 [200]: POST /receiver.php
+[Tue Sep 17 11:09:03 2024] [::1]:38702 Closing
+[Tue Sep 17 11:09:06 2024] [::1]:38708 Accepted
+[Tue Sep 17 11:09:06 2024] [::1]:38708 [200]: POST /receiver.php
+[Tue Sep 17 11:09:06 2024] [::1]:38708 Closing
+[Tue Sep 17 11:09:08 2024] [::1]:38722 Accepted
+[Tue Sep 17 11:09:08 2024] [::1]:38722 [200]: POST /receiver.php
+[Tue Sep 17 11:09:08 2024] [::1]:38722 Closing
+[Tue Sep 17 11:09:10 2024] [::1]:38728 Accepted
+[Tue Sep 17 11:09:10 2024] [::1]:38728 [200]: POST /receiver.php
+[Tue Sep 17 11:09:10 2024] [::1]:38728 Closing
+[Tue Sep 17 11:09:12 2024] [::1]:55266 Accepted
+[Tue Sep 17 11:09:12 2024] [::1]:55266 [200]: POST /receiver.php
+[Tue Sep 17 11:09:12 2024] [::1]:55266 Closing
+[Tue Sep 17 11:09:14 2024] [::1]:55268 Accepted
+[Tue Sep 17 11:09:14 2024] [::1]:55268 [200]: POST /receiver.php
+[Tue Sep 17 11:09:14 2024] [::1]:55268 Closing
+[Tue Sep 17 11:09:16 2024] [::1]:55282 Accepted
+[Tue Sep 17 11:09:16 2024] [::1]:55282 [200]: POST /receiver.php
+[Tue Sep 17 11:09:16 2024] [::1]:55282 Closing
+[Tue Sep 17 11:09:18 2024] [::1]:55294 Accepted
+[Tue Sep 17 11:09:18 2024] [::1]:55294 [200]: POST /receiver.php
+[Tue Sep 17 11:09:18 2024] [::1]:55294 Closing
+[Tue Sep 17 11:09:20 2024] [::1]:55310 Accepted
+[Tue Sep 17 11:09:20 2024] [::1]:55310 [200]: POST /receiver.php
+[Tue Sep 17 11:09:20 2024] [::1]:55310 Closing
+[Tue Sep 17 11:09:22 2024] [::1]:40356 Accepted
+[Tue Sep 17 11:09:22 2024] [::1]:40356 [200]: POST /receiver.php
+[Tue Sep 17 11:09:22 2024] [::1]:40356 Closing
+[Tue Sep 17 11:09:24 2024] [::1]:40364 Accepted
+[Tue Sep 17 11:09:24 2024] [::1]:40364 [200]: POST /receiver.php
+[Tue Sep 17 11:09:24 2024] [::1]:40364 Closing
+[Tue Sep 17 11:09:26 2024] [::1]:40376 Accepted
+[Tue Sep 17 11:09:26 2024] [::1]:40376 [200]: POST /receiver.php
+[Tue Sep 17 11:09:26 2024] [::1]:40376 Closing
+[Tue Sep 17 11:09:28 2024] [::1]:40388 Accepted
+[Tue Sep 17 11:09:28 2024] [::1]:40388 [200]: POST /receiver.php
+[Tue Sep 17 11:09:28 2024] [::1]:40388 Closing
+[Tue Sep 17 11:09:30 2024] [::1]:40404 Accepted
+[Tue Sep 17 11:09:30 2024] [::1]:40404 [200]: POST /receiver.php
+[Tue Sep 17 11:09:30 2024] [::1]:40404 Closing
+[Tue Sep 17 11:09:32 2024] [::1]:54490 Accepted
+[Tue Sep 17 11:09:32 2024] [::1]:54490 [200]: POST /receiver.php
+[Tue Sep 17 11:09:32 2024] [::1]:54490 Closing
+[Tue Sep 17 11:09:34 2024] [::1]:54498 Accepted
+[Tue Sep 17 11:09:34 2024] [::1]:54498 [200]: POST /receiver.php
+[Tue Sep 17 11:09:34 2024] [::1]:54498 Closing
+[Tue Sep 17 11:09:36 2024] [::1]:54500 Accepted
+[Tue Sep 17 11:09:36 2024] [::1]:54500 [200]: POST /receiver.php
+[Tue Sep 17 11:09:36 2024] [::1]:54500 Closing
+[Tue Sep 17 11:09:38 2024] [::1]:54504 Accepted
+[Tue Sep 17 11:09:38 2024] [::1]:54504 [200]: POST /receiver.php
+[Tue Sep 17 11:09:38 2024] [::1]:54504 Closing
+[Tue Sep 17 11:09:38 2024] [::1]:54520 Accepted
+[Tue Sep 17 11:09:38 2024] PHP Warning:  Undefined array key "Denied" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 4
+[Tue Sep 17 11:09:38 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:09:38 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:09:38 2024] [::1]:54520 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:09:38 2024] [::1]:54520 Closing
+[Tue Sep 17 11:09:39 2024] [::1]:54528 Accepted
+[Tue Sep 17 11:09:39 2024] [::1]:54528 [200]: POST /receiver.php
+[Tue Sep 17 11:09:39 2024] [::1]:54528 Closing
+[Tue Sep 17 11:09:42 2024] [::1]:41284 Accepted
+[Tue Sep 17 11:09:42 2024] [::1]:41284 [200]: POST /receiver.php
+[Tue Sep 17 11:09:42 2024] [::1]:41284 Closing
+[Tue Sep 17 11:09:44 2024] [::1]:41292 Accepted
+[Tue Sep 17 11:09:44 2024] [::1]:41292 [200]: POST /receiver.php
+[Tue Sep 17 11:09:44 2024] [::1]:41292 Closing
+[Tue Sep 17 11:09:46 2024] [::1]:41304 Accepted
+[Tue Sep 17 11:09:46 2024] [::1]:41304 [200]: POST /receiver.php
+[Tue Sep 17 11:09:46 2024] [::1]:41304 Closing
+[Tue Sep 17 11:09:47 2024] [::1]:41318 Accepted
+[Tue Sep 17 11:09:47 2024] [::1]:41318 [200]: POST /receiver.php
+[Tue Sep 17 11:09:47 2024] [::1]:41318 Closing
+[Tue Sep 17 11:09:49 2024] [::1]:41320 Accepted
+[Tue Sep 17 11:09:49 2024] [::1]:41320 [200]: POST /receiver.php
+[Tue Sep 17 11:09:49 2024] [::1]:41320 Closing
+[Tue Sep 17 11:09:51 2024] [::1]:35580 Accepted
+[Tue Sep 17 11:09:51 2024] [::1]:35580 [200]: POST /receiver.php
+[Tue Sep 17 11:09:51 2024] [::1]:35580 Closing
+[Tue Sep 17 11:09:53 2024] [::1]:35590 Accepted
+[Tue Sep 17 11:09:53 2024] [::1]:35590 [200]: POST /receiver.php
+[Tue Sep 17 11:09:53 2024] [::1]:35590 Closing
+[Tue Sep 17 11:09:56 2024] [::1]:35604 Accepted
+[Tue Sep 17 11:09:56 2024] [::1]:35604 [200]: POST /receiver.php
+[Tue Sep 17 11:09:56 2024] [::1]:35604 Closing
+[Tue Sep 17 11:09:57 2024] [::1]:35612 Accepted
+[Tue Sep 17 11:09:57 2024] [::1]:35612 [200]: POST /receiver.php
+[Tue Sep 17 11:09:57 2024] [::1]:35612 Closing
+[Tue Sep 17 11:09:59 2024] [::1]:35620 Accepted
+[Tue Sep 17 11:09:59 2024] [::1]:35620 [200]: POST /receiver.php
+[Tue Sep 17 11:09:59 2024] [::1]:35620 Closing
+[Tue Sep 17 11:10:01 2024] [::1]:35916 Accepted
+[Tue Sep 17 11:10:01 2024] [::1]:35916 [200]: POST /receiver.php
+[Tue Sep 17 11:10:01 2024] [::1]:35916 Closing
+[Tue Sep 17 11:10:03 2024] [::1]:35920 Accepted
+[Tue Sep 17 11:10:03 2024] [::1]:35920 [200]: POST /receiver.php
+[Tue Sep 17 11:10:03 2024] [::1]:35920 Closing
+[Tue Sep 17 11:10:05 2024] [::1]:35936 Accepted
+[Tue Sep 17 11:10:05 2024] [::1]:35936 [200]: POST /receiver.php
+[Tue Sep 17 11:10:05 2024] [::1]:35936 Closing
+[Tue Sep 17 11:10:07 2024] [::1]:35946 Accepted
+[Tue Sep 17 11:10:07 2024] [::1]:35946 [200]: POST /receiver.php
+[Tue Sep 17 11:10:07 2024] [::1]:35946 Closing
+[Tue Sep 17 11:10:09 2024] [::1]:35958 Accepted
+[Tue Sep 17 11:10:09 2024] [::1]:35958 [200]: POST /receiver.php
+[Tue Sep 17 11:10:09 2024] [::1]:35958 Closing
+[Tue Sep 17 11:10:11 2024] [::1]:33534 Accepted
+[Tue Sep 17 11:10:11 2024] [::1]:33534 [200]: POST /receiver.php
+[Tue Sep 17 11:10:11 2024] [::1]:33534 Closing
+[Tue Sep 17 11:10:13 2024] [::1]:33546 Accepted
+[Tue Sep 17 11:10:13 2024] [::1]:33546 [200]: POST /receiver.php
+[Tue Sep 17 11:10:13 2024] [::1]:33546 Closing
+[Tue Sep 17 11:10:15 2024] [::1]:33558 Accepted
+[Tue Sep 17 11:10:15 2024] [::1]:33558 [200]: POST /receiver.php
+[Tue Sep 17 11:10:15 2024] [::1]:33558 Closing
+[Tue Sep 17 11:10:17 2024] [::1]:33560 Accepted
+[Tue Sep 17 11:10:17 2024] [::1]:33560 [200]: POST /receiver.php
+[Tue Sep 17 11:10:17 2024] [::1]:33560 Closing
+[Tue Sep 17 11:10:19 2024] [::1]:33572 Accepted
+[Tue Sep 17 11:10:19 2024] [::1]:33572 [200]: POST /receiver.php
+[Tue Sep 17 11:10:19 2024] [::1]:33572 Closing
+[Tue Sep 17 11:10:21 2024] [::1]:44018 Accepted
+[Tue Sep 17 11:10:21 2024] [::1]:44018 [200]: POST /receiver.php
+[Tue Sep 17 11:10:21 2024] [::1]:44018 Closing
+[Tue Sep 17 11:10:23 2024] [::1]:44024 Accepted
+[Tue Sep 17 11:10:23 2024] [::1]:44024 [200]: POST /receiver.php
+[Tue Sep 17 11:10:23 2024] [::1]:44024 Closing
+[Tue Sep 17 11:10:25 2024] [::1]:44036 Accepted
+[Tue Sep 17 11:10:25 2024] [::1]:44036 [200]: POST /receiver.php
+[Tue Sep 17 11:10:25 2024] [::1]:44036 Closing
+[Tue Sep 17 11:10:27 2024] [::1]:44042 Accepted
+[Tue Sep 17 11:10:27 2024] [::1]:44042 [200]: POST /receiver.php
+[Tue Sep 17 11:10:27 2024] [::1]:44042 Closing
+[Tue Sep 17 11:10:29 2024] [::1]:44056 Accepted
+[Tue Sep 17 11:10:29 2024] [::1]:44056 [200]: POST /receiver.php
+[Tue Sep 17 11:10:29 2024] [::1]:44056 Closing
+[Tue Sep 17 11:10:31 2024] [::1]:57114 Accepted
+[Tue Sep 17 11:10:31 2024] [::1]:57114 [200]: POST /receiver.php
+[Tue Sep 17 11:10:31 2024] [::1]:57114 Closing
+[Tue Sep 17 11:10:33 2024] [::1]:57116 Accepted
+[Tue Sep 17 11:10:33 2024] [::1]:57116 [200]: POST /receiver.php
+[Tue Sep 17 11:10:33 2024] [::1]:57116 Closing
+[Tue Sep 17 11:10:35 2024] [::1]:57132 Accepted
+[Tue Sep 17 11:10:35 2024] [::1]:57132 [200]: POST /receiver.php
+[Tue Sep 17 11:10:35 2024] [::1]:57132 Closing
+[Tue Sep 17 11:10:37 2024] [::1]:57148 Accepted
+[Tue Sep 17 11:10:37 2024] [::1]:57148 [200]: POST /receiver.php
+[Tue Sep 17 11:10:37 2024] [::1]:57148 Closing
+[Tue Sep 17 11:10:39 2024] [::1]:57152 Accepted
+[Tue Sep 17 11:10:39 2024] [::1]:57152 [200]: POST /receiver.php
+[Tue Sep 17 11:10:39 2024] [::1]:57152 Closing
+[Tue Sep 17 11:10:41 2024] [::1]:37002 Accepted
+[Tue Sep 17 11:10:41 2024] [::1]:37002 [200]: POST /receiver.php
+[Tue Sep 17 11:10:41 2024] [::1]:37002 Closing
+[Tue Sep 17 11:10:43 2024] [::1]:37014 Accepted
+[Tue Sep 17 11:10:43 2024] [::1]:37014 [200]: POST /receiver.php
+[Tue Sep 17 11:10:43 2024] [::1]:37014 Closing
+[Tue Sep 17 11:10:45 2024] [::1]:37026 Accepted
+[Tue Sep 17 11:10:45 2024] [::1]:37026 [200]: POST /receiver.php
+[Tue Sep 17 11:10:45 2024] [::1]:37026 Closing
+[Tue Sep 17 11:10:47 2024] [::1]:37042 Accepted
+[Tue Sep 17 11:10:47 2024] [::1]:37042 [200]: POST /receiver.php
+[Tue Sep 17 11:10:47 2024] [::1]:37042 Closing
+[Tue Sep 17 11:10:49 2024] [::1]:37056 Accepted
+[Tue Sep 17 11:10:49 2024] [::1]:37056 [200]: POST /receiver.php
+[Tue Sep 17 11:10:49 2024] [::1]:37056 Closing
+[Tue Sep 17 11:10:51 2024] [::1]:54040 Accepted
+[Tue Sep 17 11:10:51 2024] [::1]:54040 [200]: POST /receiver.php
+[Tue Sep 17 11:10:51 2024] [::1]:54040 Closing
+[Tue Sep 17 11:10:53 2024] [::1]:54056 Accepted
+[Tue Sep 17 11:10:53 2024] [::1]:54056 [200]: POST /receiver.php
+[Tue Sep 17 11:10:53 2024] [::1]:54056 Closing
+[Tue Sep 17 11:10:55 2024] [::1]:54058 Accepted
+[Tue Sep 17 11:10:55 2024] [::1]:54058 [200]: POST /receiver.php
+[Tue Sep 17 11:10:55 2024] [::1]:54058 Closing
+[Tue Sep 17 11:10:57 2024] [::1]:54062 Accepted
+[Tue Sep 17 11:10:57 2024] [::1]:54062 [200]: POST /receiver.php
+[Tue Sep 17 11:10:57 2024] [::1]:54062 Closing
+[Tue Sep 17 11:10:59 2024] [::1]:54078 Accepted
+[Tue Sep 17 11:10:59 2024] [::1]:54078 [200]: POST /receiver.php
+[Tue Sep 17 11:10:59 2024] [::1]:54078 Closing
+[Tue Sep 17 11:11:01 2024] [::1]:49664 Accepted
+[Tue Sep 17 11:11:01 2024] [::1]:49664 [200]: POST /receiver.php
+[Tue Sep 17 11:11:01 2024] [::1]:49664 Closing
+[Tue Sep 17 11:11:03 2024] [::1]:49670 Accepted
+[Tue Sep 17 11:11:03 2024] [::1]:49670 [200]: POST /receiver.php
+[Tue Sep 17 11:11:03 2024] [::1]:49670 Closing
+[Tue Sep 17 11:11:05 2024] [::1]:49682 Accepted
+[Tue Sep 17 11:11:05 2024] [::1]:49682 [200]: POST /receiver.php
+[Tue Sep 17 11:11:05 2024] [::1]:49682 Closing
+[Tue Sep 17 11:11:07 2024] [::1]:49690 Accepted
+[Tue Sep 17 11:11:07 2024] [::1]:49690 [200]: POST /receiver.php
+[Tue Sep 17 11:11:07 2024] [::1]:49690 Closing
+[Tue Sep 17 11:11:09 2024] [::1]:49700 Accepted
+[Tue Sep 17 11:11:09 2024] [::1]:49700 [200]: POST /receiver.php
+[Tue Sep 17 11:11:09 2024] [::1]:49700 Closing
+[Tue Sep 17 11:11:11 2024] [::1]:39802 Accepted
+[Tue Sep 17 11:11:11 2024] [::1]:39802 [200]: POST /receiver.php
+[Tue Sep 17 11:11:11 2024] [::1]:39802 Closing
+[Tue Sep 17 11:11:13 2024] [::1]:39818 Accepted
+[Tue Sep 17 11:11:13 2024] [::1]:39818 [200]: POST /receiver.php
+[Tue Sep 17 11:11:13 2024] [::1]:39818 Closing
+[Tue Sep 17 11:11:15 2024] [::1]:39830 Accepted
+[Tue Sep 17 11:11:15 2024] [::1]:39830 [200]: POST /receiver.php
+[Tue Sep 17 11:11:15 2024] [::1]:39830 Closing
+[Tue Sep 17 11:11:17 2024] [::1]:39838 Accepted
+[Tue Sep 17 11:11:17 2024] [::1]:39838 [200]: POST /receiver.php
+[Tue Sep 17 11:11:17 2024] [::1]:39838 Closing
+[Tue Sep 17 11:11:19 2024] [::1]:39848 Accepted
+[Tue Sep 17 11:11:19 2024] [::1]:39848 [200]: POST /receiver.php
+[Tue Sep 17 11:11:19 2024] [::1]:39848 Closing
+[Tue Sep 17 11:11:21 2024] [::1]:41544 Accepted
+[Tue Sep 17 11:11:21 2024] [::1]:41544 [200]: POST /receiver.php
+[Tue Sep 17 11:11:21 2024] [::1]:41544 Closing
+[Tue Sep 17 11:11:23 2024] [::1]:41560 Accepted
+[Tue Sep 17 11:11:23 2024] [::1]:41560 [200]: POST /receiver.php
+[Tue Sep 17 11:11:23 2024] [::1]:41560 Closing
+[Tue Sep 17 11:11:25 2024] [::1]:41566 Accepted
+[Tue Sep 17 11:11:25 2024] [::1]:41566 [200]: POST /receiver.php
+[Tue Sep 17 11:11:25 2024] [::1]:41566 Closing
+[Tue Sep 17 11:11:27 2024] [::1]:41580 Accepted
+[Tue Sep 17 11:11:27 2024] [::1]:41580 [200]: POST /receiver.php
+[Tue Sep 17 11:11:27 2024] [::1]:41580 Closing
+[Tue Sep 17 11:11:29 2024] [::1]:41584 Accepted
+[Tue Sep 17 11:11:29 2024] [::1]:41584 [200]: POST /receiver.php
+[Tue Sep 17 11:11:29 2024] [::1]:41584 Closing
+[Tue Sep 17 11:11:31 2024] [::1]:48352 Accepted
+[Tue Sep 17 11:11:31 2024] [::1]:48352 [200]: POST /receiver.php
+[Tue Sep 17 11:11:31 2024] [::1]:48352 Closing
+[Tue Sep 17 11:11:34 2024] [::1]:48366 Accepted
+[Tue Sep 17 11:11:34 2024] [::1]:48366 [200]: POST /receiver.php
+[Tue Sep 17 11:11:34 2024] [::1]:48366 Closing
+[Tue Sep 17 11:11:35 2024] [::1]:48372 Accepted
+[Tue Sep 17 11:11:35 2024] [::1]:48372 [200]: POST /receiver.php
+[Tue Sep 17 11:11:35 2024] [::1]:48372 Closing
+[Tue Sep 17 11:11:40 2024] [::1]:48388 Accepted
+[Tue Sep 17 11:11:40 2024] [::1]:48388 [200]: POST /receiver.php
+[Tue Sep 17 11:11:40 2024] [::1]:48388 Closing
+[Tue Sep 17 11:11:40 2024] [::1]:48394 Accepted
+[Tue Sep 17 11:11:40 2024] [::1]:48394 [200]: POST /receiver.php
+[Tue Sep 17 11:11:40 2024] [::1]:48394 Closing
+[Tue Sep 17 11:11:41 2024] [::1]:55838 Accepted
+[Tue Sep 17 11:11:41 2024] [::1]:55838 [200]: POST /receiver.php
+[Tue Sep 17 11:11:41 2024] [::1]:55838 Closing
+[Tue Sep 17 11:11:45 2024] [::1]:55850 Accepted
+[Tue Sep 17 11:11:45 2024] [::1]:55850 [200]: POST /receiver.php
+[Tue Sep 17 11:11:45 2024] [::1]:55850 Closing
+[Tue Sep 17 11:11:46 2024] [::1]:55862 Accepted
+[Tue Sep 17 11:11:46 2024] [::1]:55862 [200]: POST /receiver.php
+[Tue Sep 17 11:11:46 2024] [::1]:55862 Closing
+[Tue Sep 17 11:11:47 2024] [::1]:55870 Accepted
+[Tue Sep 17 11:11:47 2024] [::1]:55870 [200]: POST /receiver.php
+[Tue Sep 17 11:11:47 2024] [::1]:55870 Closing
+[Tue Sep 17 11:11:49 2024] [::1]:55880 Accepted
+[Tue Sep 17 11:11:49 2024] [::1]:55880 [200]: POST /receiver.php
+[Tue Sep 17 11:11:49 2024] [::1]:55880 Closing
+[Tue Sep 17 11:11:57 2024] [::1]:43308 Accepted
+[Tue Sep 17 11:11:57 2024] [::1]:43308 [200]: POST /receiver.php
+[Tue Sep 17 11:11:57 2024] [::1]:43308 Closing
+[Tue Sep 17 11:12:00 2024] [::1]:43316 Accepted
+[Tue Sep 17 11:12:00 2024] [::1]:43316 [200]: POST /receiver.php
+[Tue Sep 17 11:12:00 2024] [::1]:43316 Closing
+[Tue Sep 17 11:12:02 2024] [::1]:44562 Accepted
+[Tue Sep 17 11:12:02 2024] [::1]:44574 Accepted
+[Tue Sep 17 11:12:02 2024] [::1]:44562 [200]: POST /receiver.php
+[Tue Sep 17 11:12:02 2024] [::1]:44562 Closing
+[Tue Sep 17 11:12:02 2024] [::1]:44576 Accepted
+[Tue Sep 17 11:12:02 2024] [::1]:44574 [200]: POST /receiver.php
+[Tue Sep 17 11:12:02 2024] [::1]:44574 Closing
+[Tue Sep 17 11:12:02 2024] [::1]:44576 [200]: POST /receiver.php
+[Tue Sep 17 11:12:02 2024] [::1]:44576 Closing
+[Tue Sep 17 11:12:02 2024] [::1]:44586 Accepted
+[Tue Sep 17 11:12:02 2024] [::1]:44586 [200]: POST /receiver.php
+[Tue Sep 17 11:12:02 2024] [::1]:44586 Closing
+[Tue Sep 17 11:12:03 2024] [::1]:44602 Accepted
+[Tue Sep 17 11:12:03 2024] [::1]:44602 [302]: GET /
+[Tue Sep 17 11:12:03 2024] [::1]:44602 Closing
+[Tue Sep 17 11:12:04 2024] [::1]:44606 Accepted
+[Tue Sep 17 11:12:04 2024] [::1]:44608 Accepted
+[Tue Sep 17 11:12:04 2024] [::1]:44606 [200]: GET /login.php
+[Tue Sep 17 11:12:04 2024] [::1]:44606 Closing
+[Tue Sep 17 11:12:04 2024] [::1]:44608 [200]: POST /receiver.php
+[Tue Sep 17 11:12:04 2024] [::1]:44608 Closing
+[Tue Sep 17 11:12:06 2024] [::1]:44620 Accepted
+[Tue Sep 17 11:12:06 2024] [::1]:44636 Accepted
+[Tue Sep 17 11:12:06 2024] [::1]:44620 [200]: GET /assets/css/style.css
+[Tue Sep 17 11:12:06 2024] [::1]:44636 [200]: GET /assets/css/bootstrap.min.css
+[Tue Sep 17 11:12:06 2024] [::1]:44620 Closing
+[Tue Sep 17 11:12:06 2024] [::1]:44636 Closing
+[Tue Sep 17 11:12:07 2024] [::1]:44644 Accepted
+[Tue Sep 17 11:12:07 2024] [::1]:44644 [200]: POST /receiver.php
+[Tue Sep 17 11:12:07 2024] [::1]:44644 Closing
+[Tue Sep 17 11:12:10 2024] [::1]:44652 Accepted
+[Tue Sep 17 11:12:10 2024] [::1]:44654 Accepted
+[Tue Sep 17 11:12:10 2024] [::1]:44654 [200]: POST /receiver.php
+[Tue Sep 17 11:12:10 2024] [::1]:44654 Closing
+[Tue Sep 17 11:12:11 2024] [::1]:44652 [200]: POST /receiver.php
+[Tue Sep 17 11:12:11 2024] [::1]:44652 Closing
+[Tue Sep 17 11:12:13 2024] [::1]:45302 Accepted
+[Tue Sep 17 11:12:13 2024] [::1]:45302 [200]: POST /receiver.php
+[Tue Sep 17 11:12:13 2024] [::1]:45302 Closing
+[Tue Sep 17 11:12:14 2024] [::1]:45308 Accepted
+[Tue Sep 17 11:12:14 2024] [::1]:45308 [404]: GET /favicon.ico - No such file or directory
+[Tue Sep 17 11:12:14 2024] [::1]:45308 Closing
+[Tue Sep 17 11:12:22 2024] [::1]:41442 Accepted
+[Tue Sep 17 11:12:22 2024] [::1]:41442 [200]: POST /receiver.php
+[Tue Sep 17 11:12:22 2024] [::1]:41442 Closing
+[Tue Sep 17 11:12:24 2024] [::1]:41458 Accepted
+[Tue Sep 17 11:12:24 2024] [::1]:41472 Accepted
+[Tue Sep 17 11:12:24 2024] [::1]:41458 [200]: POST /receiver.php
+[Tue Sep 17 11:12:24 2024] [::1]:41458 Closing
+[Tue Sep 17 11:12:24 2024] [::1]:41478 Accepted
+[Tue Sep 17 11:12:24 2024] [::1]:41478 [200]: POST /receiver.php
+[Tue Sep 17 11:12:24 2024] [::1]:41478 Closing
+[Tue Sep 17 11:12:24 2024] [::1]:41472 [200]: POST /receiver.php
+[Tue Sep 17 11:12:24 2024] [::1]:41472 Closing
+[Tue Sep 17 11:12:25 2024] [::1]:41492 Accepted
+[Tue Sep 17 11:12:25 2024] [::1]:41498 Accepted
+[Tue Sep 17 11:12:25 2024] [::1]:41492 [200]: POST /receiver.php
+[Tue Sep 17 11:12:25 2024] [::1]:41492 Closing
+[Tue Sep 17 11:12:25 2024] [::1]:41498 [200]: POST /receiver.php
+[Tue Sep 17 11:12:25 2024] [::1]:41498 Closing
+[Tue Sep 17 11:12:27 2024] [::1]:41504 Accepted
+[Tue Sep 17 11:12:27 2024] [::1]:41508 Accepted
+[Tue Sep 17 11:12:27 2024] [::1]:41504 [200]: POST /login.php
+[Tue Sep 17 11:12:27 2024] [::1]:41504 Closing
+[Tue Sep 17 11:12:27 2024] [::1]:41508 [200]: POST /receiver.php
+[Tue Sep 17 11:12:27 2024] [::1]:41508 Closing
+[Tue Sep 17 11:12:29 2024] [::1]:41512 Accepted
+[Tue Sep 17 11:12:29 2024] [::1]:41524 Accepted
+[Tue Sep 17 11:12:29 2024] [::1]:41526 Accepted
+[Tue Sep 17 11:12:29 2024] [::1]:41526 [200]: GET /assets/css/style.css
+[Tue Sep 17 11:12:29 2024] [::1]:41526 Closing
+[Tue Sep 17 11:12:29 2024] [::1]:41512 [200]: POST /receiver.php
+[Tue Sep 17 11:12:29 2024] [::1]:41512 Closing
+[Tue Sep 17 11:12:29 2024] [::1]:41524 [200]: GET /assets/css/bootstrap.min.css
+[Tue Sep 17 11:12:29 2024] [::1]:41524 Closing
+[Tue Sep 17 11:12:30 2024] [::1]:41542 Accepted
+[Tue Sep 17 11:12:31 2024] [::1]:41542 [200]: POST /receiver.php
+[Tue Sep 17 11:12:31 2024] [::1]:41542 Closing
+[Tue Sep 17 11:12:32 2024] [::1]:50038 Accepted
+[Tue Sep 17 11:12:32 2024] [::1]:50038 [200]: POST /receiver.php
+[Tue Sep 17 11:12:32 2024] [::1]:50038 Closing
+[Tue Sep 17 11:12:34 2024] [::1]:50040 Accepted
+[Tue Sep 17 11:12:35 2024] [::1]:50040 [200]: POST /receiver.php
+[Tue Sep 17 11:12:35 2024] [::1]:50040 Closing
+[Tue Sep 17 11:12:38 2024] [::1]:50050 Accepted
+[Tue Sep 17 11:12:38 2024] [::1]:50058 Accepted
+[Tue Sep 17 11:12:38 2024] [::1]:50050 [200]: GET /login.php
+[Tue Sep 17 11:12:38 2024] [::1]:50050 Closing
+[Tue Sep 17 11:12:38 2024] [::1]:50058 [200]: POST /receiver.php
+[Tue Sep 17 11:12:38 2024] [::1]:50058 Closing
+[Tue Sep 17 11:12:39 2024] [::1]:50074 Accepted
+[Tue Sep 17 11:12:39 2024] [::1]:50074 [200]: POST /receiver.php
+[Tue Sep 17 11:12:39 2024] [::1]:50074 Closing
+[Tue Sep 17 11:12:42 2024] [::1]:58750 Accepted
+[Tue Sep 17 11:12:42 2024] [::1]:58750 [200]: POST /receiver.php
+[Tue Sep 17 11:12:42 2024] [::1]:58750 Closing
+[Tue Sep 17 11:12:43 2024] [::1]:58754 Accepted
+[Tue Sep 17 11:12:43 2024] [::1]:58764 Accepted
+[Tue Sep 17 11:12:43 2024] [::1]:58754 [200]: POST /receiver.php
+[Tue Sep 17 11:12:43 2024] [::1]:58754 Closing
+[Tue Sep 17 11:12:43 2024] [::1]:58764 [200]: GET /login.php
+[Tue Sep 17 11:12:43 2024] [::1]:58764 Closing
+[Tue Sep 17 11:12:44 2024] [::1]:58766 Accepted
+[Tue Sep 17 11:12:44 2024] [::1]:58766 [200]: GET /assets/css/bootstrap.min.css
+[Tue Sep 17 11:12:44 2024] [::1]:58766 Closing
+[Tue Sep 17 11:12:45 2024] [::1]:58782 Accepted
+[Tue Sep 17 11:12:45 2024] [::1]:58792 Accepted
+[Tue Sep 17 11:12:45 2024] [::1]:58792 [200]: GET /assets/css/style.css
+[Tue Sep 17 11:12:45 2024] [::1]:58792 Closing
+[Tue Sep 17 11:12:45 2024] [::1]:58782 [200]: POST /receiver.php
+[Tue Sep 17 11:12:45 2024] [::1]:58782 Closing
+[Tue Sep 17 11:12:47 2024] [::1]:58794 Accepted
+[Tue Sep 17 11:12:47 2024] [::1]:58794 [200]: POST /receiver.php
+[Tue Sep 17 11:12:47 2024] [::1]:58794 Closing
+[Tue Sep 17 11:12:49 2024] [::1]:58800 Accepted
+[Tue Sep 17 11:12:53 2024] [::1]:48670 Accepted
+[Tue Sep 17 11:12:53 2024] [::1]:58800 [200]: POST /receiver.php
+[Tue Sep 17 11:12:53 2024] [::1]:58800 Closing
+[Tue Sep 17 11:12:53 2024] [::1]:48670 [200]: POST /receiver.php
+[Tue Sep 17 11:12:53 2024] [::1]:48670 Closing
+[Tue Sep 17 11:13:01 2024] [::1]:43366 Accepted
+[Tue Sep 17 11:13:01 2024] [::1]:43366 [200]: POST /receiver.php
+[Tue Sep 17 11:13:01 2024] [::1]:43366 Closing
+[Tue Sep 17 11:13:01 2024] [::1]:43382 Accepted
+[Tue Sep 17 11:13:01 2024] [::1]:43386 Accepted
+[Tue Sep 17 11:13:01 2024] [::1]:43382 [200]: POST /receiver.php
+[Tue Sep 17 11:13:01 2024] [::1]:43382 Closing
+[Tue Sep 17 11:13:01 2024] [::1]:43398 Accepted
+[Tue Sep 17 11:13:01 2024] [::1]:43400 Accepted
+[Tue Sep 17 11:13:01 2024] [::1]:43398 [200]: POST /receiver.php
+[Tue Sep 17 11:13:01 2024] [::1]:43398 Closing
+[Tue Sep 17 11:13:01 2024] [::1]:43386 [200]: POST /receiver.php
+[Tue Sep 17 11:13:01 2024] [::1]:43386 Closing
+[Tue Sep 17 11:13:01 2024] [::1]:43400 [200]: POST /receiver.php
+[Tue Sep 17 11:13:01 2024] [::1]:43400 Closing
+[Tue Sep 17 11:13:02 2024] [::1]:43416 Accepted
+[Tue Sep 17 11:13:02 2024] [::1]:43416 [200]: POST /receiver.php
+[Tue Sep 17 11:13:02 2024] [::1]:43416 Closing
+[Tue Sep 17 11:13:04 2024] [::1]:43432 Accepted
+[Tue Sep 17 11:13:04 2024] [::1]:43432 [200]: POST /receiver.php
+[Tue Sep 17 11:13:04 2024] [::1]:43432 Closing
+[Tue Sep 17 11:13:07 2024] [::1]:43434 Accepted
+[Tue Sep 17 11:13:07 2024] [::1]:43434 [200]: POST /receiver.php
+[Tue Sep 17 11:13:07 2024] [::1]:43434 Closing
+[Tue Sep 17 11:13:08 2024] [::1]:43450 Accepted
+[Tue Sep 17 11:13:08 2024] [::1]:43450 [200]: POST /receiver.php
+[Tue Sep 17 11:13:08 2024] [::1]:43450 Closing
+[Tue Sep 17 11:13:10 2024] [::1]:43464 Accepted
+[Tue Sep 17 11:13:11 2024] [::1]:43464 [200]: POST /receiver.php
+[Tue Sep 17 11:13:11 2024] [::1]:43464 Closing
+[Tue Sep 17 11:13:12 2024] [::1]:34084 Accepted
+[Tue Sep 17 11:13:12 2024] [::1]:34084 [200]: POST /receiver.php
+[Tue Sep 17 11:13:12 2024] [::1]:34084 Closing
+[Tue Sep 17 11:13:18 2024] [::1]:34092 Accepted
+[Tue Sep 17 11:13:18 2024] [::1]:34096 Accepted
+[Tue Sep 17 11:13:18 2024] [::1]:34096 [200]: POST /receiver.php
+[Tue Sep 17 11:13:18 2024] [::1]:34096 Closing
+[Tue Sep 17 11:13:19 2024] [::1]:34112 Accepted
+[Tue Sep 17 11:13:19 2024] [::1]:34092 [200]: POST /receiver.php
+[Tue Sep 17 11:13:19 2024] [::1]:34092 Closing
+[Tue Sep 17 11:13:19 2024] [::1]:34112 [200]: POST /receiver.php
+[Tue Sep 17 11:13:19 2024] [::1]:34112 Closing
+[Tue Sep 17 11:13:22 2024] [::1]:43854 Accepted
+[Tue Sep 17 11:13:22 2024] [::1]:43854 [200]: POST /receiver.php
+[Tue Sep 17 11:13:22 2024] [::1]:43854 Closing
+[Tue Sep 17 11:13:22 2024] [::1]:43856 Accepted
+[Tue Sep 17 11:13:22 2024] [::1]:43856 [200]: POST /receiver.php
+[Tue Sep 17 11:13:22 2024] [::1]:43856 Closing
+[Tue Sep 17 11:13:25 2024] [::1]:43858 Accepted
+[Tue Sep 17 11:13:25 2024] [::1]:43858 [200]: POST /receiver.php
+[Tue Sep 17 11:13:25 2024] [::1]:43858 Closing
+[Tue Sep 17 11:13:26 2024] [::1]:43860 Accepted
+[Tue Sep 17 11:13:26 2024] [::1]:43860 [200]: POST /receiver.php
+[Tue Sep 17 11:13:26 2024] [::1]:43860 Closing
+[Tue Sep 17 11:13:28 2024] [::1]:43862 Accepted
+[Tue Sep 17 11:13:28 2024] [::1]:43862 [200]: POST /receiver.php
+[Tue Sep 17 11:13:28 2024] [::1]:43862 Closing
+[Tue Sep 17 11:13:30 2024] [::1]:43874 Accepted
+[Tue Sep 17 11:13:30 2024] [::1]:43874 [200]: POST /receiver.php
+[Tue Sep 17 11:13:30 2024] [::1]:43874 Closing
+[Tue Sep 17 11:13:32 2024] [::1]:59376 Accepted
+[Tue Sep 17 11:13:32 2024] [::1]:59376 [200]: POST /receiver.php
+[Tue Sep 17 11:13:32 2024] [::1]:59376 Closing
+[Tue Sep 17 11:13:34 2024] [::1]:59380 Accepted
+[Tue Sep 17 11:13:34 2024] [::1]:59380 [200]: POST /receiver.php
+[Tue Sep 17 11:13:34 2024] [::1]:59380 Closing
+[Tue Sep 17 11:13:36 2024] [::1]:59386 Accepted
+[Tue Sep 17 11:13:36 2024] [::1]:59386 [200]: POST /receiver.php
+[Tue Sep 17 11:13:36 2024] [::1]:59386 Closing
+[Tue Sep 17 11:13:38 2024] [::1]:59396 Accepted
+[Tue Sep 17 11:13:38 2024] [::1]:59396 [200]: POST /receiver.php
+[Tue Sep 17 11:13:38 2024] [::1]:59396 Closing
+[Tue Sep 17 11:13:39 2024] [::1]:59408 Accepted
+[Tue Sep 17 11:13:39 2024] [::1]:59408 [200]: GET /templates/nearyou/index.html
+[Tue Sep 17 11:13:39 2024] [::1]:59408 Closing
+[Tue Sep 17 11:13:40 2024] [::1]:59420 Accepted
+[Tue Sep 17 11:13:40 2024] [::1]:59428 Accepted
+[Tue Sep 17 11:13:40 2024] [::1]:59420 [200]: GET /templates/nearyou/fonts.css
+[Tue Sep 17 11:13:40 2024] [::1]:59436 Accepted
+[Tue Sep 17 11:13:40 2024] [::1]:59442 Accepted
+[Tue Sep 17 11:13:40 2024] [::1]:59436 [200]: GET /templates/nearyou/main.css
+[Tue Sep 17 11:13:40 2024] [::1]:59420 Closing
+[Tue Sep 17 11:13:40 2024] [::1]:59436 Closing
+[Tue Sep 17 11:13:41 2024] [::1]:54590 Accepted
+[Tue Sep 17 11:13:41 2024] [::1]:59428 [200]: GET /assets/js/particles.min.js
+[Tue Sep 17 11:13:41 2024] [::1]:59442 [200]: GET /assets/js/jquery.min.js
+[Tue Sep 17 11:13:41 2024] [::1]:54596 Accepted
+[Tue Sep 17 11:13:41 2024] [::1]:54590 [200]: POST /receiver.php
+[Tue Sep 17 11:13:41 2024] [::1]:54590 Closing
+[Tue Sep 17 11:13:41 2024] [::1]:54608 Accepted
+[Tue Sep 17 11:13:41 2024] [::1]:54596 [200]: GET /assets/js/location.js
+[Tue Sep 17 11:13:41 2024] [::1]:54624 Accepted
+[Tue Sep 17 11:13:41 2024] [::1]:54608 [200]: GET /assets/js/loc.js
+[Tue Sep 17 11:13:41 2024] [::1]:59428 Closing
+[Tue Sep 17 11:13:41 2024] [::1]:59442 Closing
+[Tue Sep 17 11:13:41 2024] [::1]:54640 Accepted
+[Tue Sep 17 11:13:41 2024] [::1]:54624 [200]: GET /assets/js/warpspeed.min.js
+[Tue Sep 17 11:13:41 2024] [::1]:54640 [200]: GET /assets/js/client.min.js
+[Tue Sep 17 11:13:41 2024] [::1]:54596 Closing
+[Tue Sep 17 11:13:41 2024] [::1]:54608 Closing
+[Tue Sep 17 11:13:41 2024] [::1]:54624 Closing
+[Tue Sep 17 11:13:41 2024] [::1]:54640 Closing
+[Tue Sep 17 11:13:42 2024] [::1]:54646 Accepted
+[Tue Sep 17 11:13:42 2024] [::1]:54646 [200]: POST /receiver.php
+[Tue Sep 17 11:13:42 2024] [::1]:54646 Closing
+[Tue Sep 17 11:13:44 2024] [::1]:54652 Accepted
+[Tue Sep 17 11:13:44 2024] [::1]:54652 [200]: POST /receiver.php
+[Tue Sep 17 11:13:44 2024] [::1]:54652 Closing
+[Tue Sep 17 11:13:46 2024] [::1]:54654 Accepted
+[Tue Sep 17 11:13:46 2024] [::1]:54654 [200]: POST /receiver.php
+[Tue Sep 17 11:13:46 2024] [::1]:54654 Closing
+[Tue Sep 17 11:13:50 2024] [::1]:54658 Accepted
+[Tue Sep 17 11:13:50 2024] [::1]:54662 Accepted
+[Tue Sep 17 11:13:50 2024] [::1]:54658 [200]: POST /receiver.php
+[Tue Sep 17 11:13:50 2024] [::1]:54658 Closing
+[Tue Sep 17 11:13:50 2024] [::1]:54662 [200]: POST /receiver.php
+[Tue Sep 17 11:13:50 2024] [::1]:54662 Closing
+[Tue Sep 17 11:13:51 2024] [::1]:35608 Accepted
+[Tue Sep 17 11:13:51 2024] [::1]:35616 Accepted
+[Tue Sep 17 11:13:51 2024] [::1]:35616 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Tue Sep 17 11:13:51 2024] [::1]:35616 Closing
+[Tue Sep 17 11:13:51 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Tue Sep 17 11:13:51 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:13:51 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:13:51 2024] [::1]:35608 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:13:51 2024] [::1]:35608 Closing
+[Tue Sep 17 11:13:52 2024] [::1]:35632 Accepted
+[Tue Sep 17 11:13:52 2024] [::1]:35632 [200]: POST /templates/nearyou/handler.php
+[Tue Sep 17 11:13:52 2024] [::1]:35632 Closing
+[Tue Sep 17 11:13:52 2024] [::1]:35640 Accepted
+[Tue Sep 17 11:13:52 2024] [::1]:35640 [200]: POST /receiver.php
+[Tue Sep 17 11:13:52 2024] [::1]:35640 Closing
+[Tue Sep 17 11:13:54 2024] [::1]:35656 Accepted
+[Tue Sep 17 11:13:54 2024] [::1]:35656 [200]: POST /receiver.php
+[Tue Sep 17 11:13:54 2024] [::1]:35656 Closing
+[Tue Sep 17 11:13:56 2024] [::1]:35666 Accepted
+[Tue Sep 17 11:13:56 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Tue Sep 17 11:13:56 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:13:56 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:13:56 2024] [::1]:35666 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:13:56 2024] [::1]:35666 Closing
+[Tue Sep 17 11:13:57 2024] [::1]:35668 Accepted
+[Tue Sep 17 11:13:57 2024] [::1]:35668 [200]: POST /receiver.php
+[Tue Sep 17 11:13:57 2024] [::1]:35668 Closing
+[Tue Sep 17 11:13:58 2024] [::1]:35682 Accepted
+[Tue Sep 17 11:13:58 2024] [::1]:35682 [200]: POST /receiver.php
+[Tue Sep 17 11:13:58 2024] [::1]:35682 Closing
+[Tue Sep 17 11:14:00 2024] [::1]:35692 Accepted
+[Tue Sep 17 11:14:00 2024] [::1]:35692 [200]: POST /receiver.php
+[Tue Sep 17 11:14:00 2024] [::1]:35692 Closing
+[Tue Sep 17 11:14:04 2024] [::1]:56518 Accepted
+[Tue Sep 17 11:14:04 2024] [::1]:56518 [200]: POST /receiver.php
+[Tue Sep 17 11:14:04 2024] [::1]:56518 Closing
+[Tue Sep 17 11:14:04 2024] [::1]:56530 Accepted
+[Tue Sep 17 11:14:04 2024] [::1]:56530 [200]: POST /receiver.php
+[Tue Sep 17 11:14:04 2024] [::1]:56530 Closing
+[Tue Sep 17 11:14:06 2024] [::1]:56542 Accepted
+[Tue Sep 17 11:14:06 2024] [::1]:56542 [200]: POST /receiver.php
+[Tue Sep 17 11:14:06 2024] [::1]:56542 Closing
+[Tue Sep 17 11:14:08 2024] [::1]:56548 Accepted
+[Tue Sep 17 11:14:08 2024] [::1]:56548 [200]: POST /receiver.php
+[Tue Sep 17 11:14:08 2024] [::1]:56548 Closing
+[Tue Sep 17 11:14:10 2024] [::1]:56558 Accepted
+[Tue Sep 17 11:14:10 2024] [::1]:56558 [200]: POST /receiver.php
+[Tue Sep 17 11:14:10 2024] [::1]:56558 Closing
+[Tue Sep 17 11:14:12 2024] [::1]:51194 Accepted
+[Tue Sep 17 11:14:12 2024] [::1]:51194 [200]: POST /receiver.php
+[Tue Sep 17 11:14:12 2024] [::1]:51194 Closing
+[Tue Sep 17 11:14:14 2024] [::1]:51196 Accepted
+[Tue Sep 17 11:14:14 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Tue Sep 17 11:14:14 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:14:14 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:14:14 2024] [::1]:51196 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:14:14 2024] [::1]:51196 Closing
+[Tue Sep 17 11:14:14 2024] [::1]:51198 Accepted
+[Tue Sep 17 11:14:14 2024] [::1]:51198 [200]: POST /receiver.php
+[Tue Sep 17 11:14:14 2024] [::1]:51198 Closing
+[Tue Sep 17 11:14:16 2024] [::1]:51210 Accepted
+[Tue Sep 17 11:14:16 2024] [::1]:51210 [200]: POST /receiver.php
+[Tue Sep 17 11:14:16 2024] [::1]:51210 Closing
+[Tue Sep 17 11:14:19 2024] [::1]:51214 Accepted
+[Tue Sep 17 11:14:19 2024] [::1]:51214 [200]: POST /receiver.php
+[Tue Sep 17 11:14:19 2024] [::1]:51214 Closing
+[Tue Sep 17 11:14:20 2024] [::1]:51226 Accepted
+[Tue Sep 17 11:14:20 2024] [::1]:51226 [200]: POST /receiver.php
+[Tue Sep 17 11:14:20 2024] [::1]:51226 Closing
+[Tue Sep 17 11:14:22 2024] [::1]:56312 Accepted
+[Tue Sep 17 11:14:22 2024] [::1]:56312 [200]: POST /receiver.php
+[Tue Sep 17 11:14:22 2024] [::1]:56312 Closing
+[Tue Sep 17 11:14:25 2024] [::1]:56326 Accepted
+[Tue Sep 17 11:14:25 2024] [::1]:56326 [200]: POST /receiver.php
+[Tue Sep 17 11:14:25 2024] [::1]:56326 Closing
+[Tue Sep 17 11:14:26 2024] [::1]:56338 Accepted
+[Tue Sep 17 11:14:26 2024] [::1]:56338 [200]: POST /receiver.php
+[Tue Sep 17 11:14:26 2024] [::1]:56338 Closing
+[Tue Sep 17 11:14:28 2024] [::1]:56348 Accepted
+[Tue Sep 17 11:14:28 2024] [::1]:56348 [200]: POST /receiver.php
+[Tue Sep 17 11:14:28 2024] [::1]:56348 Closing
+[Tue Sep 17 11:14:30 2024] [::1]:56358 Accepted
+[Tue Sep 17 11:14:30 2024] [::1]:56358 [200]: POST /receiver.php
+[Tue Sep 17 11:14:30 2024] [::1]:56358 Closing
+[Tue Sep 17 11:14:32 2024] [::1]:60050 Accepted
+[Tue Sep 17 11:14:32 2024] [::1]:60050 [200]: POST /receiver.php
+[Tue Sep 17 11:14:32 2024] [::1]:60050 Closing
+[Tue Sep 17 11:14:33 2024] [::1]:60052 Accepted
+[Tue Sep 17 11:14:33 2024] [::1]:60052 [200]: GET /templates/nearyou/index.html
+[Tue Sep 17 11:14:33 2024] [::1]:60052 Closing
+[Tue Sep 17 11:14:33 2024] [::1]:60060 Accepted
+[Tue Sep 17 11:14:33 2024] [::1]:60066 Accepted
+[Tue Sep 17 11:14:33 2024] [::1]:60060 [200]: GET /templates/nearyou/fonts.css
+[Tue Sep 17 11:14:33 2024] [::1]:60082 Accepted
+[Tue Sep 17 11:14:33 2024] [::1]:60066 [200]: GET /templates/nearyou/main.css
+[Tue Sep 17 11:14:33 2024] [::1]:60082 [200]: GET /assets/js/jquery.min.js
+[Tue Sep 17 11:14:33 2024] [::1]:60060 Closing
+[Tue Sep 17 11:14:33 2024] [::1]:60066 Closing
+[Tue Sep 17 11:14:33 2024] [::1]:60082 Closing
+[Tue Sep 17 11:14:33 2024] [::1]:60092 Accepted
+[Tue Sep 17 11:14:33 2024] [::1]:60092 [200]: GET /assets/js/particles.min.js
+[Tue Sep 17 11:14:33 2024] [::1]:60092 Closing
+[Tue Sep 17 11:14:33 2024] [::1]:60102 Accepted
+[Tue Sep 17 11:14:33 2024] [::1]:60102 [200]: GET /assets/js/location.js
+[Tue Sep 17 11:14:33 2024] [::1]:60102 Closing
+[Tue Sep 17 11:14:33 2024] [::1]:60106 Accepted
+[Tue Sep 17 11:14:33 2024] [::1]:60106 [200]: GET /assets/js/client.min.js
+[Tue Sep 17 11:14:33 2024] [::1]:60106 Closing
+[Tue Sep 17 11:14:33 2024] [::1]:60116 Accepted
+[Tue Sep 17 11:14:33 2024] [::1]:60116 [200]: GET /assets/js/warpspeed.min.js
+[Tue Sep 17 11:14:33 2024] [::1]:60116 Closing
+[Tue Sep 17 11:14:33 2024] [::1]:60124 Accepted
+[Tue Sep 17 11:14:33 2024] [::1]:60124 [200]: GET /assets/js/loc.js
+[Tue Sep 17 11:14:33 2024] [::1]:60124 Closing
+[Tue Sep 17 11:14:36 2024] [::1]:60130 Accepted
+[Tue Sep 17 11:14:36 2024] [::1]:60140 Accepted
+[Tue Sep 17 11:14:36 2024] [::1]:60140 [200]: POST /receiver.php
+[Tue Sep 17 11:14:36 2024] [::1]:60140 Closing
+[Tue Sep 17 11:14:36 2024] [::1]:60130 [200]: POST /receiver.php
+[Tue Sep 17 11:14:36 2024] [::1]:60130 Closing
+[Tue Sep 17 11:14:37 2024] [::1]:60154 Accepted
+[Tue Sep 17 11:14:37 2024] [::1]:60154 [200]: POST /templates/nearyou/handler.php
+[Tue Sep 17 11:14:37 2024] [::1]:60154 Closing
+[Tue Sep 17 11:14:38 2024] [::1]:60170 Accepted
+[Tue Sep 17 11:14:38 2024] [::1]:60170 [200]: POST /receiver.php
+[Tue Sep 17 11:14:38 2024] [::1]:60170 Closing
+[Tue Sep 17 11:14:40 2024] [::1]:60178 Accepted
+[Tue Sep 17 11:14:40 2024] [::1]:60178 [200]: POST /receiver.php
+[Tue Sep 17 11:14:40 2024] [::1]:60178 Closing
+[Tue Sep 17 11:14:42 2024] [::1]:42572 Accepted
+[Tue Sep 17 11:14:42 2024] [::1]:42572 [200]: POST /receiver.php
+[Tue Sep 17 11:14:42 2024] [::1]:42572 Closing
+[Tue Sep 17 11:14:44 2024] [::1]:42578 Accepted
+[Tue Sep 17 11:14:44 2024] [::1]:42578 [200]: POST /receiver.php
+[Tue Sep 17 11:14:44 2024] [::1]:42578 Closing
+[Tue Sep 17 11:14:45 2024] [::1]:42594 Accepted
+[Tue Sep 17 11:14:45 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Tue Sep 17 11:14:45 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:14:45 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:14:45 2024] [::1]:42594 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:14:45 2024] [::1]:42594 Closing
+[Tue Sep 17 11:14:46 2024] [::1]:42602 Accepted
+[Tue Sep 17 11:14:46 2024] [::1]:42602 [200]: POST /receiver.php
+[Tue Sep 17 11:14:46 2024] [::1]:42602 Closing
+[Tue Sep 17 11:14:48 2024] [::1]:42610 Accepted
+[Tue Sep 17 11:14:48 2024] [::1]:42610 [200]: POST /receiver.php
+[Tue Sep 17 11:14:48 2024] [::1]:42610 Closing
+[Tue Sep 17 11:14:50 2024] [::1]:42624 Accepted
+[Tue Sep 17 11:14:50 2024] [::1]:42624 [200]: POST /receiver.php
+[Tue Sep 17 11:14:50 2024] [::1]:42624 Closing
+[Tue Sep 17 11:14:52 2024] [::1]:45518 Accepted
+[Tue Sep 17 11:14:52 2024] [::1]:45518 [200]: POST /receiver.php
+[Tue Sep 17 11:14:52 2024] [::1]:45518 Closing
+[Tue Sep 17 11:14:54 2024] [::1]:45524 Accepted
+[Tue Sep 17 11:14:54 2024] [::1]:45524 [200]: POST /receiver.php
+[Tue Sep 17 11:14:54 2024] [::1]:45524 Closing
+[Tue Sep 17 11:14:56 2024] [::1]:45526 Accepted
+[Tue Sep 17 11:14:56 2024] [::1]:45526 [200]: POST /receiver.php
+[Tue Sep 17 11:14:56 2024] [::1]:45526 Closing
+[Tue Sep 17 11:14:58 2024] [::1]:45530 Accepted
+[Tue Sep 17 11:14:58 2024] [::1]:45530 [200]: POST /receiver.php
+[Tue Sep 17 11:14:58 2024] [::1]:45530 Closing
+[Tue Sep 17 11:15:00 2024] [::1]:45540 Accepted
+[Tue Sep 17 11:15:00 2024] [::1]:45540 [200]: POST /receiver.php
+[Tue Sep 17 11:15:00 2024] [::1]:45540 Closing
+[Tue Sep 17 11:15:02 2024] [::1]:57816 Accepted
+[Tue Sep 17 11:15:02 2024] [::1]:57816 [200]: POST /receiver.php
+[Tue Sep 17 11:15:02 2024] [::1]:57816 Closing
+[Tue Sep 17 11:15:04 2024] [::1]:57828 Accepted
+[Tue Sep 17 11:15:04 2024] [::1]:57828 [200]: POST /receiver.php
+[Tue Sep 17 11:15:04 2024] [::1]:57828 Closing
+[Tue Sep 17 11:15:06 2024] [::1]:57844 Accepted
+[Tue Sep 17 11:15:06 2024] [::1]:57844 [200]: POST /receiver.php
+[Tue Sep 17 11:15:06 2024] [::1]:57844 Closing
+[Tue Sep 17 11:15:06 2024] [::1]:57858 Accepted
+[Tue Sep 17 11:15:06 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Tue Sep 17 11:15:06 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:15:06 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:15:06 2024] [::1]:57858 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:15:06 2024] [::1]:57858 Closing
+[Tue Sep 17 11:15:08 2024] [::1]:57860 Accepted
+[Tue Sep 17 11:15:08 2024] [::1]:57860 [200]: POST /receiver.php
+[Tue Sep 17 11:15:08 2024] [::1]:57860 Closing
+[Tue Sep 17 11:15:11 2024] [::1]:46016 Accepted
+[Tue Sep 17 11:15:11 2024] [::1]:46016 [200]: POST /receiver.php
+[Tue Sep 17 11:15:11 2024] [::1]:46016 Closing
+[Tue Sep 17 11:15:12 2024] [::1]:46028 Accepted
+[Tue Sep 17 11:15:12 2024] [::1]:46038 Accepted
+[Tue Sep 17 11:15:12 2024] [::1]:46038 [200]: GET /templates/nearyou/index.html
+[Tue Sep 17 11:15:12 2024] [::1]:46038 Closing
+[Tue Sep 17 11:15:12 2024] [::1]:46028 [200]: POST /receiver.php
+[Tue Sep 17 11:15:12 2024] [::1]:46028 Closing
+[Tue Sep 17 11:15:13 2024] [::1]:46044 Accepted
+[Tue Sep 17 11:15:14 2024] [::1]:46046 Accepted
+[Tue Sep 17 11:15:14 2024] [::1]:46044 [200]: GET /templates/nearyou/fonts.css
+[Tue Sep 17 11:15:14 2024] [::1]:46058 Accepted
+[Tue Sep 17 11:15:14 2024] [::1]:46046 [200]: GET /assets/js/location.js
+[Tue Sep 17 11:15:14 2024] [::1]:46074 Accepted
+[Tue Sep 17 11:15:14 2024] [::1]:46058 [200]: GET /templates/nearyou/main.css
+[Tue Sep 17 11:15:14 2024] [::1]:46080 Accepted
+[Tue Sep 17 11:15:14 2024] [::1]:46044 Closing
+[Tue Sep 17 11:15:14 2024] [::1]:46074 [200]: GET /assets/js/loc.js
+[Tue Sep 17 11:15:14 2024] [::1]:46084 Accepted
+[Tue Sep 17 11:15:14 2024] [::1]:46046 Closing
+[Tue Sep 17 11:15:14 2024] [::1]:46080 [200]: GET /assets/js/jquery.min.js
+[Tue Sep 17 11:15:14 2024] [::1]:46100 Accepted
+[Tue Sep 17 11:15:14 2024] [::1]:46084 [200]: GET /assets/js/client.min.js
+[Tue Sep 17 11:15:14 2024] [::1]:46058 Closing
+[Tue Sep 17 11:15:14 2024] [::1]:46106 Accepted
+[Tue Sep 17 11:15:14 2024] [::1]:46100 [200]: GET /assets/js/particles.min.js
+[Tue Sep 17 11:15:14 2024] [::1]:46074 Closing
+[Tue Sep 17 11:15:14 2024] [::1]:46106 [200]: GET /assets/js/warpspeed.min.js
+[Tue Sep 17 11:15:14 2024] [::1]:46080 Closing
+[Tue Sep 17 11:15:14 2024] [::1]:46084 Closing
+[Tue Sep 17 11:15:14 2024] [::1]:46100 Closing
+[Tue Sep 17 11:15:14 2024] [::1]:46106 Closing
+[Tue Sep 17 11:15:14 2024] [::1]:46110 Accepted
+[Tue Sep 17 11:15:14 2024] [::1]:46110 [200]: POST /receiver.php
+[Tue Sep 17 11:15:14 2024] [::1]:46110 Closing
+[Tue Sep 17 11:15:16 2024] [::1]:46120 Accepted
+[Tue Sep 17 11:15:16 2024] [::1]:46120 [200]: POST /receiver.php
+[Tue Sep 17 11:15:16 2024] [::1]:46120 Closing
+[Tue Sep 17 11:15:18 2024] [::1]:46136 Accepted
+[Tue Sep 17 11:15:18 2024] [::1]:46136 [200]: POST /receiver.php
+[Tue Sep 17 11:15:18 2024] [::1]:46136 Closing
+[Tue Sep 17 11:15:18 2024] [::1]:46144 Accepted
+[Tue Sep 17 11:15:20 2024] [::1]:46158 Accepted
+[Tue Sep 17 11:15:20 2024] [::1]:46144 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Tue Sep 17 11:15:20 2024] [::1]:46158 [200]: POST /templates/nearyou/handler.php
+[Tue Sep 17 11:15:20 2024] [::1]:46158 Closing
+[Tue Sep 17 11:15:20 2024] [::1]:46144 Closing
+[Tue Sep 17 11:15:20 2024] [::1]:46164 Accepted
+[Tue Sep 17 11:15:20 2024] [::1]:46164 [200]: POST /receiver.php
+[Tue Sep 17 11:15:20 2024] [::1]:46164 Closing
+[Tue Sep 17 11:15:22 2024] [::1]:47718 Accepted
+[Tue Sep 17 11:15:22 2024] [::1]:47718 [200]: POST /receiver.php
+[Tue Sep 17 11:15:22 2024] [::1]:47718 Closing
+[Tue Sep 17 11:15:24 2024] [::1]:47722 Accepted
+[Tue Sep 17 11:15:24 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Tue Sep 17 11:15:24 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:15:24 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:15:24 2024] [::1]:47722 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:15:24 2024] [::1]:47722 Closing
+[Tue Sep 17 11:15:27 2024] [::1]:47728 Accepted
+[Tue Sep 17 11:15:27 2024] [::1]:47728 [200]: POST /receiver.php
+[Tue Sep 17 11:15:27 2024] [::1]:47728 Closing
+[Tue Sep 17 11:15:28 2024] [::1]:47734 Accepted
+[Tue Sep 17 11:15:28 2024] [::1]:47750 Accepted
+[Tue Sep 17 11:15:28 2024] [::1]:47734 [200]: POST /receiver.php
+[Tue Sep 17 11:15:28 2024] [::1]:47734 Closing
+[Tue Sep 17 11:15:28 2024] [::1]:47750 [200]: POST /receiver.php
+[Tue Sep 17 11:15:28 2024] [::1]:47750 Closing
+[Tue Sep 17 11:15:30 2024] [::1]:47754 Accepted
+[Tue Sep 17 11:15:30 2024] [::1]:47754 [200]: POST /receiver.php
+[Tue Sep 17 11:15:30 2024] [::1]:47754 Closing
+[Tue Sep 17 11:15:32 2024] [::1]:58192 Accepted
+[Tue Sep 17 11:15:32 2024] [::1]:58192 [200]: POST /receiver.php
+[Tue Sep 17 11:15:32 2024] [::1]:58192 Closing
+[Tue Sep 17 11:15:34 2024] [::1]:58202 Accepted
+[Tue Sep 17 11:15:34 2024] [::1]:58202 [200]: POST /receiver.php
+[Tue Sep 17 11:15:34 2024] [::1]:58202 Closing
+[Tue Sep 17 11:15:36 2024] [::1]:58206 Accepted
+[Tue Sep 17 11:15:36 2024] [::1]:58206 [200]: GET /templates/nearyou/index.html
+[Tue Sep 17 11:15:36 2024] [::1]:58206 Closing
+[Tue Sep 17 11:15:36 2024] [::1]:58218 Accepted
+[Tue Sep 17 11:15:36 2024] [::1]:58218 [200]: POST /receiver.php
+[Tue Sep 17 11:15:36 2024] [::1]:58218 Closing
+[Tue Sep 17 11:15:37 2024] [::1]:58230 Accepted
+[Tue Sep 17 11:15:37 2024] [::1]:58238 Accepted
+[Tue Sep 17 11:15:37 2024] [::1]:58248 Accepted
+[Tue Sep 17 11:15:37 2024] [::1]:58258 Accepted
+[Tue Sep 17 11:15:37 2024] [::1]:58262 Accepted
+[Tue Sep 17 11:15:37 2024] [::1]:58276 Accepted
+[Tue Sep 17 11:15:37 2024] [::1]:58286 Accepted
+[Tue Sep 17 11:15:37 2024] [::1]:58230 [200]: GET /templates/nearyou/main.css
+[Tue Sep 17 11:15:37 2024] [::1]:58276 [200]: GET /templates/nearyou/fonts.css
+[Tue Sep 17 11:15:37 2024] [::1]:58230 Closing
+[Tue Sep 17 11:15:37 2024] [::1]:58276 Closing
+[Tue Sep 17 11:15:37 2024] [::1]:58262 [200]: GET /assets/js/location.js
+[Tue Sep 17 11:15:37 2024] [::1]:58262 Closing
+[Tue Sep 17 11:15:37 2024] [::1]:58238 [200]: GET /assets/js/warpspeed.min.js
+[Tue Sep 17 11:15:37 2024] [::1]:58238 Closing
+[Tue Sep 17 11:15:37 2024] [::1]:58294 Accepted
+[Tue Sep 17 11:15:37 2024] [::1]:58248 [200]: GET /assets/js/particles.min.js
+[Tue Sep 17 11:15:37 2024] [::1]:58258 [200]: GET /assets/js/client.min.js
+[Tue Sep 17 11:15:37 2024] [::1]:58286 [200]: GET /assets/js/loc.js
+[Tue Sep 17 11:15:37 2024] [::1]:58294 [200]: GET /assets/js/jquery.min.js
+[Tue Sep 17 11:15:37 2024] [::1]:58248 Closing
+[Tue Sep 17 11:15:37 2024] [::1]:58258 Closing
+[Tue Sep 17 11:15:37 2024] [::1]:58286 Closing
+[Tue Sep 17 11:15:37 2024] [::1]:58294 Closing
+[Tue Sep 17 11:15:39 2024] [::1]:58308 Accepted
+[Tue Sep 17 11:15:39 2024] [::1]:58308 [200]: POST /receiver.php
+[Tue Sep 17 11:15:39 2024] [::1]:58308 Closing
+[Tue Sep 17 11:15:41 2024] [::1]:58324 Accepted
+[Tue Sep 17 11:15:41 2024] [::1]:58324 [200]: POST /receiver.php
+[Tue Sep 17 11:15:41 2024] [::1]:58324 Closing
+[Tue Sep 17 11:15:43 2024] [::1]:50812 Accepted
+[Tue Sep 17 11:15:43 2024] [::1]:50826 Accepted
+[Tue Sep 17 11:15:43 2024] [::1]:50812 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Tue Sep 17 11:15:43 2024] [::1]:50826 [200]: POST /receiver.php
+[Tue Sep 17 11:15:43 2024] [::1]:50826 Closing
+[Tue Sep 17 11:15:43 2024] [::1]:50812 Closing
+[Tue Sep 17 11:15:43 2024] [::1]:50838 Accepted
+[Tue Sep 17 11:15:43 2024] [::1]:50838 [200]: POST /templates/nearyou/handler.php
+[Tue Sep 17 11:15:43 2024] [::1]:50838 Closing
+[Tue Sep 17 11:15:44 2024] [::1]:50848 Accepted
+[Tue Sep 17 11:15:44 2024] [::1]:50848 [200]: POST /receiver.php
+[Tue Sep 17 11:15:44 2024] [::1]:50848 Closing
+[Tue Sep 17 11:15:46 2024] [::1]:50858 Accepted
+[Tue Sep 17 11:15:46 2024] [::1]:50858 [200]: POST /receiver.php
+[Tue Sep 17 11:15:46 2024] [::1]:50858 Closing
+[Tue Sep 17 11:15:48 2024] [::1]:50874 Accepted
+[Tue Sep 17 11:15:48 2024] [::1]:50874 [200]: POST /receiver.php
+[Tue Sep 17 11:15:48 2024] [::1]:50874 Closing
+[Tue Sep 17 11:15:50 2024] [::1]:50884 Accepted
+[Tue Sep 17 11:15:50 2024] [::1]:50884 [200]: POST /receiver.php
+[Tue Sep 17 11:15:50 2024] [::1]:50884 Closing
+[Tue Sep 17 11:15:50 2024] [::1]:50886 Accepted
+[Tue Sep 17 11:15:50 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Tue Sep 17 11:15:50 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:15:50 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:15:50 2024] [::1]:50886 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:15:50 2024] [::1]:50886 Closing
+[Tue Sep 17 11:15:53 2024] [::1]:39640 Accepted
+[Tue Sep 17 11:15:53 2024] [::1]:39640 [200]: POST /receiver.php
+[Tue Sep 17 11:15:53 2024] [::1]:39640 Closing
+[Tue Sep 17 11:15:55 2024] [::1]:39646 Accepted
+[Tue Sep 17 11:15:55 2024] [::1]:39646 [200]: GET /templates/nearyou/index.html
+[Tue Sep 17 11:15:55 2024] [::1]:39646 Closing
+[Tue Sep 17 11:15:56 2024] [::1]:39660 Accepted
+[Tue Sep 17 11:15:56 2024] [::1]:39670 Accepted
+[Tue Sep 17 11:15:56 2024] [::1]:39684 Accepted
+[Tue Sep 17 11:15:56 2024] [::1]:39684 [200]: POST /receiver.php
+[Tue Sep 17 11:15:56 2024] [::1]:39684 Closing
+[Tue Sep 17 11:15:56 2024] [::1]:39670 [200]: GET /templates/nearyou/main.css
+[Tue Sep 17 11:15:56 2024] [::1]:39670 Closing
+[Tue Sep 17 11:15:56 2024] [::1]:39660 [200]: GET /templates/nearyou/fonts.css
+[Tue Sep 17 11:15:56 2024] [::1]:39660 Closing
+[Tue Sep 17 11:15:56 2024] [::1]:39690 Accepted
+[Tue Sep 17 11:15:56 2024] [::1]:39700 Accepted
+[Tue Sep 17 11:15:56 2024] [::1]:39690 [200]: GET /assets/js/client.min.js
+[Tue Sep 17 11:15:56 2024] [::1]:39708 Accepted
+[Tue Sep 17 11:15:56 2024] [::1]:39700 [200]: GET /assets/js/particles.min.js
+[Tue Sep 17 11:15:56 2024] [::1]:39708 [200]: GET /assets/js/jquery.min.js
+[Tue Sep 17 11:15:56 2024] [::1]:39690 Closing
+[Tue Sep 17 11:15:56 2024] [::1]:39700 Closing
+[Tue Sep 17 11:15:56 2024] [::1]:39708 Closing
+[Tue Sep 17 11:15:56 2024] [::1]:39716 Accepted
+[Tue Sep 17 11:15:56 2024] [::1]:39726 Accepted
+[Tue Sep 17 11:15:56 2024] [::1]:39716 [200]: GET /assets/js/loc.js
+[Tue Sep 17 11:15:56 2024] [::1]:39736 Accepted
+[Tue Sep 17 11:15:56 2024] [::1]:39726 [200]: GET /assets/js/warpspeed.min.js
+[Tue Sep 17 11:15:56 2024] [::1]:39736 [200]: GET /assets/js/location.js
+[Tue Sep 17 11:15:56 2024] [::1]:39716 Closing
+[Tue Sep 17 11:15:56 2024] [::1]:39726 Closing
+[Tue Sep 17 11:15:56 2024] [::1]:39736 Closing
+[Tue Sep 17 11:15:57 2024] [::1]:39740 Accepted
+[Tue Sep 17 11:15:57 2024] [::1]:39740 [200]: POST /receiver.php
+[Tue Sep 17 11:15:57 2024] [::1]:39740 Closing
+[Tue Sep 17 11:15:58 2024] [::1]:39744 Accepted
+[Tue Sep 17 11:15:58 2024] [::1]:39744 [200]: POST /receiver.php
+[Tue Sep 17 11:15:58 2024] [::1]:39744 Closing
+[Tue Sep 17 11:16:01 2024] [::1]:39760 Accepted
+[Tue Sep 17 11:16:01 2024] [::1]:39760 [200]: POST /receiver.php
+[Tue Sep 17 11:16:01 2024] [::1]:39760 Closing
+[Tue Sep 17 11:16:03 2024] [::1]:44538 Accepted
+[Tue Sep 17 11:16:03 2024] [::1]:44538 [200]: POST /receiver.php
+[Tue Sep 17 11:16:03 2024] [::1]:44538 Closing
+[Tue Sep 17 11:16:03 2024] [::1]:44544 Accepted
+[Tue Sep 17 11:16:03 2024] [::1]:44544 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Tue Sep 17 11:16:03 2024] [::1]:44544 Closing
+[Tue Sep 17 11:16:04 2024] [::1]:44556 Accepted
+[Tue Sep 17 11:16:04 2024] [::1]:44556 [200]: POST /templates/nearyou/handler.php
+[Tue Sep 17 11:16:04 2024] [::1]:44556 Closing
+[Tue Sep 17 11:16:04 2024] [::1]:44568 Accepted
+[Tue Sep 17 11:16:04 2024] [::1]:44568 [200]: POST /receiver.php
+[Tue Sep 17 11:16:04 2024] [::1]:44568 Closing
+[Tue Sep 17 11:16:06 2024] [::1]:44572 Accepted
+[Tue Sep 17 11:16:06 2024] [::1]:44572 [200]: POST /receiver.php
+[Tue Sep 17 11:16:06 2024] [::1]:44572 Closing
+[Tue Sep 17 11:16:08 2024] [::1]:44578 Accepted
+[Tue Sep 17 11:16:08 2024] [::1]:44578 [200]: POST /receiver.php
+[Tue Sep 17 11:16:08 2024] [::1]:44578 Closing
+[Tue Sep 17 11:16:11 2024] [::1]:44594 Accepted
+[Tue Sep 17 11:16:12 2024] [::1]:44594 [200]: POST /receiver.php
+[Tue Sep 17 11:16:12 2024] [::1]:44594 Closing
+[Tue Sep 17 11:16:13 2024] [::1]:44096 Accepted
+[Tue Sep 17 11:16:13 2024] [::1]:44096 [200]: POST /receiver.php
+[Tue Sep 17 11:16:13 2024] [::1]:44096 Closing
+[Tue Sep 17 11:16:15 2024] [::1]:44112 Accepted
+[Tue Sep 17 11:16:15 2024] [::1]:44112 [200]: POST /receiver.php
+[Tue Sep 17 11:16:15 2024] [::1]:44112 Closing
+[Tue Sep 17 11:16:16 2024] [::1]:44120 Accepted
+[Tue Sep 17 11:16:16 2024] [::1]:44120 [200]: POST /receiver.php
+[Tue Sep 17 11:16:16 2024] [::1]:44120 Closing
+[Tue Sep 17 11:16:18 2024] [::1]:44136 Accepted
+[Tue Sep 17 11:16:18 2024] [::1]:44136 [200]: POST /receiver.php
+[Tue Sep 17 11:16:18 2024] [::1]:44136 Closing
+[Tue Sep 17 11:16:20 2024] [::1]:44150 Accepted
+[Tue Sep 17 11:16:20 2024] [::1]:44150 [200]: POST /receiver.php
+[Tue Sep 17 11:16:20 2024] [::1]:44150 Closing
+[Tue Sep 17 11:16:22 2024] [::1]:59344 Accepted
+[Tue Sep 17 11:16:22 2024] [::1]:59344 [200]: POST /receiver.php
+[Tue Sep 17 11:16:22 2024] [::1]:59344 Closing
+[Tue Sep 17 11:16:24 2024] [::1]:59346 Accepted
+[Tue Sep 17 11:16:24 2024] [::1]:59346 [200]: POST /receiver.php
+[Tue Sep 17 11:16:24 2024] [::1]:59346 Closing
+[Tue Sep 17 11:16:26 2024] [::1]:59362 Accepted
+[Tue Sep 17 11:16:26 2024] [::1]:59362 [200]: POST /receiver.php
+[Tue Sep 17 11:16:26 2024] [::1]:59362 Closing
+[Tue Sep 17 11:16:28 2024] [::1]:59364 Accepted
+[Tue Sep 17 11:16:28 2024] [::1]:59364 [200]: POST /receiver.php
+[Tue Sep 17 11:16:28 2024] [::1]:59364 Closing
+[Tue Sep 17 11:16:30 2024] [::1]:59366 Accepted
+[Tue Sep 17 11:16:30 2024] [::1]:59366 [200]: POST /receiver.php
+[Tue Sep 17 11:16:30 2024] [::1]:59366 Closing
+[Tue Sep 17 11:16:32 2024] [::1]:43136 Accepted
+[Tue Sep 17 11:16:32 2024] [::1]:43136 [200]: POST /receiver.php
+[Tue Sep 17 11:16:32 2024] [::1]:43136 Closing
+[Tue Sep 17 11:16:34 2024] [::1]:43150 Accepted
+[Tue Sep 17 11:16:34 2024] [::1]:43150 [200]: POST /receiver.php
+[Tue Sep 17 11:16:34 2024] [::1]:43150 Closing
+[Tue Sep 17 11:16:36 2024] [::1]:43162 Accepted
+[Tue Sep 17 11:16:36 2024] [::1]:43162 [200]: POST /receiver.php
+[Tue Sep 17 11:16:36 2024] [::1]:43162 Closing
+[Tue Sep 17 11:16:38 2024] [::1]:43176 Accepted
+[Tue Sep 17 11:16:38 2024] [::1]:43176 [200]: POST /receiver.php
+[Tue Sep 17 11:16:38 2024] [::1]:43176 Closing
+[Tue Sep 17 11:16:40 2024] [::1]:43180 Accepted
+[Tue Sep 17 11:16:40 2024] [::1]:43180 [200]: POST /receiver.php
+[Tue Sep 17 11:16:40 2024] [::1]:43180 Closing
+[Tue Sep 17 11:16:42 2024] [::1]:55762 Accepted
+[Tue Sep 17 11:16:42 2024] [::1]:55762 [200]: POST /receiver.php
+[Tue Sep 17 11:16:42 2024] [::1]:55762 Closing
+[Tue Sep 17 11:16:44 2024] [::1]:55772 Accepted
+[Tue Sep 17 11:16:44 2024] [::1]:55772 [200]: POST /receiver.php
+[Tue Sep 17 11:16:44 2024] [::1]:55772 Closing
+[Tue Sep 17 11:16:46 2024] [::1]:55784 Accepted
+[Tue Sep 17 11:16:46 2024] [::1]:55784 [200]: POST /receiver.php
+[Tue Sep 17 11:16:46 2024] [::1]:55784 Closing
+[Tue Sep 17 11:16:48 2024] [::1]:55792 Accepted
+[Tue Sep 17 11:16:48 2024] [::1]:55792 [200]: POST /receiver.php
+[Tue Sep 17 11:16:48 2024] [::1]:55792 Closing
+[Tue Sep 17 11:16:50 2024] [::1]:55800 Accepted
+[Tue Sep 17 11:16:50 2024] [::1]:55800 [200]: POST /receiver.php
+[Tue Sep 17 11:16:50 2024] [::1]:55800 Closing
+[Tue Sep 17 11:16:52 2024] [::1]:44990 Accepted
+[Tue Sep 17 11:16:52 2024] [::1]:44990 [200]: POST /receiver.php
+[Tue Sep 17 11:16:52 2024] [::1]:44990 Closing
+[Tue Sep 17 11:16:54 2024] [::1]:44998 Accepted
+[Tue Sep 17 11:16:54 2024] [::1]:44998 [200]: POST /receiver.php
+[Tue Sep 17 11:16:54 2024] [::1]:44998 Closing
+[Tue Sep 17 11:16:56 2024] [::1]:45006 Accepted
+[Tue Sep 17 11:16:56 2024] [::1]:45006 [200]: POST /receiver.php
+[Tue Sep 17 11:16:56 2024] [::1]:45006 Closing
+[Tue Sep 17 11:16:58 2024] [::1]:45010 Accepted
+[Tue Sep 17 11:16:58 2024] [::1]:45010 [200]: POST /receiver.php
+[Tue Sep 17 11:16:58 2024] [::1]:45010 Closing
+[Tue Sep 17 11:17:00 2024] [::1]:45024 Accepted
+[Tue Sep 17 11:17:00 2024] [::1]:45024 [200]: POST /receiver.php
+[Tue Sep 17 11:17:00 2024] [::1]:45024 Closing
+[Tue Sep 17 11:17:02 2024] [::1]:53538 Accepted
+[Tue Sep 17 11:17:02 2024] [::1]:53538 [200]: POST /receiver.php
+[Tue Sep 17 11:17:02 2024] [::1]:53538 Closing
+[Tue Sep 17 11:17:04 2024] [::1]:53552 Accepted
+[Tue Sep 17 11:17:04 2024] [::1]:53552 [200]: POST /receiver.php
+[Tue Sep 17 11:17:04 2024] [::1]:53552 Closing
+[Tue Sep 17 11:17:06 2024] [::1]:53564 Accepted
+[Tue Sep 17 11:17:06 2024] [::1]:53564 [200]: POST /receiver.php
+[Tue Sep 17 11:17:06 2024] [::1]:53564 Closing
+[Tue Sep 17 11:17:08 2024] [::1]:53570 Accepted
+[Tue Sep 17 11:17:08 2024] [::1]:53570 [200]: POST /receiver.php
+[Tue Sep 17 11:17:08 2024] [::1]:53570 Closing
+[Tue Sep 17 11:17:10 2024] [::1]:53580 Accepted
+[Tue Sep 17 11:17:10 2024] [::1]:53580 [200]: POST /receiver.php
+[Tue Sep 17 11:17:10 2024] [::1]:53580 Closing
+[Tue Sep 17 11:17:12 2024] [::1]:56170 Accepted
+[Tue Sep 17 11:17:12 2024] [::1]:56170 [200]: POST /receiver.php
+[Tue Sep 17 11:17:12 2024] [::1]:56170 Closing
+[Tue Sep 17 11:17:15 2024] [::1]:56172 Accepted
+[Tue Sep 17 11:17:15 2024] [::1]:56172 [200]: POST /receiver.php
+[Tue Sep 17 11:17:15 2024] [::1]:56172 Closing
+[Tue Sep 17 11:17:17 2024] [::1]:56188 Accepted
+[Tue Sep 17 11:17:17 2024] [::1]:56188 [200]: POST /receiver.php
+[Tue Sep 17 11:17:17 2024] [::1]:56188 Closing
+[Tue Sep 17 11:17:19 2024] [::1]:56192 Accepted
+[Tue Sep 17 11:17:19 2024] [::1]:56192 [200]: POST /receiver.php
+[Tue Sep 17 11:17:19 2024] [::1]:56192 Closing
+[Tue Sep 17 11:17:20 2024] [::1]:56198 Accepted
+[Tue Sep 17 11:17:20 2024] [::1]:56198 [200]: POST /receiver.php
+[Tue Sep 17 11:17:20 2024] [::1]:56198 Closing
+[Tue Sep 17 11:17:22 2024] [::1]:53708 Accepted
+[Tue Sep 17 11:17:22 2024] [::1]:53708 [200]: POST /receiver.php
+[Tue Sep 17 11:17:22 2024] [::1]:53708 Closing
+[Tue Sep 17 11:17:24 2024] [::1]:53716 Accepted
+[Tue Sep 17 11:17:24 2024] [::1]:53716 [200]: POST /receiver.php
+[Tue Sep 17 11:17:24 2024] [::1]:53716 Closing
+[Tue Sep 17 11:17:26 2024] [::1]:53722 Accepted
+[Tue Sep 17 11:17:26 2024] [::1]:53722 [200]: POST /receiver.php
+[Tue Sep 17 11:17:26 2024] [::1]:53722 Closing
+[Tue Sep 17 11:17:28 2024] [::1]:53726 Accepted
+[Tue Sep 17 11:17:28 2024] [::1]:53726 [200]: POST /receiver.php
+[Tue Sep 17 11:17:28 2024] [::1]:53726 Closing
+[Tue Sep 17 11:17:30 2024] [::1]:53740 Accepted
+[Tue Sep 17 11:17:30 2024] [::1]:53740 [200]: POST /receiver.php
+[Tue Sep 17 11:17:30 2024] [::1]:53740 Closing
+[Tue Sep 17 11:17:32 2024] [::1]:34324 Accepted
+[Tue Sep 17 11:17:32 2024] [::1]:34324 [200]: POST /receiver.php
+[Tue Sep 17 11:17:32 2024] [::1]:34324 Closing
+[Tue Sep 17 11:17:34 2024] [::1]:34338 Accepted
+[Tue Sep 17 11:17:34 2024] [::1]:34338 [200]: POST /receiver.php
+[Tue Sep 17 11:17:34 2024] [::1]:34338 Closing
+[Tue Sep 17 11:17:36 2024] [::1]:34344 Accepted
+[Tue Sep 17 11:17:36 2024] [::1]:34344 [200]: POST /receiver.php
+[Tue Sep 17 11:17:36 2024] [::1]:34344 Closing
+[Tue Sep 17 11:17:38 2024] [::1]:34356 Accepted
+[Tue Sep 17 11:17:38 2024] [::1]:34356 [200]: POST /receiver.php
+[Tue Sep 17 11:17:38 2024] [::1]:34356 Closing
+[Tue Sep 17 11:17:40 2024] [::1]:34360 Accepted
+[Tue Sep 17 11:17:40 2024] [::1]:34360 [200]: POST /receiver.php
+[Tue Sep 17 11:17:40 2024] [::1]:34360 Closing
+[Tue Sep 17 11:17:42 2024] [::1]:45194 Accepted
+[Tue Sep 17 11:17:42 2024] [::1]:45194 [200]: POST /receiver.php
+[Tue Sep 17 11:17:42 2024] [::1]:45194 Closing
+[Tue Sep 17 11:17:44 2024] [::1]:45208 Accepted
+[Tue Sep 17 11:17:44 2024] [::1]:45208 [200]: POST /receiver.php
+[Tue Sep 17 11:17:44 2024] [::1]:45208 Closing
+[Tue Sep 17 11:17:46 2024] [::1]:45212 Accepted
+[Tue Sep 17 11:17:46 2024] [::1]:45212 [200]: POST /receiver.php
+[Tue Sep 17 11:17:46 2024] [::1]:45212 Closing
+[Tue Sep 17 11:17:48 2024] [::1]:45224 Accepted
+[Tue Sep 17 11:17:48 2024] [::1]:45224 [200]: POST /receiver.php
+[Tue Sep 17 11:17:48 2024] [::1]:45224 Closing
+[Tue Sep 17 11:17:51 2024] [::1]:45228 Accepted
+[Tue Sep 17 11:17:51 2024] [::1]:45228 [200]: POST /receiver.php
+[Tue Sep 17 11:17:51 2024] [::1]:45228 Closing
+[Tue Sep 17 11:17:53 2024] [::1]:53008 Accepted
+[Tue Sep 17 11:17:53 2024] [::1]:53008 [200]: POST /receiver.php
+[Tue Sep 17 11:17:53 2024] [::1]:53008 Closing
+[Tue Sep 17 11:17:54 2024] [::1]:53014 Accepted
+[Tue Sep 17 11:17:54 2024] [::1]:53014 [200]: POST /receiver.php
+[Tue Sep 17 11:17:54 2024] [::1]:53014 Closing
+[Tue Sep 17 11:17:56 2024] [::1]:53020 Accepted
+[Tue Sep 17 11:17:56 2024] [::1]:53020 [200]: POST /receiver.php
+[Tue Sep 17 11:17:56 2024] [::1]:53020 Closing
+[Tue Sep 17 11:17:58 2024] [::1]:53022 Accepted
+[Tue Sep 17 11:17:58 2024] [::1]:53022 [200]: POST /receiver.php
+[Tue Sep 17 11:17:58 2024] [::1]:53022 Closing
+[Tue Sep 17 11:18:00 2024] [::1]:53030 Accepted
+[Tue Sep 17 11:18:00 2024] [::1]:53030 [200]: POST /receiver.php
+[Tue Sep 17 11:18:00 2024] [::1]:53030 Closing
+[Tue Sep 17 11:18:02 2024] [::1]:46424 Accepted
+[Tue Sep 17 11:18:02 2024] [::1]:46424 [200]: POST /receiver.php
+[Tue Sep 17 11:18:02 2024] [::1]:46424 Closing
+[Tue Sep 17 11:18:04 2024] [::1]:46426 Accepted
+[Tue Sep 17 11:18:04 2024] [::1]:46426 [200]: POST /receiver.php
+[Tue Sep 17 11:18:04 2024] [::1]:46426 Closing
+[Tue Sep 17 11:18:06 2024] [::1]:46440 Accepted
+[Tue Sep 17 11:18:06 2024] [::1]:46440 [200]: POST /receiver.php
+[Tue Sep 17 11:18:06 2024] [::1]:46440 Closing
+[Tue Sep 17 11:18:08 2024] [::1]:46450 Accepted
+[Tue Sep 17 11:18:08 2024] [::1]:46450 [200]: POST /receiver.php
+[Tue Sep 17 11:18:08 2024] [::1]:46450 Closing
+[Tue Sep 17 11:18:10 2024] [::1]:46466 Accepted
+[Tue Sep 17 11:18:10 2024] [::1]:46466 [200]: POST /receiver.php
+[Tue Sep 17 11:18:10 2024] [::1]:46466 Closing
+[Tue Sep 17 11:18:12 2024] [::1]:47216 Accepted
+[Tue Sep 17 11:18:12 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Tue Sep 17 11:18:12 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:18:12 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:18:12 2024] [::1]:47216 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:18:12 2024] [::1]:47216 Closing
+[Tue Sep 17 11:18:12 2024] [::1]:47222 Accepted
+[Tue Sep 17 11:18:12 2024] [::1]:47222 [200]: POST /receiver.php
+[Tue Sep 17 11:18:12 2024] [::1]:47222 Closing
+[Tue Sep 17 11:18:14 2024] [::1]:47230 Accepted
+[Tue Sep 17 11:18:14 2024] [::1]:47230 [200]: POST /receiver.php
+[Tue Sep 17 11:18:14 2024] [::1]:47230 Closing
+[Tue Sep 17 11:18:16 2024] [::1]:47242 Accepted
+[Tue Sep 17 11:18:16 2024] [::1]:47242 [200]: POST /receiver.php
+[Tue Sep 17 11:18:16 2024] [::1]:47242 Closing
+[Tue Sep 17 11:18:18 2024] [::1]:47244 Accepted
+[Tue Sep 17 11:18:18 2024] [::1]:47244 [200]: POST /receiver.php
+[Tue Sep 17 11:18:18 2024] [::1]:47244 Closing
+[Tue Sep 17 11:18:21 2024] [::1]:41196 Accepted
+[Tue Sep 17 11:18:21 2024] [::1]:41196 [200]: POST /receiver.php
+[Tue Sep 17 11:18:21 2024] [::1]:41196 Closing
+[Tue Sep 17 11:18:23 2024] [::1]:41208 Accepted
+[Tue Sep 17 11:18:23 2024] [::1]:41208 [200]: POST /receiver.php
+[Tue Sep 17 11:18:23 2024] [::1]:41208 Closing
+[Tue Sep 17 11:18:26 2024] [::1]:41220 Accepted
+[Tue Sep 17 11:18:26 2024] [::1]:41220 [200]: POST /receiver.php
+[Tue Sep 17 11:18:26 2024] [::1]:41220 Closing
+[Tue Sep 17 11:18:26 2024] [::1]:41226 Accepted
+[Tue Sep 17 11:18:26 2024] [::1]:41226 [200]: POST /receiver.php
+[Tue Sep 17 11:18:26 2024] [::1]:41226 Closing
+[Tue Sep 17 11:18:28 2024] [::1]:41228 Accepted
+[Tue Sep 17 11:18:28 2024] [::1]:41228 [200]: POST /receiver.php
+[Tue Sep 17 11:18:28 2024] [::1]:41228 Closing
+[Tue Sep 17 11:18:31 2024] [::1]:40272 Accepted
+[Tue Sep 17 11:18:31 2024] [::1]:40272 [200]: POST /receiver.php
+[Tue Sep 17 11:18:31 2024] [::1]:40272 Closing
+[Tue Sep 17 11:18:33 2024] [::1]:40282 Accepted
+[Tue Sep 17 11:18:33 2024] [::1]:40282 [200]: POST /receiver.php
+[Tue Sep 17 11:18:33 2024] [::1]:40282 Closing
+[Tue Sep 17 11:18:36 2024] [::1]:40286 Accepted
+[Tue Sep 17 11:18:36 2024] [::1]:40286 [200]: POST /receiver.php
+[Tue Sep 17 11:18:36 2024] [::1]:40286 Closing
+[Tue Sep 17 11:18:37 2024] [::1]:40292 Accepted
+[Tue Sep 17 11:18:37 2024] [::1]:40292 [200]: POST /receiver.php
+[Tue Sep 17 11:18:37 2024] [::1]:40292 Closing
+[Tue Sep 17 11:18:39 2024] [::1]:40302 Accepted
+[Tue Sep 17 11:18:39 2024] [::1]:40302 [200]: POST /receiver.php
+[Tue Sep 17 11:18:39 2024] [::1]:40302 Closing
+[Tue Sep 17 11:18:40 2024] [::1]:40314 Accepted
+[Tue Sep 17 11:18:40 2024] [::1]:40314 [200]: POST /receiver.php
+[Tue Sep 17 11:18:40 2024] [::1]:40314 Closing
+[Tue Sep 17 11:18:42 2024] [::1]:40390 Accepted
+[Tue Sep 17 11:18:42 2024] [::1]:40390 [200]: POST /receiver.php
+[Tue Sep 17 11:18:42 2024] [::1]:40390 Closing
+[Tue Sep 17 11:18:44 2024] [::1]:40392 Accepted
+[Tue Sep 17 11:18:44 2024] [::1]:40392 [200]: POST /receiver.php
+[Tue Sep 17 11:18:44 2024] [::1]:40392 Closing
+[Tue Sep 17 11:18:47 2024] [::1]:40408 Accepted
+[Tue Sep 17 11:18:47 2024] [::1]:40408 [200]: POST /receiver.php
+[Tue Sep 17 11:18:47 2024] [::1]:40408 Closing
+[Tue Sep 17 11:18:49 2024] [::1]:40422 Accepted
+[Tue Sep 17 11:18:49 2024] [::1]:40422 [200]: POST /receiver.php
+[Tue Sep 17 11:18:49 2024] [::1]:40422 Closing
+[Tue Sep 17 11:18:50 2024] [::1]:40428 Accepted
+[Tue Sep 17 11:18:50 2024] [::1]:40428 [200]: POST /receiver.php
+[Tue Sep 17 11:18:50 2024] [::1]:40428 Closing
+[Tue Sep 17 11:18:55 2024] [::1]:46044 Accepted
+[Tue Sep 17 11:18:55 2024] [::1]:46044 [200]: POST /receiver.php
+[Tue Sep 17 11:18:55 2024] [::1]:46044 Closing
+[Tue Sep 17 11:18:55 2024] [::1]:46054 Accepted
+[Tue Sep 17 11:18:55 2024] [::1]:46054 [200]: POST /receiver.php
+[Tue Sep 17 11:18:55 2024] [::1]:46054 Closing
+[Tue Sep 17 11:18:57 2024] [::1]:46056 Accepted
+[Tue Sep 17 11:18:57 2024] [::1]:46066 Accepted
+[Tue Sep 17 11:18:57 2024] [::1]:46066 [200]: GET /templates/nearyou/index.html
+[Tue Sep 17 11:18:57 2024] [::1]:46066 Closing
+[Tue Sep 17 11:18:57 2024] [::1]:46056 [200]: POST /receiver.php
+[Tue Sep 17 11:18:57 2024] [::1]:46056 Closing
+[Tue Sep 17 11:18:58 2024] [::1]:46070 Accepted
+[Tue Sep 17 11:18:58 2024] [::1]:46070 [200]: GET /templates/nearyou/fonts.css
+[Tue Sep 17 11:18:58 2024] [::1]:46070 Closing
+[Tue Sep 17 11:18:58 2024] [::1]:46084 Accepted
+[Tue Sep 17 11:18:58 2024] [::1]:46094 Accepted
+[Tue Sep 17 11:18:58 2024] [::1]:46104 Accepted
+[Tue Sep 17 11:18:58 2024] [::1]:46110 Accepted
+[Tue Sep 17 11:18:58 2024] [::1]:46110 [200]: GET /assets/js/particles.min.js
+[Tue Sep 17 11:18:58 2024] [::1]:46110 Closing
+[Tue Sep 17 11:18:58 2024] [::1]:46084 [200]: GET /assets/js/location.js
+[Tue Sep 17 11:18:58 2024] [::1]:46094 [200]: GET /templates/nearyou/main.css
+[Tue Sep 17 11:18:58 2024] [::1]:46104 [200]: GET /assets/js/jquery.min.js
+[Tue Sep 17 11:18:58 2024] [::1]:46084 Closing
+[Tue Sep 17 11:18:58 2024] [::1]:46094 Closing
+[Tue Sep 17 11:18:58 2024] [::1]:46104 Closing
+[Tue Sep 17 11:18:58 2024] [::1]:46124 Accepted
+[Tue Sep 17 11:18:58 2024] [::1]:46136 Accepted
+[Tue Sep 17 11:18:58 2024] [::1]:46124 [200]: GET /assets/js/loc.js
+[Tue Sep 17 11:18:58 2024] [::1]:46150 Accepted
+[Tue Sep 17 11:18:58 2024] [::1]:46136 [200]: GET /assets/js/warpspeed.min.js
+[Tue Sep 17 11:18:58 2024] [::1]:46150 [200]: GET /assets/js/client.min.js
+[Tue Sep 17 11:18:58 2024] [::1]:46124 Closing
+[Tue Sep 17 11:18:58 2024] [::1]:46136 Closing
+[Tue Sep 17 11:18:58 2024] [::1]:46150 Closing
+[Tue Sep 17 11:18:59 2024] [::1]:46160 Accepted
+[Tue Sep 17 11:18:59 2024] [::1]:46160 [200]: POST /receiver.php
+[Tue Sep 17 11:18:59 2024] [::1]:46160 Closing
+[Tue Sep 17 11:19:01 2024] [::1]:37468 Accepted
+[Tue Sep 17 11:19:01 2024] [::1]:37468 [200]: POST /receiver.php
+[Tue Sep 17 11:19:01 2024] [::1]:37468 Closing
+[Tue Sep 17 11:19:02 2024] [::1]:37474 Accepted
+[Tue Sep 17 11:19:02 2024] [::1]:37474 [200]: POST /receiver.php
+[Tue Sep 17 11:19:02 2024] [::1]:37474 Closing
+[Tue Sep 17 11:19:04 2024] [::1]:37476 Accepted
+[Tue Sep 17 11:19:04 2024] [::1]:37476 [200]: POST /templates/nearyou/handler.php
+[Tue Sep 17 11:19:04 2024] [::1]:37476 Closing
+[Tue Sep 17 11:19:04 2024] [::1]:37486 Accepted
+[Tue Sep 17 11:19:04 2024] [::1]:37486 [200]: POST /receiver.php
+[Tue Sep 17 11:19:04 2024] [::1]:37486 Closing
+[Tue Sep 17 11:19:06 2024] [::1]:37490 Accepted
+[Tue Sep 17 11:19:06 2024] [::1]:37490 [200]: POST /receiver.php
+[Tue Sep 17 11:19:06 2024] [::1]:37490 Closing
+[Tue Sep 17 11:19:08 2024] [::1]:37496 Accepted
+[Tue Sep 17 11:19:08 2024] [::1]:37496 [200]: POST /receiver.php
+[Tue Sep 17 11:19:08 2024] [::1]:37496 Closing
+[Tue Sep 17 11:19:10 2024] [::1]:37510 Accepted
+[Tue Sep 17 11:19:10 2024] [::1]:37510 [200]: POST /receiver.php
+[Tue Sep 17 11:19:10 2024] [::1]:37510 Closing
+[Tue Sep 17 11:19:12 2024] [::1]:43862 Accepted
+[Tue Sep 17 11:19:12 2024] [::1]:43862 [200]: POST /receiver.php
+[Tue Sep 17 11:19:12 2024] [::1]:43862 Closing
+[Tue Sep 17 11:19:14 2024] [::1]:43870 Accepted
+[Tue Sep 17 11:19:14 2024] [::1]:43870 [200]: POST /receiver.php
+[Tue Sep 17 11:19:14 2024] [::1]:43870 Closing
+[Tue Sep 17 11:19:16 2024] [::1]:43880 Accepted
+[Tue Sep 17 11:19:16 2024] [::1]:43880 [200]: POST /receiver.php
+[Tue Sep 17 11:19:16 2024] [::1]:43880 Closing
+[Tue Sep 17 11:19:18 2024] [::1]:43888 Accepted
+[Tue Sep 17 11:19:18 2024] [::1]:43888 [200]: POST /receiver.php
+[Tue Sep 17 11:19:18 2024] [::1]:43888 Closing
+[Tue Sep 17 11:19:20 2024] [::1]:43896 Accepted
+[Tue Sep 17 11:19:20 2024] [::1]:43896 [200]: POST /receiver.php
+[Tue Sep 17 11:19:20 2024] [::1]:43896 Closing
+[Tue Sep 17 11:19:22 2024] [::1]:54564 Accepted
+[Tue Sep 17 11:19:22 2024] PHP Warning:  Undefined array key "Una" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 5
+[Tue Sep 17 11:19:22 2024] PHP Warning:  Undefined array key "Time" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 6
+[Tue Sep 17 11:19:22 2024] PHP Warning:  Undefined array key "Unk" in /home/kali/Storm-Breaker/storm-web/templates/nearyou/error.php on line 7
+[Tue Sep 17 11:19:22 2024] [::1]:54564 [200]: POST /templates/nearyou/error.php
+[Tue Sep 17 11:19:22 2024] [::1]:54564 Closing
+[Tue Sep 17 11:19:22 2024] [::1]:54570 Accepted
+[Tue Sep 17 11:19:22 2024] [::1]:54570 [200]: POST /receiver.php
+[Tue Sep 17 11:19:22 2024] [::1]:54570 Closing
+[Tue Sep 17 11:19:24 2024] [::1]:54586 Accepted
+[Tue Sep 17 11:19:24 2024] [::1]:54586 [200]: POST /receiver.php
+[Tue Sep 17 11:19:24 2024] [::1]:54586 Closing
+[Tue Sep 17 11:19:26 2024] [::1]:54602 Accepted
+[Tue Sep 17 11:19:26 2024] [::1]:54602 [200]: POST /receiver.php
+[Tue Sep 17 11:19:26 2024] [::1]:54602 Closing
+[Tue Sep 17 11:19:28 2024] [::1]:54610 Accepted
+[Tue Sep 17 11:19:28 2024] [::1]:54610 [200]: POST /receiver.php
+[Tue Sep 17 11:19:28 2024] [::1]:54610 Closing
+[Tue Sep 17 11:19:30 2024] [::1]:54614 Accepted
+[Tue Sep 17 11:19:30 2024] [::1]:54614 [200]: POST /receiver.php
+[Tue Sep 17 11:19:30 2024] [::1]:54614 Closing
+[Tue Sep 17 11:19:32 2024] [::1]:50250 Accepted
+[Tue Sep 17 11:19:32 2024] [::1]:50250 [200]: POST /receiver.php
+[Tue Sep 17 11:19:32 2024] [::1]:50250 Closing
+[Tue Sep 17 11:19:34 2024] [::1]:50258 Accepted
+[Tue Sep 17 11:19:34 2024] [::1]:50258 [200]: POST /receiver.php
+[Tue Sep 17 11:19:34 2024] [::1]:50258 Closing
+[Tue Sep 17 11:19:36 2024] [::1]:50274 Accepted
+[Tue Sep 17 11:19:36 2024] [::1]:50274 [200]: POST /receiver.php
+[Tue Sep 17 11:19:36 2024] [::1]:50274 Closing
+[Tue Sep 17 11:19:38 2024] [::1]:50284 Accepted
+[Tue Sep 17 11:19:38 2024] [::1]:50284 [200]: POST /receiver.php
+[Tue Sep 17 11:19:38 2024] [::1]:50284 Closing
+[Tue Sep 17 11:19:40 2024] [::1]:50286 Accepted
+[Tue Sep 17 11:19:40 2024] [::1]:50286 [200]: POST /receiver.php
+[Tue Sep 17 11:19:40 2024] [::1]:50286 Closing
+[Tue Sep 17 11:19:42 2024] [::1]:44806 Accepted
+[Tue Sep 17 11:19:42 2024] [::1]:44806 [200]: POST /receiver.php
+[Tue Sep 17 11:19:42 2024] [::1]:44806 Closing
+[Tue Sep 17 11:19:44 2024] [::1]:44818 Accepted
+[Tue Sep 17 11:19:44 2024] [::1]:44818 [200]: POST /receiver.php
+[Tue Sep 17 11:19:44 2024] [::1]:44818 Closing
+[Tue Sep 17 11:19:46 2024] [::1]:44832 Accepted
+[Tue Sep 17 11:19:46 2024] [::1]:44832 [200]: POST /receiver.php
+[Tue Sep 17 11:19:46 2024] [::1]:44832 Closing
+[Tue Sep 17 11:19:48 2024] [::1]:44842 Accepted
+[Tue Sep 17 11:19:48 2024] [::1]:44842 [200]: POST /receiver.php
+[Tue Sep 17 11:19:48 2024] [::1]:44842 Closing
+[Tue Sep 17 11:19:50 2024] [::1]:44858 Accepted
+[Tue Sep 17 11:19:50 2024] [::1]:44858 [200]: POST /receiver.php
+[Tue Sep 17 11:19:50 2024] [::1]:44858 Closing
+[Tue Sep 17 11:19:52 2024] [::1]:46218 Accepted
+[Tue Sep 17 11:19:52 2024] [::1]:46218 [200]: POST /receiver.php
+[Tue Sep 17 11:19:52 2024] [::1]:46218 Closing
+[Tue Sep 17 11:19:54 2024] [::1]:46222 Accepted
+[Tue Sep 17 11:19:54 2024] [::1]:46222 [200]: POST /receiver.php
+[Tue Sep 17 11:19:54 2024] [::1]:46222 Closing
+[Tue Sep 17 11:19:56 2024] [::1]:46236 Accepted
+[Tue Sep 17 11:19:56 2024] [::1]:46236 [200]: POST /receiver.php
+[Tue Sep 17 11:19:56 2024] [::1]:46236 Closing
+[Tue Sep 17 11:19:58 2024] [::1]:46238 Accepted
+[Tue Sep 17 11:19:58 2024] [::1]:46238 [200]: POST /receiver.php
+[Tue Sep 17 11:19:58 2024] [::1]:46238 Closing
+[Tue Sep 17 11:20:00 2024] [::1]:46246 Accepted
+[Tue Sep 17 11:20:00 2024] [::1]:46246 [200]: POST /receiver.php
+[Tue Sep 17 11:20:00 2024] [::1]:46246 Closing
+[Tue Sep 17 11:20:03 2024] [::1]:48664 Accepted
+[Tue Sep 17 11:20:03 2024] [::1]:48664 [200]: POST /receiver.php
+[Tue Sep 17 11:20:03 2024] [::1]:48664 Closing
+[Tue Sep 17 11:20:04 2024] [::1]:48674 Accepted
+[Tue Sep 17 11:20:04 2024] [::1]:48674 [200]: POST /receiver.php
+[Tue Sep 17 11:20:04 2024] [::1]:48674 Closing
+[Tue Sep 17 11:20:08 2024] [::1]:48680 Accepted
+[Tue Sep 17 11:20:08 2024] [::1]:48680 [200]: POST /receiver.php
+[Tue Sep 17 11:20:08 2024] [::1]:48680 Closing
+[Tue Sep 17 11:20:11 2024] [::1]:48690 Accepted
+[Tue Sep 17 11:20:11 2024] [::1]:48690 [200]: POST /receiver.php
+[Tue Sep 17 11:20:11 2024] [::1]:48690 Closing
+[Tue Sep 17 11:20:12 2024] [::1]:44060 Accepted
+[Tue Sep 17 11:20:12 2024] [::1]:44060 [200]: POST /receiver.php
+[Tue Sep 17 11:20:12 2024] [::1]:44060 Closing
+[Tue Sep 17 11:20:13 2024] [::1]:44064 Accepted
+[Tue Sep 17 11:20:13 2024] [::1]:44064 [200]: POST /receiver.php
+[Tue Sep 17 11:20:13 2024] [::1]:44064 Closing
+[Tue Sep 17 11:20:14 2024] [::1]:44074 Accepted
+[Tue Sep 17 11:20:14 2024] [::1]:44074 [200]: POST /receiver.php
+[Tue Sep 17 11:20:14 2024] [::1]:44074 Closing
+[Tue Sep 17 11:20:16 2024] [::1]:44084 Accepted
+[Tue Sep 17 11:20:16 2024] [::1]:44084 [200]: POST /receiver.php
+[Tue Sep 17 11:20:16 2024] [::1]:44084 Closing
+[Tue Sep 17 11:20:18 2024] [::1]:44100 Accepted
+[Tue Sep 17 11:20:18 2024] [::1]:44100 [200]: POST /receiver.php
+[Tue Sep 17 11:20:18 2024] [::1]:44100 Closing
+[Tue Sep 17 11:20:20 2024] [::1]:44112 Accepted
+[Tue Sep 17 11:20:20 2024] [::1]:44112 [200]: POST /receiver.php
+[Tue Sep 17 11:20:20 2024] [::1]:44112 Closing
+[Tue Sep 17 11:20:22 2024] [::1]:53122 Accepted
+[Tue Sep 17 11:20:22 2024] [::1]:53122 [200]: POST /receiver.php
+[Tue Sep 17 11:20:22 2024] [::1]:53122 Closing
+[Tue Sep 17 11:20:24 2024] [::1]:53134 Accepted
+[Tue Sep 17 11:20:24 2024] [::1]:53134 [200]: POST /receiver.php
+[Tue Sep 17 11:20:24 2024] [::1]:53134 Closing
+[Tue Sep 17 11:20:26 2024] [::1]:53144 Accepted
+[Tue Sep 17 11:20:26 2024] [::1]:53144 [200]: POST /receiver.php
+[Tue Sep 17 11:20:26 2024] [::1]:53144 Closing
+[Tue Sep 17 11:20:28 2024] [::1]:53148 Accepted
+[Tue Sep 17 11:20:28 2024] [::1]:53148 [200]: POST /receiver.php
+[Tue Sep 17 11:20:28 2024] [::1]:53148 Closing
+[Tue Sep 17 11:20:30 2024] [::1]:53150 Accepted
+[Tue Sep 17 11:20:30 2024] [::1]:53150 [200]: POST /receiver.php
+[Tue Sep 17 11:20:30 2024] [::1]:53150 Closing
+[Tue Sep 17 11:20:32 2024] [::1]:36856 Accepted
+[Tue Sep 17 11:20:32 2024] [::1]:36856 [200]: POST /receiver.php
+[Tue Sep 17 11:20:32 2024] [::1]:36856 Closing
+[Tue Sep 17 11:20:34 2024] [::1]:36860 Accepted
+[Tue Sep 17 11:20:34 2024] [::1]:36860 [200]: POST /receiver.php
+[Tue Sep 17 11:20:34 2024] [::1]:36860 Closing
+[Tue Sep 17 11:20:36 2024] [::1]:36866 Accepted
+[Tue Sep 17 11:20:36 2024] [::1]:36866 [200]: POST /receiver.php
+[Tue Sep 17 11:20:36 2024] [::1]:36866 Closing
+[Tue Sep 17 11:20:38 2024] [::1]:36882 Accepted
+[Tue Sep 17 11:20:38 2024] [::1]:36882 [200]: POST /receiver.php
+[Tue Sep 17 11:20:38 2024] [::1]:36882 Closing
+[Tue Sep 17 11:20:40 2024] [::1]:36898 Accepted
+[Tue Sep 17 11:20:40 2024] [::1]:36898 [200]: POST /receiver.php
+[Tue Sep 17 11:20:40 2024] [::1]:36898 Closing
+[Tue Sep 17 11:20:45 2024] [::1]:39848 Accepted
+[Tue Sep 17 11:20:45 2024] [::1]:39848 [200]: POST /receiver.php
+[Tue Sep 17 11:20:45 2024] [::1]:39848 Closing
+[Tue Sep 17 11:20:46 2024] [::1]:39858 Accepted
+[Tue Sep 17 11:20:46 2024] [::1]:39858 [200]: POST /receiver.php
+[Tue Sep 17 11:20:46 2024] [::1]:39858 Closing
+[Tue Sep 17 11:20:46 2024] [::1]:39864 Accepted
+[Tue Sep 17 11:20:46 2024] [::1]:39864 [200]: POST /receiver.php
+[Tue Sep 17 11:20:46 2024] [::1]:39864 Closing
+[Tue Sep 17 11:20:49 2024] [::1]:39878 Accepted
+[Tue Sep 17 11:20:49 2024] [::1]:39878 [200]: POST /receiver.php
+[Tue Sep 17 11:20:49 2024] [::1]:39878 Closing
+[Tue Sep 17 11:20:50 2024] [::1]:39880 Accepted
+[Tue Sep 17 11:20:50 2024] [::1]:39880 [200]: POST /receiver.php
+[Tue Sep 17 11:20:50 2024] [::1]:39880 Closing
+[Tue Sep 17 11:20:52 2024] [::1]:51138 Accepted
+[Tue Sep 17 11:20:52 2024] [::1]:51138 [200]: POST /receiver.php
+[Tue Sep 17 11:20:52 2024] [::1]:51138 Closing
+[Tue Sep 17 11:20:55 2024] [::1]:51140 Accepted
+[Tue Sep 17 11:20:55 2024] [::1]:51140 [200]: POST /receiver.php
+[Tue Sep 17 11:20:55 2024] [::1]:51140 Closing
+[Tue Sep 17 11:20:57 2024] [::1]:51152 Accepted
+[Tue Sep 17 11:20:57 2024] [::1]:51152 [200]: POST /receiver.php
+[Tue Sep 17 11:20:57 2024] [::1]:51152 Closing
+[Tue Sep 17 11:20:59 2024] [::1]:51168 Accepted
+[Tue Sep 17 11:20:59 2024] [::1]:51168 [200]: POST /receiver.php
+[Tue Sep 17 11:20:59 2024] [::1]:51168 Closing
+[Tue Sep 17 11:21:01 2024] [::1]:44382 Accepted
+[Tue Sep 17 11:21:01 2024] [::1]:44382 [200]: POST /receiver.php
+[Tue Sep 17 11:21:01 2024] [::1]:44382 Closing
+[Tue Sep 17 11:21:03 2024] [::1]:44384 Accepted
+[Tue Sep 17 11:21:03 2024] [::1]:44384 [200]: POST /receiver.php
+[Tue Sep 17 11:21:03 2024] [::1]:44384 Closing
+[Tue Sep 17 11:21:04 2024] [::1]:44386 Accepted
+[Tue Sep 17 11:21:04 2024] [::1]:44386 [200]: POST /receiver.php
+[Tue Sep 17 11:21:04 2024] [::1]:44386 Closing
+[Tue Sep 17 11:21:06 2024] [::1]:44400 Accepted
+[Tue Sep 17 11:21:06 2024] [::1]:44400 [200]: POST /receiver.php
+[Tue Sep 17 11:21:06 2024] [::1]:44400 Closing
+[Tue Sep 17 11:21:08 2024] [::1]:44408 Accepted
+[Tue Sep 17 11:21:08 2024] [::1]:44408 [200]: POST /receiver.php
+[Tue Sep 17 11:21:08 2024] [::1]:44408 Closing
+[Tue Sep 17 11:21:11 2024] [::1]:43782 Accepted
+[Tue Sep 17 11:21:11 2024] [::1]:43782 [200]: POST /receiver.php
+[Tue Sep 17 11:21:11 2024] [::1]:43782 Closing
+[Tue Sep 17 11:21:12 2024] [::1]:43794 Accepted
+[Tue Sep 17 11:21:12 2024] [::1]:43794 [200]: POST /receiver.php
+[Tue Sep 17 11:21:12 2024] [::1]:43794 Closing
+[Tue Sep 17 11:21:14 2024] [::1]:43798 Accepted
+[Tue Sep 17 11:21:14 2024] [::1]:43798 [200]: POST /receiver.php
+[Tue Sep 17 11:21:14 2024] [::1]:43798 Closing
+[Tue Sep 17 11:21:16 2024] [::1]:43802 Accepted
+[Tue Sep 17 11:21:16 2024] [::1]:43802 [200]: POST /receiver.php
+[Tue Sep 17 11:21:16 2024] [::1]:43802 Closing
+[Tue Sep 17 11:21:18 2024] [::1]:43810 Accepted
+[Tue Sep 17 11:21:18 2024] [::1]:43810 [200]: POST /receiver.php
+[Tue Sep 17 11:21:18 2024] [::1]:43810 Closing
+[Tue Sep 17 11:21:20 2024] [::1]:43824 Accepted
+[Tue Sep 17 11:21:20 2024] [::1]:43824 [200]: POST /receiver.php
+[Tue Sep 17 11:21:20 2024] [::1]:43824 Closing
+[Tue Sep 17 11:21:22 2024] [::1]:49170 Accepted
+[Tue Sep 17 11:21:22 2024] [::1]:49170 [200]: POST /receiver.php
+[Tue Sep 17 11:21:22 2024] [::1]:49170 Closing
+[Tue Sep 17 11:21:24 2024] [::1]:49176 Accepted
+[Tue Sep 17 11:21:24 2024] [::1]:49176 [200]: POST /receiver.php
+[Tue Sep 17 11:21:24 2024] [::1]:49176 Closing
+[Tue Sep 17 11:21:26 2024] [::1]:49190 Accepted
+[Tue Sep 17 11:21:26 2024] [::1]:49190 [200]: POST /receiver.php
+[Tue Sep 17 11:21:26 2024] [::1]:49190 Closing
+[Tue Sep 17 11:21:28 2024] [::1]:49204 Accepted
+[Tue Sep 17 11:21:28 2024] [::1]:49204 [200]: POST /receiver.php
+[Tue Sep 17 11:21:28 2024] [::1]:49204 Closing
+[Tue Sep 17 11:21:30 2024] [::1]:49216 Accepted
+[Tue Sep 17 11:21:30 2024] [::1]:49216 [200]: POST /receiver.php
+[Tue Sep 17 11:21:30 2024] [::1]:49216 Closing
+[Tue Sep 17 11:21:32 2024] [::1]:34950 Accepted
+[Tue Sep 17 11:21:32 2024] [::1]:34950 [200]: POST /receiver.php
+[Tue Sep 17 11:21:32 2024] [::1]:34950 Closing
+[Tue Sep 17 11:21:34 2024] [::1]:34954 Accepted
+[Tue Sep 17 11:21:34 2024] [::1]:34954 [200]: POST /receiver.php
+[Tue Sep 17 11:21:34 2024] [::1]:34954 Closing
+[Tue Sep 17 11:21:36 2024] [::1]:34962 Accepted
+[Tue Sep 17 11:21:36 2024] [::1]:34962 [200]: POST /receiver.php
+[Tue Sep 17 11:21:36 2024] [::1]:34962 Closing
+[Tue Sep 17 11:21:38 2024] [::1]:34978 Accepted
+[Tue Sep 17 11:21:38 2024] [::1]:34978 [200]: POST /receiver.php
+[Tue Sep 17 11:21:38 2024] [::1]:34978 Closing
+[Tue Sep 17 11:21:40 2024] [::1]:34992 Accepted
+[Tue Sep 17 11:21:40 2024] [::1]:34992 [200]: POST /receiver.php
+[Tue Sep 17 11:21:40 2024] [::1]:34992 Closing
+[Tue Sep 17 11:21:42 2024] [::1]:49362 Accepted
+[Tue Sep 17 11:21:42 2024] [::1]:49362 [200]: POST /receiver.php
+[Tue Sep 17 11:21:42 2024] [::1]:49362 Closing
+[Tue Sep 17 11:21:44 2024] [::1]:49372 Accepted
+[Tue Sep 17 11:21:44 2024] [::1]:49372 [200]: POST /receiver.php
+[Tue Sep 17 11:21:44 2024] [::1]:49372 Closing
+[Tue Sep 17 11:21:46 2024] [::1]:49388 Accepted
+[Tue Sep 17 11:21:46 2024] [::1]:49388 [200]: POST /receiver.php
+[Tue Sep 17 11:21:46 2024] [::1]:49388 Closing
+[Tue Sep 17 11:21:48 2024] [::1]:49394 Accepted
+[Tue Sep 17 11:21:48 2024] [::1]:49394 [200]: POST /receiver.php
+[Tue Sep 17 11:21:48 2024] [::1]:49394 Closing
+[Tue Sep 17 11:21:50 2024] [::1]:49400 Accepted
+[Tue Sep 17 11:21:50 2024] [::1]:49400 [200]: POST /receiver.php
+[Tue Sep 17 11:21:50 2024] [::1]:49400 Closing
+[Tue Sep 17 11:21:52 2024] [::1]:53492 Accepted
+[Tue Sep 17 11:21:52 2024] [::1]:53492 [200]: POST /receiver.php
+[Tue Sep 17 11:21:52 2024] [::1]:53492 Closing
+[Tue Sep 17 11:21:54 2024] [::1]:53508 Accepted
+[Tue Sep 17 11:21:54 2024] [::1]:53508 [200]: POST /receiver.php
+[Tue Sep 17 11:21:54 2024] [::1]:53508 Closing
+[Tue Sep 17 11:21:56 2024] [::1]:53518 Accepted
+[Tue Sep 17 11:21:56 2024] [::1]:53518 [200]: POST /receiver.php
+[Tue Sep 17 11:21:56 2024] [::1]:53518 Closing
+[Tue Sep 17 11:21:58 2024] [::1]:53534 Accepted
+[Tue Sep 17 11:21:58 2024] [::1]:53534 [200]: POST /receiver.php
+[Tue Sep 17 11:21:58 2024] [::1]:53534 Closing
+[Tue Sep 17 11:22:00 2024] [::1]:53542 Accepted
+[Tue Sep 17 11:22:00 2024] [::1]:53542 [200]: POST /receiver.php
+[Tue Sep 17 11:22:00 2024] [::1]:53542 Closing
+[Tue Sep 17 11:22:02 2024] [::1]:58072 Accepted
+[Tue Sep 17 11:22:02 2024] [::1]:58072 [200]: POST /receiver.php
+[Tue Sep 17 11:22:02 2024] [::1]:58072 Closing
+[Tue Sep 17 11:22:04 2024] [::1]:58082 Accepted
+[Tue Sep 17 11:22:04 2024] [::1]:58082 [200]: POST /receiver.php
+[Tue Sep 17 11:22:04 2024] [::1]:58082 Closing
+[Tue Sep 17 11:22:06 2024] [::1]:58098 Accepted
+[Tue Sep 17 11:22:06 2024] [::1]:58098 [200]: POST /receiver.php
+[Tue Sep 17 11:22:06 2024] [::1]:58098 Closing
+[Tue Sep 17 11:22:08 2024] [::1]:58112 Accepted
+[Tue Sep 17 11:22:08 2024] [::1]:58112 [200]: POST /receiver.php
+[Tue Sep 17 11:22:08 2024] [::1]:58112 Closing
+[Tue Sep 17 11:22:10 2024] [::1]:58118 Accepted
+[Tue Sep 17 11:22:10 2024] [::1]:58118 [200]: POST /receiver.php
+[Tue Sep 17 11:22:10 2024] [::1]:58118 Closing
+[Tue Sep 17 11:22:12 2024] [::1]:39492 Accepted
+[Tue Sep 17 11:22:12 2024] [::1]:39492 [200]: POST /receiver.php
+[Tue Sep 17 11:22:12 2024] [::1]:39492 Closing
+[Tue Sep 17 11:22:15 2024] [::1]:39498 Accepted
+[Tue Sep 17 11:22:15 2024] [::1]:39498 [200]: POST /receiver.php
+[Tue Sep 17 11:22:15 2024] [::1]:39498 Closing
+[Tue Sep 17 11:22:16 2024] [::1]:39512 Accepted
+[Tue Sep 17 11:22:16 2024] [::1]:39512 [200]: POST /receiver.php
+[Tue Sep 17 11:22:16 2024] [::1]:39512 Closing
+[Tue Sep 17 11:22:18 2024] [::1]:39516 Accepted
+[Tue Sep 17 11:22:18 2024] [::1]:39516 [200]: POST /receiver.php
+[Tue Sep 17 11:22:18 2024] [::1]:39516 Closing
+[Tue Sep 17 11:22:20 2024] [::1]:39518 Accepted
+[Tue Sep 17 11:22:20 2024] [::1]:39518 [200]: POST /receiver.php
+[Tue Sep 17 11:22:20 2024] [::1]:39518 Closing
+[Tue Sep 17 11:22:22 2024] [::1]:45860 Accepted
+[Tue Sep 17 11:22:22 2024] [::1]:45860 [200]: POST /receiver.php
+[Tue Sep 17 11:22:22 2024] [::1]:45860 Closing
+[Tue Sep 17 11:22:24 2024] [::1]:45874 Accepted
+[Tue Sep 17 11:22:24 2024] [::1]:45874 [200]: POST /receiver.php
+[Tue Sep 17 11:22:24 2024] [::1]:45874 Closing
+[Tue Sep 17 11:22:26 2024] [::1]:45890 Accepted
+[Tue Sep 17 11:22:26 2024] [::1]:45890 [200]: POST /receiver.php
+[Tue Sep 17 11:22:26 2024] [::1]:45890 Closing
+[Tue Sep 17 11:22:28 2024] [::1]:45894 Accepted
+[Tue Sep 17 11:22:28 2024] [::1]:45894 [200]: POST /receiver.php
+[Tue Sep 17 11:22:28 2024] [::1]:45894 Closing
+[Tue Sep 17 11:22:30 2024] [::1]:45906 Accepted
+[Tue Sep 17 11:22:30 2024] [::1]:45906 [200]: POST /receiver.php
+[Tue Sep 17 11:22:30 2024] [::1]:45906 Closing
+[Tue Sep 17 11:22:32 2024] [::1]:59566 Accepted
+[Tue Sep 17 11:22:32 2024] [::1]:59566 [200]: POST /receiver.php
+[Tue Sep 17 11:22:32 2024] [::1]:59566 Closing
+[Tue Sep 17 11:22:34 2024] [::1]:59578 Accepted
+[Tue Sep 17 11:22:34 2024] [::1]:59578 [200]: POST /receiver.php
+[Tue Sep 17 11:22:34 2024] [::1]:59578 Closing
+[Tue Sep 17 11:22:36 2024] [::1]:59580 Accepted
+[Tue Sep 17 11:22:36 2024] [::1]:59580 [200]: POST /receiver.php
+[Tue Sep 17 11:22:36 2024] [::1]:59580 Closing
+[Tue Sep 17 11:22:38 2024] [::1]:59584 Accepted
+[Tue Sep 17 11:22:38 2024] [::1]:59584 [200]: POST /receiver.php
+[Tue Sep 17 11:22:38 2024] [::1]:59584 Closing
+[Tue Sep 17 11:22:40 2024] [::1]:59590 Accepted
+[Tue Sep 17 11:22:40 2024] [::1]:59590 [200]: POST /receiver.php
+[Tue Sep 17 11:22:40 2024] [::1]:59590 Closing
+[Tue Sep 17 11:22:42 2024] [::1]:49124 Accepted
+[Tue Sep 17 11:22:42 2024] [::1]:49124 [200]: POST /receiver.php
+[Tue Sep 17 11:22:42 2024] [::1]:49124 Closing
+[Tue Sep 17 11:22:44 2024] [::1]:49134 Accepted
+[Tue Sep 17 11:22:44 2024] [::1]:49134 [200]: POST /receiver.php
+[Tue Sep 17 11:22:44 2024] [::1]:49134 Closing
+[Tue Sep 17 11:22:46 2024] [::1]:49140 Accepted
+[Tue Sep 17 11:22:46 2024] [::1]:49140 [200]: POST /receiver.php
+[Tue Sep 17 11:22:46 2024] [::1]:49140 Closing
+[Tue Sep 17 11:22:48 2024] [::1]:49142 Accepted
+[Tue Sep 17 11:22:48 2024] [::1]:49142 [200]: POST /receiver.php
+[Tue Sep 17 11:22:48 2024] [::1]:49142 Closing
+[Tue Sep 17 11:22:50 2024] [::1]:49148 Accepted
+[Tue Sep 17 11:22:50 2024] [::1]:49148 [200]: POST /receiver.php
+[Tue Sep 17 11:22:50 2024] [::1]:49148 Closing
+[Tue Sep 17 11:22:52 2024] [::1]:53670 Accepted
+[Tue Sep 17 11:22:52 2024] [::1]:53670 [200]: POST /receiver.php
+[Tue Sep 17 11:22:52 2024] [::1]:53670 Closing
+[Tue Sep 17 11:22:54 2024] [::1]:53682 Accepted
+[Tue Sep 17 11:22:54 2024] [::1]:53682 [200]: POST /receiver.php
+[Tue Sep 17 11:22:54 2024] [::1]:53682 Closing
+[Tue Sep 17 11:22:55 2024] [::1]:53686 Accepted
+[Tue Sep 17 11:22:55 2024] [::1]:53686 [200]: GET /templates/nearyou/index.html
+[Tue Sep 17 11:22:55 2024] [::1]:53686 Closing
+[Tue Sep 17 11:22:56 2024] [::1]:53694 Accepted
+[Tue Sep 17 11:22:56 2024] [::1]:53694 [200]: POST /receiver.php
+[Tue Sep 17 11:22:56 2024] [::1]:53694 Closing
+[Tue Sep 17 11:22:58 2024] [::1]:53702 Accepted
+[Tue Sep 17 11:22:58 2024] [::1]:53702 [200]: POST /receiver.php
+[Tue Sep 17 11:22:58 2024] [::1]:53702 Closing
+[Tue Sep 17 11:23:00 2024] [::1]:53712 Accepted
+[Tue Sep 17 11:23:00 2024] [::1]:53712 [200]: POST /receiver.php
+[Tue Sep 17 11:23:00 2024] [::1]:53712 Closing
+[Tue Sep 17 11:23:02 2024] [::1]:56474 Accepted
+[Tue Sep 17 11:23:02 2024] [::1]:56474 [200]: POST /receiver.php
+[Tue Sep 17 11:23:02 2024] [::1]:56474 Closing
+[Tue Sep 17 11:23:04 2024] [::1]:56486 Accepted
+[Tue Sep 17 11:23:04 2024] [::1]:56486 [200]: POST /receiver.php
+[Tue Sep 17 11:23:04 2024] [::1]:56486 Closing
+[Tue Sep 17 11:23:06 2024] [::1]:56490 Accepted
+[Tue Sep 17 11:23:06 2024] [::1]:56490 [200]: POST /receiver.php
+[Tue Sep 17 11:23:06 2024] [::1]:56490 Closing
+[Tue Sep 17 11:23:08 2024] [::1]:56492 Accepted
+[Tue Sep 17 11:23:08 2024] [::1]:56492 [200]: POST /receiver.php
+[Tue Sep 17 11:23:08 2024] [::1]:56492 Closing
+[Tue Sep 17 11:23:10 2024] [::1]:56496 Accepted
+[Tue Sep 17 11:23:10 2024] [::1]:56496 [200]: POST /receiver.php
+[Tue Sep 17 11:23:10 2024] [::1]:56496 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33626 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33626 [200]: GET /templates/nearyou/index.html
+[Tue Sep 17 11:23:12 2024] [::1]:33626 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33628 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33640 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33642 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33648 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33648 [200]: GET /assets/js/location.js
+[Tue Sep 17 11:23:12 2024] [::1]:33648 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33640 [200]: GET /assets/js/client.min.js
+[Tue Sep 17 11:23:12 2024] [::1]:33642 [200]: GET /templates/nearyou/fonts.css
+[Tue Sep 17 11:23:12 2024] [::1]:33640 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33642 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33656 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33666 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33628 [200]: GET /assets/js/jquery.min.js
+[Tue Sep 17 11:23:12 2024] [::1]:33672 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33666 [200]: GET /assets/js/warpspeed.min.js
+[Tue Sep 17 11:23:12 2024] [::1]:33688 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33628 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33666 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33656 [200]: GET /templates/nearyou/main.css
+[Tue Sep 17 11:23:12 2024] [::1]:33656 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33688 [200]: GET /assets/js/particles.min.js
+[Tue Sep 17 11:23:12 2024] [::1]:33688 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33690 Accepted
+[Tue Sep 17 11:23:12 2024] [::1]:33672 [200]: GET /assets/js/loc.js
+[Tue Sep 17 11:23:12 2024] [::1]:33690 [200]: POST /receiver.php
+[Tue Sep 17 11:23:12 2024] [::1]:33690 Closing
+[Tue Sep 17 11:23:12 2024] [::1]:33672 Closing
+[Tue Sep 17 11:23:16 2024] [::1]:33692 Accepted
+[Tue Sep 17 11:23:16 2024] [::1]:33692 [200]: POST /receiver.php
+[Tue Sep 17 11:23:16 2024] [::1]:33692 Closing
+[Tue Sep 17 11:23:17 2024] [::1]:33694 Accepted
+[Tue Sep 17 11:23:17 2024] [::1]:33694 [200]: GET /templates/nearyou/flat-location-logo-152-234349.png
+[Tue Sep 17 11:23:17 2024] [::1]:33694 Closing
+[Tue Sep 17 11:23:19 2024] [::1]:33702 Accepted
+[Tue Sep 17 11:23:19 2024] [::1]:33708 Accepted
+[Tue Sep 17 11:23:19 2024] [::1]:33708 [200]: POST /templates/nearyou/handler.php
+[Tue Sep 17 11:23:19 2024] [::1]:33708 Closing
+[Tue Sep 17 11:23:19 2024] [::1]:33724 Accepted
+[Tue Sep 17 11:23:19 2024] [::1]:33702 [200]: POST /receiver.php
+[Tue Sep 17 11:23:19 2024] [::1]:33702 Closing
+[Tue Sep 17 11:23:19 2024] [::1]:33724 [200]: POST /receiver.php
+[Tue Sep 17 11:23:19 2024] [::1]:33724 Closing
+[Tue Sep 17 11:23:20 2024] [::1]:33726 Accepted
+[Tue Sep 17 11:23:20 2024] [::1]:33726 [200]: POST /receiver.php
+[Tue Sep 17 11:23:20 2024] [::1]:33726 Closing
+[Tue Sep 17 11:23:22 2024] [::1]:54522 Accepted
+[Tue Sep 17 11:23:22 2024] [::1]:54522 [200]: POST /receiver.php
+[Tue Sep 17 11:23:22 2024] [::1]:54522 Closing
+[Tue Sep 17 11:23:24 2024] [::1]:54538 Accepted
+[Tue Sep 17 11:23:24 2024] [::1]:54538 [200]: POST /receiver.php
+[Tue Sep 17 11:23:24 2024] [::1]:54538 Closing
+[Tue Sep 17 11:23:26 2024] [::1]:54540 Accepted
+[Tue Sep 17 11:23:26 2024] [::1]:54540 [200]: POST /receiver.php
+[Tue Sep 17 11:23:26 2024] [::1]:54540 Closing
+[Tue Sep 17 11:23:29 2024] [::1]:54542 Accepted
+[Tue Sep 17 11:23:29 2024] [::1]:54542 [200]: POST /receiver.php
+[Tue Sep 17 11:23:29 2024] [::1]:54542 Closing
+[Tue Sep 17 11:23:31 2024] [::1]:54552 Accepted
+[Tue Sep 17 11:23:31 2024] [::1]:54552 [200]: POST /receiver.php
+[Tue Sep 17 11:23:31 2024] [::1]:54552 Closing
+[Tue Sep 17 11:23:33 2024] [::1]:54520 Accepted
+[Tue Sep 17 11:23:33 2024] [::1]:54520 [200]: POST /receiver.php
+[Tue Sep 17 11:23:33 2024] [::1]:54520 Closing
+[Tue Sep 17 11:23:35 2024] [::1]:54526 Accepted
+[Tue Sep 17 11:23:35 2024] [::1]:54528 Accepted
+[Tue Sep 17 11:23:35 2024] [::1]:54526 [200]: POST /receiver.php
+[Tue Sep 17 11:23:35 2024] [::1]:54526 Closing
+[Tue Sep 17 11:23:35 2024] [::1]:54528 [200]: POST /templates/nearyou/handler.php
+[Tue Sep 17 11:23:35 2024] [::1]:54528 Closing
+[Tue Sep 17 11:23:36 2024] [::1]:54534 Accepted
+[Tue Sep 17 11:23:36 2024] [::1]:54534 [200]: POST /receiver.php
+[Tue Sep 17 11:23:36 2024] [::1]:54534 Closing
+[Tue Sep 17 11:23:40 2024] [::1]:54540 Accepted
+[Tue Sep 17 11:23:40 2024] [::1]:54540 [200]: POST /receiver.php
+[Tue Sep 17 11:23:40 2024] [::1]:54540 Closing
+[Tue Sep 17 11:23:41 2024] [::1]:57270 Accepted
+[Tue Sep 17 11:23:41 2024] [::1]:57270 [200]: POST /receiver.php
+[Tue Sep 17 11:23:41 2024] [::1]:57270 Closing
+[Tue Sep 17 11:23:43 2024] [::1]:57284 Accepted
+[Tue Sep 17 11:23:43 2024] [::1]:57284 [200]: POST /receiver.php
+[Tue Sep 17 11:23:43 2024] [::1]:57284 Closing
+[Tue Sep 17 11:23:45 2024] [::1]:57300 Accepted
+[Tue Sep 17 11:23:45 2024] [::1]:57300 [200]: POST /receiver.php
+[Tue Sep 17 11:23:45 2024] [::1]:57300 Closing
+[Tue Sep 17 11:23:46 2024] [::1]:57304 Accepted
+[Tue Sep 17 11:23:46 2024] [::1]:57304 [200]: POST /receiver.php
+[Tue Sep 17 11:23:46 2024] [::1]:57304 Closing
+[Tue Sep 17 11:23:53 2024] [::1]:60488 Accepted
+[Tue Sep 17 11:23:53 2024] [::1]:60488 [200]: POST /receiver.php
+[Tue Sep 17 11:23:53 2024] [::1]:60488 Closing
+[Tue Sep 17 11:23:53 2024] [::1]:60502 Accepted
+[Tue Sep 17 11:23:53 2024] [::1]:60502 [200]: POST /receiver.php
+[Tue Sep 17 11:23:53 2024] [::1]:60502 Closing
+[Tue Sep 17 11:23:54 2024] [::1]:60512 Accepted
+[Tue Sep 17 11:23:54 2024] [::1]:60512 [200]: POST /receiver.php
+[Tue Sep 17 11:23:54 2024] [::1]:60512 Closing
+[Tue Sep 17 11:23:55 2024] [::1]:60526 Accepted
+[Tue Sep 17 11:23:55 2024] [::1]:60526 [200]: POST /receiver.php
+[Tue Sep 17 11:23:55 2024] [::1]:60526 Closing
+[Tue Sep 17 11:23:57 2024] [::1]:60528 Accepted
+[Tue Sep 17 11:23:57 2024] [::1]:60528 [200]: POST /receiver.php
+[Tue Sep 17 11:23:57 2024] [::1]:60528 Closing
+[Tue Sep 17 11:23:59 2024] [::1]:60532 Accepted
+[Tue Sep 17 11:23:59 2024] [::1]:60532 [200]: POST /receiver.php
+[Tue Sep 17 11:23:59 2024] [::1]:60532 Closing
+[Tue Sep 17 11:24:02 2024] [::1]:34824 Accepted
+[Tue Sep 17 11:24:02 2024] [::1]:34824 [200]: POST /receiver.php
+[Tue Sep 17 11:24:02 2024] [::1]:34824 Closing
+[Tue Sep 17 11:24:04 2024] [::1]:34830 Accepted
+[Tue Sep 17 11:24:04 2024] [::1]:34830 [200]: POST /receiver.php
+[Tue Sep 17 11:24:04 2024] [::1]:34830 Closing
+[Tue Sep 17 11:24:07 2024] [::1]:34844 Accepted
+[Tue Sep 17 11:24:07 2024] [::1]:34860 Accepted
+[Tue Sep 17 11:24:07 2024] [::1]:34860 [200]: POST /receiver.php
+[Tue Sep 17 11:24:07 2024] [::1]:34860 Closing
+[Tue Sep 17 11:24:07 2024] [::1]:34844 [200]: POST /receiver.php
+[Tue Sep 17 11:24:07 2024] [::1]:34844 Closing
+[Tue Sep 17 11:24:09 2024] [::1]:34870 Accepted
+[Tue Sep 17 11:24:09 2024] [::1]:34870 [200]: POST /receiver.php
+[Tue Sep 17 11:24:09 2024] [::1]:34870 Closing
+[Tue Sep 17 11:24:11 2024] [::1]:56402 Accepted
+[Tue Sep 17 11:24:11 2024] [::1]:56402 [200]: POST /receiver.php
+[Tue Sep 17 11:24:11 2024] [::1]:56402 Closing
+[Tue Sep 17 11:24:13 2024] [::1]:56406 Accepted
+[Tue Sep 17 11:24:13 2024] [::1]:56406 [200]: POST /receiver.php
+[Tue Sep 17 11:24:13 2024] [::1]:56406 Closing
+[Tue Sep 17 11:24:15 2024] [::1]:56410 Accepted
+[Tue Sep 17 11:24:15 2024] [::1]:56410 [200]: POST /receiver.php
+[Tue Sep 17 11:24:15 2024] [::1]:56410 Closing
+[Tue Sep 17 11:24:17 2024] [::1]:56420 Accepted
+[Tue Sep 17 11:24:17 2024] [::1]:56420 [200]: POST /receiver.php
+[Tue Sep 17 11:24:17 2024] [::1]:56420 Closing
+[Tue Sep 17 11:24:19 2024] [::1]:56426 Accepted
+[Tue Sep 17 11:24:19 2024] [::1]:56426 [200]: POST /receiver.php
+[Tue Sep 17 11:24:19 2024] [::1]:56426 Closing
+[Tue Sep 17 11:24:21 2024] [::1]:55716 Accepted
+[Tue Sep 17 11:24:21 2024] [::1]:55716 [200]: POST /receiver.php
+[Tue Sep 17 11:24:21 2024] [::1]:55716 Closing
+[Tue Sep 17 11:24:23 2024] [::1]:55720 Accepted
+[Tue Sep 17 11:24:23 2024] [::1]:55720 [200]: POST /receiver.php
+[Tue Sep 17 11:24:23 2024] [::1]:55720 Closing
+[Tue Sep 17 11:24:24 2024] [::1]:55722 Accepted
+[Tue Sep 17 11:24:24 2024] [::1]:55722 [200]: POST /receiver.php
+[Tue Sep 17 11:24:24 2024] [::1]:55722 Closing
+[Tue Sep 17 11:24:26 2024] [::1]:55732 Accepted
+[Tue Sep 17 11:24:26 2024] [::1]:55732 [200]: POST /receiver.php
+[Tue Sep 17 11:24:26 2024] [::1]:55732 Closing
+[Tue Sep 17 11:24:28 2024] [::1]:55734 Accepted
+[Tue Sep 17 11:24:28 2024] [::1]:55734 [200]: POST /receiver.php
+[Tue Sep 17 11:24:28 2024] [::1]:55734 Closing
+[Tue Sep 17 11:24:30 2024] [::1]:55750 Accepted
+[Tue Sep 17 11:24:30 2024] [::1]:55750 [200]: POST /receiver.php
+[Tue Sep 17 11:24:30 2024] [::1]:55750 Closing
+[Tue Sep 17 11:24:33 2024] [::1]:36374 Accepted
+[Tue Sep 17 11:24:33 2024] [::1]:36374 [200]: POST /receiver.php
+[Tue Sep 17 11:24:33 2024] [::1]:36374 Closing
+[Tue Sep 17 11:24:34 2024] [::1]:36388 Accepted
+[Tue Sep 17 11:24:34 2024] [::1]:36388 [200]: POST /receiver.php
+[Tue Sep 17 11:24:34 2024] [::1]:36388 Closing
+[Tue Sep 17 11:24:36 2024] [::1]:36400 Accepted
+[Tue Sep 17 11:24:36 2024] [::1]:36400 [200]: POST /receiver.php
+[Tue Sep 17 11:24:36 2024] [::1]:36400 Closing
+[Tue Sep 17 11:24:42 2024] [::1]:47722 Accepted
+[Tue Sep 17 11:24:42 2024] [::1]:47734 Accepted
+[Tue Sep 17 11:24:42 2024] [::1]:47722 [200]: POST /receiver.php
+[Tue Sep 17 11:24:42 2024] [::1]:47722 Closing
+[Tue Sep 17 11:24:42 2024] [::1]:47734 [200]: POST /receiver.php
+[Tue Sep 17 11:24:42 2024] [::1]:47734 Closing
+[Tue Sep 17 11:24:46 2024] [::1]:47748 Accepted
+[Tue Sep 17 11:24:46 2024] [::1]:47748 [200]: POST /receiver.php
+[Tue Sep 17 11:24:46 2024] [::1]:47748 Closing
+[Tue Sep 17 11:24:47 2024] [::1]:47754 Accepted
+[Tue Sep 17 11:24:47 2024] [::1]:47754 [200]: POST /receiver.php
+[Tue Sep 17 11:24:47 2024] [::1]:47754 Closing
+[Tue Sep 17 11:24:47 2024] [::1]:47760 Accepted
+[Tue Sep 17 11:24:47 2024] [::1]:47760 [200]: POST /receiver.php
+[Tue Sep 17 11:24:47 2024] [::1]:47760 Closing
+[Tue Sep 17 11:24:49 2024] [::1]:47768 Accepted
+[Tue Sep 17 11:24:49 2024] [::1]:47768 [200]: POST /receiver.php
+[Tue Sep 17 11:24:49 2024] [::1]:47768 Closing
+[Tue Sep 17 11:24:51 2024] [::1]:33100 Accepted
+[Tue Sep 17 11:24:51 2024] [::1]:33100 [200]: POST /receiver.php
+[Tue Sep 17 11:24:51 2024] [::1]:33100 Closing
+[Tue Sep 17 11:24:53 2024] [::1]:33104 Accepted
+[Tue Sep 17 11:24:53 2024] [::1]:33104 [200]: POST /receiver.php
+[Tue Sep 17 11:24:53 2024] [::1]:33104 Closing
+[Tue Sep 17 11:24:55 2024] [::1]:33110 Accepted
+[Tue Sep 17 11:24:55 2024] [::1]:33110 [200]: POST /receiver.php
+[Tue Sep 17 11:24:55 2024] [::1]:33110 Closing
+[Tue Sep 17 11:24:57 2024] [::1]:33124 Accepted
+[Tue Sep 17 11:24:57 2024] [::1]:33124 [200]: POST /receiver.php
+[Tue Sep 17 11:24:57 2024] [::1]:33124 Closing
+[Tue Sep 17 11:24:59 2024] [::1]:33138 Accepted
+[Tue Sep 17 11:24:59 2024] [::1]:33138 [200]: POST /receiver.php
+[Tue Sep 17 11:24:59 2024] [::1]:33138 Closing
+[Tue Sep 17 11:25:01 2024] [::1]:33144 Accepted
+[Tue Sep 17 11:25:01 2024] [::1]:33144 [200]: POST /receiver.php
+[Tue Sep 17 11:25:01 2024] [::1]:33144 Closing
+[Tue Sep 17 11:25:09 2024] [::1]:52742 Accepted
+[Tue Sep 17 11:25:09 2024] [::1]:52742 [200]: POST /receiver.php
+[Tue Sep 17 11:25:09 2024] [::1]:52742 Closing
+[Tue Sep 17 11:25:09 2024] [::1]:52756 Accepted
+[Tue Sep 17 11:25:09 2024] [::1]:52756 [200]: POST /receiver.php
+[Tue Sep 17 11:25:09 2024] [::1]:52756 Closing
+[Tue Sep 17 11:25:09 2024] [::1]:52766 Accepted
+[Tue Sep 17 11:25:09 2024] [::1]:52770 Accepted
+[Tue Sep 17 11:25:09 2024] [::1]:52766 [200]: POST /receiver.php
+[Tue Sep 17 11:25:09 2024] [::1]:52766 Closing
+[Tue Sep 17 11:25:09 2024] [::1]:52770 [200]: POST /receiver.php
+[Tue Sep 17 11:25:09 2024] [::1]:52770 Closing
+[Tue Sep 17 11:25:10 2024] [::1]:52774 Accepted
+[Tue Sep 17 11:25:10 2024] [::1]:52774 [200]: POST /receiver.php
+[Tue Sep 17 11:25:10 2024] [::1]:52774 Closing
+[Tue Sep 17 11:25:12 2024] [::1]:38354 Accepted
+[Tue Sep 17 11:25:12 2024] [::1]:38354 [200]: POST /receiver.php
+[Tue Sep 17 11:25:12 2024] [::1]:38354 Closing
+[Tue Sep 17 11:25:14 2024] [::1]:38370 Accepted
+[Tue Sep 17 11:25:14 2024] [::1]:38370 [200]: POST /receiver.php
+[Tue Sep 17 11:25:14 2024] [::1]:38370 Closing
+[Tue Sep 17 11:25:16 2024] [::1]:38382 Accepted
+[Tue Sep 17 11:25:16 2024] [::1]:38382 [200]: POST /receiver.php
+[Tue Sep 17 11:25:16 2024] [::1]:38382 Closing
+[Tue Sep 17 11:25:18 2024] [::1]:38394 Accepted
+[Tue Sep 17 11:25:18 2024] [::1]:38394 [200]: POST /receiver.php
+[Tue Sep 17 11:25:18 2024] [::1]:38394 Closing
+[Tue Sep 17 11:25:20 2024] [::1]:38410 Accepted
+[Tue Sep 17 11:25:20 2024] [::1]:38410 [200]: POST /receiver.php
+[Tue Sep 17 11:25:20 2024] [::1]:38410 Closing
+[Tue Sep 17 11:25:23 2024] [::1]:41296 Accepted
+[Tue Sep 17 11:25:23 2024] [::1]:41296 [200]: POST /receiver.php
+[Tue Sep 17 11:25:23 2024] [::1]:41296 Closing
+[Tue Sep 17 11:25:25 2024] [::1]:41298 Accepted
+[Tue Sep 17 11:25:25 2024] [::1]:41298 [200]: POST /receiver.php
+[Tue Sep 17 11:25:25 2024] [::1]:41298 Closing
+[Tue Sep 17 11:25:27 2024] [::1]:41304 Accepted
+[Tue Sep 17 11:25:27 2024] [::1]:41304 [200]: POST /receiver.php
+[Tue Sep 17 11:25:27 2024] [::1]:41304 Closing
+[Tue Sep 17 11:25:30 2024] [::1]:41320 Accepted
+[Tue Sep 17 11:25:30 2024] [::1]:41320 [200]: POST /receiver.php
+[Tue Sep 17 11:25:30 2024] [::1]:41320 Closing
+[Tue Sep 17 11:25:33 2024] [::1]:38560 Accepted
+[Tue Sep 17 11:25:33 2024] [::1]:38560 [200]: POST /receiver.php
+[Tue Sep 17 11:25:33 2024] [::1]:38560 Closing
+[Tue Sep 17 11:25:34 2024] [::1]:38570 Accepted
+[Tue Sep 17 11:25:34 2024] [::1]:38570 [200]: POST /receiver.php
+[Tue Sep 17 11:25:34 2024] [::1]:38570 Closing
+[Tue Sep 17 11:25:35 2024] [::1]:38572 Accepted
+[Tue Sep 17 11:25:35 2024] [::1]:38572 [200]: POST /receiver.php
+[Tue Sep 17 11:25:35 2024] [::1]:38572 Closing
+[Tue Sep 17 11:25:36 2024] [::1]:38582 Accepted
+[Tue Sep 17 11:25:36 2024] [::1]:38582 [200]: POST /receiver.php
+[Tue Sep 17 11:25:36 2024] [::1]:38582 Closing
+[Tue Sep 17 11:25:39 2024] [::1]:38598 Accepted
+[Tue Sep 17 11:25:39 2024] [::1]:38598 [200]: POST /receiver.php
+[Tue Sep 17 11:25:39 2024] [::1]:38598 Closing
+[Tue Sep 17 11:25:41 2024] [::1]:45510 Accepted
+[Tue Sep 17 11:25:41 2024] [::1]:45510 [200]: POST /receiver.php
+[Tue Sep 17 11:25:41 2024] [::1]:45510 Closing
+[Tue Sep 17 11:25:43 2024] [::1]:45524 Accepted
+[Tue Sep 17 11:25:43 2024] [::1]:45524 [200]: POST /receiver.php
+[Tue Sep 17 11:25:43 2024] [::1]:45524 Closing
+[Tue Sep 17 11:25:45 2024] [::1]:45536 Accepted
+[Tue Sep 17 11:25:45 2024] [::1]:45536 [200]: POST /receiver.php
+[Tue Sep 17 11:25:45 2024] [::1]:45536 Closing
+[Tue Sep 17 11:25:47 2024] [::1]:45550 Accepted
+[Tue Sep 17 11:25:47 2024] [::1]:45550 [200]: POST /receiver.php
+[Tue Sep 17 11:25:47 2024] [::1]:45550 Closing
+[Tue Sep 17 11:25:49 2024] [::1]:45556 Accepted
+[Tue Sep 17 11:25:49 2024] [::1]:45556 [200]: POST /receiver.php
+[Tue Sep 17 11:25:49 2024] [::1]:45556 Closing
+[Tue Sep 17 11:25:51 2024] [::1]:45570 Accepted
+[Tue Sep 17 11:25:52 2024] [::1]:45570 [200]: POST /receiver.php
+[Tue Sep 17 11:25:52 2024] [::1]:45570 Closing
+[Tue Sep 17 11:25:52 2024] [::1]:35582 Accepted
+[Tue Sep 17 11:25:52 2024] [::1]:35582 [200]: POST /receiver.php
+[Tue Sep 17 11:25:52 2024] [::1]:35582 Closing
+[Tue Sep 17 11:25:55 2024] [::1]:35590 Accepted
+[Tue Sep 17 11:25:55 2024] [::1]:35590 [200]: POST /receiver.php
+[Tue Sep 17 11:25:55 2024] [::1]:35590 Closing
+[Tue Sep 17 11:25:57 2024] [::1]:35598 Accepted
+[Tue Sep 17 11:25:57 2024] [::1]:35598 [200]: POST /receiver.php
+[Tue Sep 17 11:25:57 2024] [::1]:35598 Closing
+[Tue Sep 17 11:25:59 2024] [::1]:35608 Accepted
+[Tue Sep 17 11:25:59 2024] [::1]:35608 [200]: POST /receiver.php
+[Tue Sep 17 11:25:59 2024] [::1]:35608 Closing
+[Tue Sep 17 11:26:04 2024] [::1]:42314 Accepted
+[Tue Sep 17 11:26:04 2024] [::1]:42314 [200]: POST /receiver.php
+[Tue Sep 17 11:26:04 2024] [::1]:42314 Closing
+[Tue Sep 17 11:26:05 2024] [::1]:42330 Accepted
+[Tue Sep 17 11:26:05 2024] [::1]:42338 Accepted
+[Tue Sep 17 11:26:05 2024] [::1]:42330 [200]: POST /receiver.php
+[Tue Sep 17 11:26:05 2024] [::1]:42330 Closing
+[Tue Sep 17 11:26:05 2024] [::1]:42338 [200]: POST /receiver.php
+[Tue Sep 17 11:26:05 2024] [::1]:42338 Closing
+[Tue Sep 17 11:26:06 2024] [::1]:42350 Accepted
+[Tue Sep 17 11:26:06 2024] [::1]:42350 [200]: POST /receiver.php
+[Tue Sep 17 11:26:06 2024] [::1]:42350 Closing
+[Tue Sep 17 11:26:09 2024] [::1]:42364 Accepted
+[Tue Sep 17 11:26:09 2024] [::1]:42364 [200]: POST /receiver.php
+[Tue Sep 17 11:26:09 2024] [::1]:42364 Closing
+[Tue Sep 17 11:26:10 2024] [::1]:42366 Accepted
+[Tue Sep 17 11:26:10 2024] [::1]:42366 [200]: POST /receiver.php
+[Tue Sep 17 11:26:10 2024] [::1]:42366 Closing
+[Tue Sep 17 11:26:12 2024] [::1]:33368 Accepted
+[Tue Sep 17 11:26:12 2024] [::1]:33368 [200]: POST /receiver.php
+[Tue Sep 17 11:26:12 2024] [::1]:33368 Closing
+[Tue Sep 17 11:26:14 2024] [::1]:33378 Accepted
+[Tue Sep 17 11:26:14 2024] [::1]:33378 [200]: POST /receiver.php
+[Tue Sep 17 11:26:14 2024] [::1]:33378 Closing
+[Tue Sep 17 11:26:16 2024] [::1]:33390 Accepted
+[Tue Sep 17 11:26:16 2024] [::1]:33390 [200]: POST /receiver.php
+[Tue Sep 17 11:26:16 2024] [::1]:33390 Closing
+[Tue Sep 17 11:26:18 2024] [::1]:33400 Accepted
+[Tue Sep 17 11:26:18 2024] [::1]:33400 [200]: POST /receiver.php
+[Tue Sep 17 11:26:18 2024] [::1]:33400 Closing
+[Tue Sep 17 11:26:20 2024] [::1]:33414 Accepted
+[Tue Sep 17 11:26:20 2024] [::1]:33414 [200]: POST /receiver.php
+[Tue Sep 17 11:26:20 2024] [::1]:33414 Closing
+[Tue Sep 17 11:26:25 2024] [::1]:41266 Accepted
+[Tue Sep 17 11:26:25 2024] [::1]:41266 [200]: POST /receiver.php
+[Tue Sep 17 11:26:25 2024] [::1]:41266 Closing
+[Tue Sep 17 11:26:26 2024] [::1]:41272 Accepted
+[Tue Sep 17 11:26:26 2024] [::1]:41272 [200]: POST /receiver.php
+[Tue Sep 17 11:26:26 2024] [::1]:41272 Closing
+[Tue Sep 17 11:26:28 2024] [::1]:41282 Accepted
+[Tue Sep 17 11:26:28 2024] [::1]:41282 [200]: POST /receiver.php
+[Tue Sep 17 11:26:28 2024] [::1]:41282 Closing
+[Tue Sep 17 11:26:29 2024] [::1]:41288 Accepted
+[Tue Sep 17 11:26:29 2024] [::1]:41288 [200]: POST /receiver.php
+[Tue Sep 17 11:26:29 2024] [::1]:41288 Closing
+[Tue Sep 17 11:26:32 2024] [::1]:51350 Accepted
+[Tue Sep 17 11:26:32 2024] [::1]:51350 [200]: POST /receiver.php
+[Tue Sep 17 11:26:32 2024] [::1]:51350 Closing
+[Tue Sep 17 11:26:33 2024] [::1]:51362 Accepted
+[Tue Sep 17 11:26:33 2024] [::1]:51362 [200]: POST /receiver.php
+[Tue Sep 17 11:26:33 2024] [::1]:51362 Closing
+[Tue Sep 17 11:26:34 2024] [::1]:51378 Accepted
+[Tue Sep 17 11:26:35 2024] [::1]:51378 [200]: POST /receiver.php
+[Tue Sep 17 11:26:35 2024] [::1]:51378 Closing
+[Tue Sep 17 11:26:36 2024] [::1]:51386 Accepted
+[Tue Sep 17 11:26:37 2024] [::1]:51386 [200]: POST /receiver.php
+[Tue Sep 17 11:26:37 2024] [::1]:51386 Closing
+[Tue Sep 17 11:26:39 2024] [::1]:51394 Accepted
+[Tue Sep 17 11:26:39 2024] [::1]:51394 [200]: POST /receiver.php
+[Tue Sep 17 11:26:39 2024] [::1]:51394 Closing
+[Tue Sep 17 11:26:41 2024] [::1]:57110 Accepted
+[Tue Sep 17 11:26:41 2024] [::1]:57110 [200]: POST /receiver.php
+[Tue Sep 17 11:26:41 2024] [::1]:57110 Closing
+[Tue Sep 17 11:26:43 2024] [::1]:57122 Accepted
+[Tue Sep 17 11:26:43 2024] [::1]:57122 [200]: POST /receiver.php
+[Tue Sep 17 11:26:43 2024] [::1]:57122 Closing
+[Tue Sep 17 11:26:45 2024] [::1]:57138 Accepted
+[Tue Sep 17 11:26:45 2024] [::1]:57138 [200]: POST /receiver.php
+[Tue Sep 17 11:26:45 2024] [::1]:57138 Closing
+[Tue Sep 17 11:26:47 2024] [::1]:57140 Accepted
+[Tue Sep 17 11:26:47 2024] [::1]:57140 [200]: POST /receiver.php
+[Tue Sep 17 11:26:47 2024] [::1]:57140 Closing
+[Tue Sep 17 11:26:49 2024] [::1]:57144 Accepted
+[Tue Sep 17 11:26:49 2024] [::1]:57144 [200]: POST /receiver.php
+[Tue Sep 17 11:26:49 2024] [::1]:57144 Closing
+[Tue Sep 17 11:26:52 2024] [::1]:49372 Accepted
+[Tue Sep 17 11:26:52 2024] [::1]:49372 [200]: POST /receiver.php
+[Tue Sep 17 11:26:52 2024] [::1]:49372 Closing
+[Tue Sep 17 11:26:54 2024] [::1]:49386 Accepted
+[Tue Sep 17 11:26:54 2024] [::1]:49386 [200]: POST /receiver.php
+[Tue Sep 17 11:26:54 2024] [::1]:49386 Closing
+[Tue Sep 17 11:26:55 2024] [::1]:49398 Accepted
+[Tue Sep 17 11:26:55 2024] [::1]:49398 [200]: POST /receiver.php
+[Tue Sep 17 11:26:55 2024] [::1]:49398 Closing
+[Tue Sep 17 11:26:56 2024] [::1]:49408 Accepted
+[Tue Sep 17 11:26:56 2024] [::1]:49408 [200]: POST /receiver.php
+[Tue Sep 17 11:26:56 2024] [::1]:49408 Closing
+[Tue Sep 17 11:26:58 2024] [::1]:49412 Accepted
+[Tue Sep 17 11:26:58 2024] [::1]:49412 [200]: POST /receiver.php
+[Tue Sep 17 11:26:58 2024] [::1]:49412 Closing
+[Tue Sep 17 11:27:00 2024] [::1]:49414 Accepted
+[Tue Sep 17 11:27:00 2024] [::1]:49414 [200]: POST /receiver.php
+[Tue Sep 17 11:27:00 2024] [::1]:49414 Closing
+[Tue Sep 17 11:27:02 2024] [::1]:59732 Accepted
+[Tue Sep 17 11:27:02 2024] [::1]:59732 [200]: POST /receiver.php
+[Tue Sep 17 11:27:02 2024] [::1]:59732 Closing
+[Tue Sep 17 11:27:04 2024] [::1]:59738 Accepted
+[Tue Sep 17 11:27:04 2024] [::1]:59738 [200]: POST /receiver.php
+[Tue Sep 17 11:27:04 2024] [::1]:59738 Closing
+[Tue Sep 17 11:27:06 2024] [::1]:59750 Accepted
+[Tue Sep 17 11:27:06 2024] [::1]:59750 [200]: POST /receiver.php
+[Tue Sep 17 11:27:06 2024] [::1]:59750 Closing
+[Tue Sep 17 11:27:09 2024] [::1]:59756 Accepted
+[Tue Sep 17 11:27:09 2024] [::1]:59756 [200]: POST /receiver.php
+[Tue Sep 17 11:27:09 2024] [::1]:59756 Closing
