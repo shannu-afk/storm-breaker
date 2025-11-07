@@ -1,4 +1,4 @@
-# Storm Breaker — Educational / Lab Tool (Python) — CONSENT ONLY
+# Storm Breaker — Educational (Python) — CONSENT ONLY
 
 > **READ THIS FIRST — LEGAL & ETHICAL WARNING**  
 > This repository and instructions are for **educational, defensive, and lab testing** purposes **only**, on machines and networks you own or where you have **explicit, written permission** to test.  
